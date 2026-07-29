@@ -1,0 +1,412 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 9552,
+      "title": "The Exorcist",
+      "original_language": "en",
+      "original_title": "The Exorcist",
+      "overview": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+      "popularity": 14.9083,
+      "poster_path": "/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+      "release_date": "1973-12-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.746,
+      "vote_count": 8742
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3WeFPoPVIGgMumjgLn0EPIfq53A.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12
+      ],
+      "id": 11886,
+      "title": "Robin Hood",
+      "original_language": "en",
+      "original_title": "Robin Hood",
+      "overview": "With King Richard off to the Crusades, Prince John and his slithering minion, Sir Hiss, set about taxing Nottingham's citizens with support from the corrupt sheriff - and staunch opposition by the wily Robin Hood and his band of merry men.",
+      "popularity": 6.3766,
+      "poster_path": "/x9AvkYek0bGdxQSZ8W3lAjGrREm.jpg",
+      "release_date": "1973-11-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.31,
+      "vote_count": 4686
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1r9lH3DaSWKGyvZaoo6BF5STOk5.jpg",
+      "genre_ids": [
+        35,
+        80,
+        18
+      ],
+      "id": 9277,
+      "title": "The Sting",
+      "original_language": "en",
+      "original_title": "The Sting",
+      "overview": "A novice con man teams up with an acknowledged master to avenge the murder of a mutual friend by pulling off the ultimate big con and swindling a fortune from a big-time mobster.",
+      "popularity": 6.9502,
+      "poster_path": "/ckmYng37zey8INYf6d10cVgIG93.jpg",
+      "release_date": "1973-12-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 3024
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hzmmXx6UeYQeylioNbliFKjSbV7.jpg",
+      "genre_ids": [
+        12,
+        28,
+        53
+      ],
+      "id": 253,
+      "title": "Live and Let Die",
+      "original_language": "en",
+      "original_title": "Live and Let Die",
+      "overview": "James Bond must investigate a mysterious murder case of a British agent in New Orleans. Soon he finds himself up against a gangster boss named Mr. Big.",
+      "popularity": 8.511,
+      "poster_path": "/39qkrjqMZs6utwNmihVImC3ghas.jpg",
+      "release_date": "1973-06-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.506,
+      "vote_count": 2325
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qdecDSIVoqctIoYoOhLH3TgSYLD.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 203,
+      "title": "Mean Streets",
+      "original_language": "en",
+      "original_title": "Mean Streets",
+      "overview": "A small-time hood must choose from among love, friendship and the chance to rise within the mob.",
+      "popularity": 3.4523,
+      "poster_path": "/9msfwOeGc9uL1iRRTBdEf15XonC.jpg",
+      "release_date": "1973-10-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 2317
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dXlO2Ri2RvVYWRtBsr6GsIVkleX.jpg",
+      "genre_ids": [
+        80,
+        18,
+        36
+      ],
+      "id": 9040,
+      "title": "Serpico",
+      "original_language": "en",
+      "original_title": "Serpico",
+      "overview": "New York cop Frank Serpico blows the whistle on the rampant corruption in the force only to have his comrades turn against him.",
+      "popularity": 3.2513,
+      "poster_path": "/pRagfd10PPWryFRSzLPIivfAXHJ.jpg",
+      "release_date": "1973-12-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.526,
+      "vote_count": 2216
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fmd17jnQxHanXC6wqqXRLocm60O.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 5924,
+      "title": "Papillon",
+      "original_language": "en",
+      "original_title": "Papillon",
+      "overview": "A man befriends a fellow criminal as the two of them begin serving their sentence on a dreadful prison island, which inspires the man to plot his escape.",
+      "popularity": 4.0132,
+      "poster_path": "/356oqQpug682OERsWV0bGZ0YxwQ.jpg",
+      "release_date": "1973-12-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.829,
+      "vote_count": 2143
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ugfBioco0L7qNvwq0d0Pl0AL8SL.jpg",
+      "genre_ids": [
+        28
+      ],
+      "id": 9461,
+      "title": "Enter the Dragon",
+      "original_language": "en",
+      "original_title": "Enter the Dragon",
+      "overview": "A martial artist agrees to spy on a reclusive crime lord using his invitation to a tournament there as cover.",
+      "popularity": 6.7646,
+      "poster_path": "/fyrh2ULEcmLpGTVLPQqFW45hqr5.jpg",
+      "release_date": "1973-08-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.424,
+      "vote_count": 2119
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fK5OHX7OIl57UqAbPiM4F3hc9wr.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 16307,
+      "title": "The Wicker Man",
+      "original_language": "en",
+      "original_title": "The Wicker Man",
+      "overview": "Police sergeant Neil Howie is called to an island village in search of a missing girl whom the locals claim never existed. The investigation is further complicated as Howie’s religious views clash with those of the island’s residents.",
+      "popularity": 5.804,
+      "poster_path": "/wwtrXRL8SiOWxhwLEvw7iBgYh0g.jpg",
+      "release_date": "1973-12-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.333,
+      "vote_count": 1669
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xdofxnT2FADbSFOJflOTLnCoZe9.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 838,
+      "title": "American Graffiti",
+      "original_language": "en",
+      "original_title": "American Graffiti",
+      "overview": "A couple of high school graduates spend one final night cruising the strip with their buddies before they go off to college.",
+      "popularity": 3.3352,
+      "poster_path": "/1tjLivPad2PX8FAzWko7FPIb8d2.jpg",
+      "release_date": "1973-08-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.042,
+      "vote_count": 1602
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/m9K8LWrIuujCvYW9c7SgIOSOOj1.jpg",
+      "genre_ids": [
+        12,
+        878,
+        37
+      ],
+      "id": 2362,
+      "title": "Westworld",
+      "original_language": "en",
+      "original_title": "Westworld",
+      "overview": "Delos is a futuristic amusement park that features themed worlds populated by human-like androids. After two patrons have a run-in with a menacing gunslinger in West World, the androids at Delos all begin to malfunction, causing havoc throughout the park.",
+      "popularity": 4.6726,
+      "poster_path": "/qNt29HzxwZ4jGTgSRxdA34ino9Q.jpg",
+      "release_date": "1973-08-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.781,
+      "vote_count": 1477
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/m8NHyJklrrg4DxvgSQRLdZQQZNZ.jpg",
+      "genre_ids": [
+        878,
+        80,
+        9648
+      ],
+      "id": 12101,
+      "title": "Soylent Green",
+      "original_language": "en",
+      "original_title": "Soylent Green",
+      "overview": "In the year 2022, overcrowding, pollution,  and resource depletion have reduced society’s leaders to finding food for the teeming masses. The answer is Soylent Green.",
+      "popularity": 4.7861,
+      "poster_path": "/5nbkShkOEXUoKVhaX0XG41wyBkq.jpg",
+      "release_date": "1973-04-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.931,
+      "vote_count": 1446
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/teLJilYBEdBiCNwPuiJaJT0p7i8.jpg",
+      "genre_ids": [
+        37,
+        18,
+        9648
+      ],
+      "id": 11901,
+      "title": "High Plains Drifter",
+      "original_language": "en",
+      "original_title": "High Plains Drifter",
+      "overview": "A gunfighting stranger comes to the small settlement of Lago. After gunning down three gunmen who tried to kill him, the townsfolk decide to hire the Stranger to hold off three outlaws who are on their way.",
+      "popularity": 4.1787,
+      "poster_path": "/AjkJCFkqanK1OZqiHxc6Kl2wPQO.jpg",
+      "release_date": "1973-04-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.327,
+      "vote_count": 1359
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iFQzlUmO5QmMPcSHHDdfd522x33.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 7857,
+      "title": "Amarcord",
+      "original_language": "it",
+      "original_title": "Amarcord",
+      "overview": "In an Italian seaside town, young Titta gets into trouble with his friends and watches various local eccentrics as they engage in often absurd behavior. Frequently clashing with his stern father and defended by his doting mother, Titta witnesses the actions of a wide range of characters, from his extended family to Fascist loyalists to sensual women, with certain moments shifting into fantastical scenarios.",
+      "popularity": 2.5363,
+      "poster_path": "/kS7i093sQpkLTawUEdgf4HVOHSc.jpg",
+      "release_date": "1973-12-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.872,
+      "vote_count": 1225
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7QPcmXePg5U4hmUzugFPX44ntxK.jpg",
+      "genre_ids": [
+        18,
+        80,
+        28
+      ],
+      "id": 10648,
+      "title": "Magnum Force",
+      "original_language": "en",
+      "original_title": "Magnum Force",
+      "overview": "\"Dirty\" Harry Callahan is a San Francisco Police Inspector on the trail of a group of rogue cops who have taken justice into their own hands. When shady characters are murdered one after another in grisly fashion, only Dirty Harry can stop them.",
+      "popularity": 3.472,
+      "poster_path": "/1uX1uzn09seCftG3rTGLPyFXxV6.jpg",
+      "release_date": "1973-12-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.114,
+      "vote_count": 1221
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8qi3gplNf48uLZnne09iiL4OvFG.jpg",
+      "genre_ids": [
+        53,
+        18,
+        27
+      ],
+      "id": 931,
+      "title": "Don't Look Now",
+      "original_language": "en",
+      "original_title": "Don't Look Now",
+      "overview": "While grieving a terrible loss, a married couple meet two mysterious sisters, one of whom gives them a message sent from the afterlife.",
+      "popularity": 3.2726,
+      "poster_path": "/ivWsU3QtcstImCTOjItsH0SAbNn.jpg",
+      "release_date": "1973-10-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.923,
+      "vote_count": 1199
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AwrqoanoZVYoc0MRyE0RiHEKm71.jpg",
+      "genre_ids": [
+        16,
+        878
+      ],
+      "id": 16306,
+      "title": "Fantastic Planet",
+      "original_language": "fr",
+      "original_title": "La Planète sauvage",
+      "overview": "On the planet Ygam, the Draags, extremely technologically and spiritually advanced blue humanoids, consider the tiny Oms, human beings descendants of Terra's inhabitants, as ignorant animals. Those who live in slavery are treated as simple pets and used to entertain Draag children; those who live hidden in the hostile wilderness of the planet are periodically hunted and ruthlessly slaughtered as if they were vermin.",
+      "popularity": 2.2097,
+      "poster_path": "/prq0j1S0K07UjwLZLF6oMGflRUI.jpg",
+      "release_date": "1973-12-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.635,
+      "vote_count": 1115
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3ap6vhJN7q87mziDP6EltPGQ0hW.jpg",
+      "genre_ids": [
+        28,
+        878
+      ],
+      "id": 1705,
+      "title": "Battle for the Planet of the Apes",
+      "original_language": "en",
+      "original_title": "Battle for the Planet of the Apes",
+      "overview": "The fifth and final episode in the Planet of the Apes series. After the collapse of human civilization, a community of intelligent apes led by Caesar lives in harmony with a group of humans. Gorilla General Aldo tries to cause an ape civil war and a community of human mutants who live beneath a destroyed city try to conquer those whom they perceive as enemies. All leading to the finale.",
+      "popularity": 2.8295,
+      "poster_path": "/dP5dYjLp5p2CG103cJMio4Nj29d.jpg",
+      "release_date": "1973-06-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.682,
+      "vote_count": 1079
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4II0fdNtTMR0elrMgQSn9wfYuuk.jpg",
+      "genre_ids": [
+        35,
+        37
+      ],
+      "id": 9474,
+      "title": "My Name Is Nobody",
+      "original_language": "it",
+      "original_title": "Il mio nome è Nessuno",
+      "overview": "Jack Beauregard, an aging gunman of the Old West, only wants to retire in peace and move to Europe, but a young gunfighter known as \"Nobody\" who idolizes Beauregard wants him to go out in a blaze of glory. So, he arranges for Jack to face the 150-man gang known as The Wild Bunch and earn his place in history.",
+      "popularity": 3.3493,
+      "poster_path": "/tJQEVI1p00Jh9TUgNEI623iu7ST.jpg",
+      "release_date": "1973-12-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.272,
+      "vote_count": 1069
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4VgyburZo88ocO1aSRFm0i5H5VX.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 760,
+      "title": "The Mad Adventures of Rabbi Jacob",
+      "original_language": "fr",
+      "original_title": "Les Aventures de Rabbi Jacob",
+      "overview": "In this riot of frantic disguises and mistaken identities, Victor Pivert, a blustering, bigoted French factory owner, finds himself taken hostage by Slimane, an Arab rebel leader. The two dress up as rabbis as they try to elude not only assasins from Slimane's country, but also the police, who think Pivert is a murderer. Pivert ends up posing as Rabbi Jacob, a beloved figure who's returned to France for his first visit after 30 years in the United States. Adding to the confusion are Pivert's dentist-wife, who thinks her husband is leaving her for another woman, their daughter, who's about to get married, and a Parisian neighborhood filled with people eager to celebrate the return of Rabbi Jacob.",
+      "popularity": 2.921,
+      "poster_path": "/oYuCFxS2BGCHNGuv9No0GoP2DZf.jpg",
+      "release_date": "1973-10-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.378,
+      "vote_count": 1068
+    }
+  ],
+  "total_pages": 5,
+  "total_results": 92
+}

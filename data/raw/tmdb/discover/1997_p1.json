@@ -1,0 +1,427 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 597,
+      "title": "Titanic",
+      "original_language": "en",
+      "original_title": "Titanic",
+      "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
+      "popularity": 42.0229,
+      "poster_path": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "release_date": "1997-12-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 27417
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/o9puyKpayQoX8ikIaYtf2PfKv3.jpg",
+      "genre_ids": [
+        28,
+        12,
+        35,
+        878
+      ],
+      "id": 607,
+      "title": "Men in Black",
+      "original_language": "en",
+      "original_title": "Men in Black",
+      "overview": "After a police chase with an otherworldly being, a New York City cop is recruited as an agent in a top-secret organization established to monitor and police alien activity on Earth: the Men in Black. Agent K and new recruit Agent J find themselves in the middle of a deadly plot by an intergalactic terrorist who has arrived on Earth to assassinate two ambassadors from opposing galaxies.",
+      "popularity": 15.0988,
+      "poster_path": "/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",
+      "release_date": "1997-07-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.226,
+      "vote_count": 14983
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6aNKD81RHR1DqUUa8kOZ1TBY1Lp.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 637,
+      "title": "Life Is Beautiful",
+      "original_language": "it",
+      "original_title": "La vita è bella",
+      "overview": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
+      "popularity": 18.8768,
+      "poster_path": "/74hLDKjD5aGYOotO6esUVaeISa2.jpg",
+      "release_date": "1997-12-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.439,
+      "vote_count": 14100
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xj1Sv1xm4Y0ydBueGuf10Y9qM0O.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 489,
+      "title": "Good Will Hunting",
+      "original_language": "en",
+      "original_title": "Good Will Hunting",
+      "overview": "Will Hunting is a headstrong, working-class genius who is failing the lessons of life. After one too many run-ins with the law, Will's last chance is a psychology professor, who might be the only man who can reach him.",
+      "popularity": 29.7273,
+      "poster_path": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+      "release_date": "1997-12-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.162,
+      "vote_count": 14038
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jW21PoKwqs79wk6bfiYezox63mK.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 18,
+      "title": "The Fifth Element",
+      "original_language": "fr",
+      "original_title": "Le Cinquième Élément",
+      "overview": "In 2257, a taxi driver is unintentionally given the task of saving a young girl who is part of the key that will ensure the survival of humanity.",
+      "popularity": 24.058,
+      "poster_path": "/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg",
+      "release_date": "1997-05-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.586,
+      "vote_count": 11918
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/A4rYaPdzgocCjQ0n9LUSYUxyvpS.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "id": 330,
+      "title": "The Lost World: Jurassic Park",
+      "original_language": "en",
+      "original_title": "The Lost World: Jurassic Park",
+      "overview": "Four years after Jurassic Park's genetically bred dinosaurs ran amok, multimillionaire John Hammond shocks chaos theorist Ian Malcolm by revealing that he has been breeding more beasties at a secret location. Malcolm, his paleontologist ladylove and a wildlife videographer join an expedition to document the lethal lizards' natural behavior in this action-packed thriller.",
+      "popularity": 0.6868,
+      "poster_path": "/ss6cqHQc72eCsXrvne11XVZs3bR.jpg",
+      "release_date": "1997-05-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.568,
+      "vote_count": 9338
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
+      "genre_ids": [
+        12,
+        14,
+        16
+      ],
+      "id": 128,
+      "title": "Princess Mononoke",
+      "original_language": "ja",
+      "original_title": "もののけ姫",
+      "overview": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+      "popularity": 17.2564,
+      "poster_path": "/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+      "release_date": "1997-07-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.322,
+      "vote_count": 9128
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oG9dcGSSu13fjFp1Uly15ZXjRKV.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14,
+        12,
+        35,
+        10749
+      ],
+      "id": 11970,
+      "title": "Hercules",
+      "original_language": "en",
+      "original_title": "Hercules",
+      "overview": "Bestowed with superhuman strength, a young mortal named Hercules sets out to prove himself a hero in the eyes of his father, the great god Zeus. Along with his friends Pegasus, a flying horse, and Phil, a personal trainer, Hercules is tricked by the hilarious, hotheaded villain Hades, who's plotting to take over Mount Olympus!",
+      "popularity": 12.8,
+      "poster_path": "/dK9rNoC97tgX3xXg5zdxFisdfcp.jpg",
+      "release_date": "1997-06-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.498,
+      "vote_count": 8006
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k7GM13qRYSour3lk90Dq1EwdpoW.jpg",
+      "genre_ids": [
+        18,
+        53,
+        9648
+      ],
+      "id": 2649,
+      "title": "The Game",
+      "original_language": "en",
+      "original_title": "The Game",
+      "overview": "In honor of his birthday, San Francisco banker Nicholas Van Orton, a financial genius and a cold-hearted loner, receives an unusual present from his younger brother, Conrad: a gift certificate to play a unique kind of game. In nary a nanosecond, Nicholas finds himself consumed by a dangerous set of ever-changing rules, unable to distinguish where the charade ends and reality begins.",
+      "popularity": 12.0918,
+      "poster_path": "/4UOa079915QjiTA2u5hT2yKVgUu.jpg",
+      "release_date": "1997-09-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.576,
+      "vote_count": 7436
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gvaeY5kz3wHrMU6xLdnybziwYXw.jpg",
+      "genre_ids": [
+        80,
+        18,
+        53
+      ],
+      "id": 184,
+      "title": "Jackie Brown",
+      "original_language": "en",
+      "original_title": "Jackie Brown",
+      "overview": "Jackie Brown is a flight attendant who gets caught in the middle of smuggling cash into the country for her gunrunner boss. When the cops try to use Jackie to get to her boss, she hatches a plan — with help from a bail bondsman — to keep the money for herself.",
+      "popularity": 8.0599,
+      "poster_path": "/rOUx7qg4KmEh1juEDwqzbDSL1Nr.jpg",
+      "release_date": "1997-12-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.357,
+      "vote_count": 7010
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hPsCR1ny6GnctJkWqeJwihTDD7T.jpg",
+      "genre_ids": [
+        878,
+        18
+      ],
+      "id": 782,
+      "title": "Gattaca",
+      "original_language": "en",
+      "original_title": "Gattaca",
+      "overview": "Vincent is an all-too-human man who dares to defy a system obsessed with genetic perfection. He is an \"In-Valid\" who assumes the identity of a member of the genetic elite to pursue his goal of traveling into space with the Gattaca Aerospace Corporation.",
+      "popularity": 8.7667,
+      "poster_path": "/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg",
+      "release_date": "1997-07-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.568,
+      "vote_count": 7003
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2Y6Q7eYDXoolcHjYCAyJQlE2CVT.jpg",
+      "genre_ids": [
+        27,
+        18,
+        9648
+      ],
+      "id": 1813,
+      "title": "The Devil's Advocate",
+      "original_language": "en",
+      "original_title": "The Devil's Advocate",
+      "overview": "Aspiring Florida defense lawyer Kevin Lomax accepts a job at a New York law firm. With the stakes getting higher every case, Kevin quickly learns that his boss has something far more evil planned.",
+      "popularity": 13.1308,
+      "poster_path": "/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg",
+      "release_date": "1997-10-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.48,
+      "vote_count": 6906
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nuDMG0uTaiWFVD6XfHPruum5JOL.jpg",
+      "genre_ids": [
+        35,
+        14
+      ],
+      "id": 1624,
+      "title": "Liar Liar",
+      "original_language": "en",
+      "original_title": "Liar Liar",
+      "overview": "Forced by his son's birthday wish, fast-talking attorney and habitual liar Fletcher Reede must tell the truth for the next 24 hours.",
+      "popularity": 7.7708,
+      "poster_path": "/p1habYSdC7oD3WygQ5lynU5G5rV.jpg",
+      "release_date": "1997-03-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.715,
+      "vote_count": 6297
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tsSWHgaFlzzkp3o976juBZbmcs2.jpg",
+      "genre_ids": [
+        28,
+        80,
+        878
+      ],
+      "id": 754,
+      "title": "Face/Off",
+      "original_language": "en",
+      "original_title": "Face/Off",
+      "overview": "In order to foil a terrorist plot, an FBI agent undergoes facial transplant surgery and assumes the identity of a criminal mastermind. The plan turns sour when the criminal wakes up prematurely and seeks revenge.",
+      "popularity": 14.0843,
+      "poster_path": "/69Xzn8UdPbVnmqSChKz2RTpoNfB.jpg",
+      "release_date": "1997-06-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.059,
+      "vote_count": 5988
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/h6VshReCGaGQoaGZwT2wqiqrcZW.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14,
+        12
+      ],
+      "id": 9444,
+      "title": "Anastasia",
+      "original_language": "en",
+      "original_title": "Anastasia",
+      "overview": "Ten years after she was separated from her family, an eighteen-year-old orphan with vague memories of the past sets out to Paris in hopes of reuniting with her grandmother. She is accompanied by two con men, who intend to pass her off as the Grand Duchess Anastasia to the Dowager Empress for a reward.",
+      "popularity": 7.6877,
+      "poster_path": "/bppGWGA8zq1sRvTdDJnUzVW9GcH.jpg",
+      "release_date": "1997-11-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.607,
+      "vote_count": 5651
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zQI8yxl61JTpjCB3MrTbcQBOT82.jpg",
+      "genre_ids": [
+        878,
+        27,
+        28
+      ],
+      "id": 8078,
+      "title": "Alien Resurrection",
+      "original_language": "en",
+      "original_title": "Alien Resurrection",
+      "overview": "Two hundred years after Lt. Ripley died, a group of scientists clone her, hoping to breed the ultimate weapon. But the new Ripley is full of surprises … as are the new aliens. Ripley must team with a band of smugglers to keep the creatures from reaching Earth.",
+      "popularity": 14.9428,
+      "poster_path": "/9aRDMlU5Zwpysilm0WCWzU2PCFv.jpg",
+      "release_date": "1997-11-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.174,
+      "vote_count": 5641
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hUn13Hom8OWMYpR1ay0diwswwdP.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        53
+      ],
+      "id": 2118,
+      "title": "L.A. Confidential",
+      "original_language": "en",
+      "original_title": "L.A. Confidential",
+      "overview": "Three detectives in the corrupt and brutal L.A. police force of the 1950s use differing methods to uncover a conspiracy behind the shotgun slayings of the patrons at an all-night diner.",
+      "popularity": 9.3064,
+      "poster_path": "/lWCgf5sD5FpMljjpkRhcC8pXcch.jpg",
+      "release_date": "1997-09-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.804,
+      "vote_count": 5618
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7iEfnj3rfyunky6BzvnlwqfoEF0.jpg",
+      "genre_ids": [
+        12,
+        28,
+        53,
+        878
+      ],
+      "id": 563,
+      "title": "Starship Troopers",
+      "original_language": "en",
+      "original_title": "Starship Troopers",
+      "overview": "Set in the future, the story follows a young soldier named Johnny Rico and his exploits in the Mobile Infantry. Rico's military career progresses from recruit to non-commissioned officer and finally to officer against the backdrop of an interstellar war between mankind and an arachnoid species known as \"the Bugs.\"",
+      "popularity": 11.4435,
+      "poster_path": "/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
+      "release_date": "1997-11-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.115,
+      "vote_count": 5584
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kEuQWHte2erRpAICrYqkAZaZAAY.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 415,
+      "title": "Batman & Robin",
+      "original_language": "en",
+      "original_title": "Batman & Robin",
+      "overview": "Batman and his sidekick Robin attempt to the foil the sinister schemes of a deranged set of new villains, most notably the melancholy Mr. Freeze, who wants to make Gotham City into an arctic region, and the sultry Poison Ivy, a botanical femme fatale. As the Dynamic Duo contend with these bad guys, a third hero, Batgirl, joins the ranks of the city's crime-fighters.",
+      "popularity": 7.5926,
+      "poster_path": "/i7hEUpDuMN2LOrCEifFyGSHZQSY.jpg",
+      "release_date": "1997-06-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 4.396,
+      "vote_count": 5466
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yFkUPqBuUnbhYbQL8VFpTrAT9za.jpg",
+      "genre_ids": [
+        18,
+        878,
+        9648
+      ],
+      "id": 686,
+      "title": "Contact",
+      "original_language": "en",
+      "original_title": "Contact",
+      "overview": "A radio astronomer receives the first extraterrestrial radio signal ever picked up on Earth. As the world powers scramble to decipher the message and decide upon a course of action, she must make some difficult decisions between her beliefs, the truth, and reality.",
+      "popularity": 10.863,
+      "poster_path": "/bCpMIywuNZeWt3i5UMLEIc0VSwM.jpg",
+      "release_date": "1997-07-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.447,
+      "vote_count": 5070
+    }
+  ],
+  "total_pages": 13,
+  "total_results": 241
+}

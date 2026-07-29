@@ -1,0 +1,417 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "id": 218,
+      "title": "The Terminator",
+      "original_language": "en",
+      "original_title": "The Terminator",
+      "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+      "popularity": 26.4849,
+      "poster_path": "/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+      "release_date": "1984-10-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.685,
+      "vote_count": 14812
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg",
+      "genre_ids": [
+        12,
+        28
+      ],
+      "id": 87,
+      "title": "Indiana Jones and the Temple of Doom",
+      "original_language": "en",
+      "original_title": "Indiana Jones and the Temple of Doom",
+      "overview": "After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees – and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.",
+      "popularity": 13.4228,
+      "poster_path": "/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg",
+      "release_date": "1984-05-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.311,
+      "vote_count": 10219
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg",
+      "genre_ids": [
+        35,
+        14
+      ],
+      "id": 620,
+      "title": "Ghostbusters",
+      "original_language": "en",
+      "original_title": "Ghostbusters",
+      "overview": "After losing their university jobs, three parapsychologists start a ghost-catching business in New York City and uncover a supernatural threat that could destroy the world.",
+      "popularity": 10.4101,
+      "poster_path": "/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+      "release_date": "1984-06-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.497,
+      "vote_count": 9842
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5UX6M0aEphiW6Xmy5rpYX75glbo.jpg",
+      "genre_ids": [
+        14,
+        27,
+        35
+      ],
+      "id": 927,
+      "title": "Gremlins",
+      "original_language": "en",
+      "original_title": "Gremlins",
+      "overview": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town.",
+      "popularity": 7.271,
+      "poster_path": "/6m0F7fsXjQvUbCZrPWcJNrjvIui.jpg",
+      "release_date": "1984-06-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.143,
+      "vote_count": 7049
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xlDUjb0Q5Dv6jPQRF5VE4IMjIy.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 311,
+      "title": "Once Upon a Time in America",
+      "original_language": "en",
+      "original_title": "Once Upon a Time in America",
+      "overview": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.",
+      "popularity": 18.889,
+      "poster_path": "/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg",
+      "release_date": "1984-05-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 6121
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nzSjTiecdosBfwMGAdpt9CxltCI.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 377,
+      "title": "A Nightmare on Elm Street",
+      "original_language": "en",
+      "original_title": "A Nightmare on Elm Street",
+      "overview": "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop's daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers' children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
+      "popularity": 16.2399,
+      "poster_path": "/b9rMHAAKISRmIonaQd9Cccx0S4X.jpg",
+      "release_date": "1984-11-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 5821
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rnQyWw68dPHPRtvSWMtLSueXf05.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10402
+      ],
+      "id": 279,
+      "title": "Amadeus",
+      "original_language": "en",
+      "original_title": "Amadeus",
+      "overview": "Disciplined Italian composer Antonio Salieri becomes consumed by jealousy and resentment towards the hedonistic and remarkably talented young Salzburger composer Wolfgang Amadeus Mozart.",
+      "popularity": 7.9734,
+      "poster_path": "/gQRfiyfGvr1az0quaYyMram3Aqt.jpg",
+      "release_date": "1984-09-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.025,
+      "vote_count": 4821
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/j1xaeJZOEOiVBD1rk3dg4YaAk23.jpg",
+      "genre_ids": [
+        28,
+        18,
+        10751
+      ],
+      "id": 1885,
+      "title": "The Karate Kid",
+      "original_language": "en",
+      "original_title": "The Karate Kid",
+      "overview": "New Jersey teen Daniel LaRusso moves to Los Angeles with his mother, and soon strikes up a relationship with Ali. He quickly finds himself the target of bullying by a group of thugs, led by Ali's ex-boyfriend Johnny, who study karate at the Cobra Kai dojo under ruthless sensei John Kreese. Fortunately, Daniel befriends Mr. Miyagi, an unassuming repairman who just happens to be a martial arts master himself. Miyagi takes Daniel under his wing, training him in a more compassionate form of karate for self-defense and, later, preparing him to compete against the brutal Cobra Kai.",
+      "popularity": 8.9578,
+      "poster_path": "/1mp4ViklKvA0WXXsNvNx0RBuiit.jpg",
+      "release_date": "1984-06-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.228,
+      "vote_count": 4778
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/p256RduW9wMC3uhGJTerywmGiiX.jpg",
+      "genre_ids": [
+        35,
+        80,
+        28
+      ],
+      "id": 90,
+      "title": "Beverly Hills Cop",
+      "original_language": "en",
+      "original_title": "Beverly Hills Cop",
+      "overview": "Fast-talking, quick-thinking Detroit street cop Axel Foley has bent more than a few rules and regs in his time, but when his best friend is murdered, he heads to sunny Beverly Hills to work the case like only he can.",
+      "popularity": 7.7786,
+      "poster_path": "/eBJEvKkhQ0tUt1dBAcTEYW6kCle.jpg",
+      "release_date": "1984-12-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.211,
+      "vote_count": 4651
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rKmOe5pb5a6P1HmQAzpRw20gORp.jpg",
+      "genre_ids": [
+        12,
+        14,
+        10751
+      ],
+      "id": 34584,
+      "title": "The NeverEnding Story",
+      "original_language": "de",
+      "original_title": "Die unendliche Geschichte",
+      "overview": "While hiding from bullies in his school's attic, a young boy discovers the extraordinary land of Fantasia, through a magical book called The Neverending Story. The book tells the tale of Atreyu, a young warrior who, with the help of a luck dragon named Falkor, must save Fantasia from the destruction of The Nothing.",
+      "popularity": 8.4925,
+      "poster_path": "/ddYCa91iDXfJCxaqSYzwi2fjfnl.jpg",
+      "release_date": "1984-04-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.224,
+      "vote_count": 4429
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ulVUa2MvnJAjAeRt7h23FFJVRKH.jpg",
+      "genre_ids": [
+        12,
+        16,
+        14
+      ],
+      "id": 81,
+      "title": "Warriors of the Wind",
+      "original_language": "ja",
+      "original_title": "風の谷のナウシカ",
+      "overview": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth.",
+      "popularity": 11.8753,
+      "poster_path": "/tcrkfB8SRPQCgwI88hQScua6nxh.jpg",
+      "release_date": "1984-03-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.947,
+      "vote_count": 4127
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5wJ2tckpvwcxGCAgZiccodwEJpf.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 841,
+      "title": "Dune",
+      "original_language": "en",
+      "original_title": "Dune",
+      "overview": "In the year 10,191, the most precious substance in the universe is the spice Melange. The spice extends life. The spice expands consciousness. The spice is vital to space travel.  The spice exists on only one planet in the entire universe, the vast desert planet Arrakis, also known as Dune.  Its native inhabitants, the Fremen, have long held a prophecy that a man would come, a messiah who would lead them to true freedom.",
+      "popularity": 9.1625,
+      "poster_path": "/4kJmUCE7mkVJjXa7A0g2rY4IGTm.jpg",
+      "release_date": "1984-12-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.187,
+      "vote_count": 3465
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6qAYgsvnH4wUS9fAcrxUvUtCM6x.jpg",
+      "genre_ids": [
+        35,
+        80
+      ],
+      "id": 9336,
+      "title": "Police Academy",
+      "original_language": "en",
+      "original_title": "Police Academy",
+      "overview": "New rules enforced by the Lady Mayoress mean that sex, weight, height and intelligence need no longer be a factor for joining the Police Force. This opens the floodgates for all and sundry to enter the Police Academy, much to the chagrin of the instructors. Not everyone is there through choice, though. Social misfit Mahoney has been forced to sign up as the only alternative to a jail sentence and it doesn't take long before he falls foul of the boorish Lieutenant Harris. But before long, Mahoney realises that he is enjoying being a police cadet and decides he wants to stay... while Harris decides he wants Mahoney out!",
+      "popularity": 8.585,
+      "poster_path": "/3PriqoVUQcPwcyvk0SJRiMTdBJK.jpg",
+      "release_date": "1984-03-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.715,
+      "vote_count": 3034
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fWrq3u16gaBJ6nYNWcR3XaOhQPq.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 655,
+      "title": "Paris, Texas",
+      "original_language": "en",
+      "original_title": "Paris, Texas",
+      "overview": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier.",
+      "popularity": 7.5235,
+      "poster_path": "/sP27Qm4THyRZyHjHYMfIDtJP6YE.jpg",
+      "release_date": "1984-07-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.1,
+      "vote_count": 2255
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6hgpBRaa1mWIrDGvkkf8BIusTZ4.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 15144,
+      "title": "Sixteen Candles",
+      "original_language": "en",
+      "original_title": "Sixteen Candles",
+      "overview": "With the occasion all but overshadowed by her sister's upcoming wedding, angst-ridden Samantha faces her 16th birthday with typical adolescent dread. Samantha pines for studly older boy Jake, but worries that her chastity will be a turnoff for the popular senior. Meanwhile, she must constantly rebuff the affections of nerdy Ted, who is unfortunately the only boy in school who seems to take an interest in her.",
+      "popularity": 3.5752,
+      "poster_path": "/A3WGCAgJF33kZdlxUdyXHYdbYax.jpg",
+      "release_date": "1984-05-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.754,
+      "vote_count": 2232
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/t8n5mvmnJUYJkyfOPWYEtvqePuM.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 1788,
+      "title": "Footloose",
+      "original_language": "en",
+      "original_title": "Footloose",
+      "overview": "When teenager Ren and his family move from big-city Chicago to a small town in the West, he's in for a real case of culture shock after discovering he's living in a place where music and dancing are illegal.",
+      "popularity": 4.9614,
+      "poster_path": "/9JEDjBCXCx3eKTSkXwispf0UN3O.jpg",
+      "release_date": "1984-02-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.687,
+      "vote_count": 2227
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8v5X238laJCSGN5Oq6BHEQEOWL5.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        28,
+        12
+      ],
+      "id": 9326,
+      "title": "Romancing the Stone",
+      "original_language": "en",
+      "original_title": "Romancing the Stone",
+      "overview": "Though she can spin wild tales of passionate romance, novelist Joan Wilder has no life of her own. Then one day adventure comes her way in the form of a mysterious package. It turns out that the parcel is the ransom she'll need to free her abducted sister, so Joan flies to South America to hand it over. But she gets on the wrong bus and winds up hopelessly stranded in the jungle.",
+      "popularity": 5.7057,
+      "poster_path": "/qfIlVOYZH5RiZ0ndFKUpr5Zn2Bx.jpg",
+      "release_date": "1984-03-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.772,
+      "vote_count": 2072
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kAhjS7czQu0gtMVwDqfSBR2KjTF.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 9610,
+      "title": "Conan the Destroyer",
+      "original_language": "en",
+      "original_title": "Conan the Destroyer",
+      "overview": "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen's plans fail to take into consideration Conan's strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
+      "popularity": 4.4633,
+      "poster_path": "/m5i7S46DT1ESy7URkh2l92awGRr.jpg",
+      "release_date": "1984-06-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.141,
+      "vote_count": 1691
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/alxkhwiANOXV1MOysWnDoUqIw8O.jpg",
+      "genre_ids": [
+        18,
+        878,
+        53
+      ],
+      "id": 9314,
+      "title": "Nineteen Eighty-Four",
+      "original_language": "en",
+      "original_title": "Nineteen Eighty-Four",
+      "overview": "Winston Smith is a government employee whose job involves the rewriting of history in a manner that casts his fictional country's leaders in a charitable light. His trysts with Julia provide his only measure of enjoyment, but lawmakers frown on the relationship -- and in this closely monitored society, there is no escape from Big Brother.",
+      "popularity": 6.4958,
+      "poster_path": "/hrdQlicxuyTg3zyVqq78EsA4Z6J.jpg",
+      "release_date": "1984-11-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.787,
+      "vote_count": 1662
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/a3FaHEGActk76BeCBingyOvEqnm.jpg",
+      "genre_ids": [
+        35,
+        10402
+      ],
+      "id": 11031,
+      "title": "This Is Spinal Tap",
+      "original_language": "en",
+      "original_title": "This Is Spinal Tap",
+      "overview": "\"This Is Spinal Tap\" shines a light on the self-contained universe of a metal band struggling to get back on the charts, including everything from its complicated history of ups and downs, gold albums, name changes and undersold concert dates, along with the full host of requisite groupies, promoters, hangers-on and historians, sessions, release events and those special behind-the-scenes moments that keep it all real.",
+      "popularity": 3.537,
+      "poster_path": "/b3lllDltoBws5uKZzBYVSjpjjJx.jpg",
+      "release_date": "1984-03-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.404,
+      "vote_count": 1655
+    }
+  ],
+  "total_pages": 7,
+  "total_results": 132
+}

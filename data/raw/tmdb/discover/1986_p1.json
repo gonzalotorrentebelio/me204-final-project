@@ -1,0 +1,428 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "id": 679,
+      "title": "Aliens",
+      "original_language": "en",
+      "original_title": "Aliens",
+      "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+      "popularity": 22.0023,
+      "poster_path": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "release_date": "1986-07-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.966,
+      "vote_count": 10989
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg",
+      "genre_ids": [
+        28,
+        18,
+        10749
+      ],
+      "id": 744,
+      "title": "Top Gun",
+      "original_language": "en",
+      "original_title": "Top Gun",
+      "overview": "For Lieutenant Pete 'Maverick' Mitchell and his friend and co-pilot Nick 'Goose' Bradshaw, being accepted into an elite training school for fighter pilots is a dream come true. But a tragedy, as well as personal demons, will threaten Pete's dreams of becoming an ace pilot.",
+      "popularity": 29.842,
+      "poster_path": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+      "release_date": "1986-05-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.071,
+      "vote_count": 9712
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yjGllQUm28R4X9xD9T5xMszirgw.jpg",
+      "genre_ids": [
+        18,
+        12
+      ],
+      "id": 235,
+      "title": "Stand by Me",
+      "original_language": "en",
+      "original_title": "Stand by Me",
+      "overview": "After learning that a boy their age has been accidentally killed near their rural homes, four boys decide to go see the body. Gordie, Vern, Chris, and Teddy encounter a mean junk man and a marsh full of leeches, but they also learn more about one another and their very different home lives. Just a lark at first, the boys' adventure evolves into a defining event in their lives.",
+      "popularity": 13.8645,
+      "poster_path": "/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg",
+      "release_date": "1986-08-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.836,
+      "vote_count": 6615
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/leehjwM57DKJ79XMUll4oAF0kin.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 9377,
+      "title": "Ferris Bueller's Day Off",
+      "original_language": "en",
+      "original_title": "Ferris Bueller's Day Off",
+      "overview": "After high school slacker Ferris Bueller successfully fakes an illness in order to skip school for the day, he goes on a series of adventures throughout Chicago with his girlfriend Sloane and best friend Cameron, all the while trying to outwit his wily school principal and fed-up sister.",
+      "popularity": 6.826,
+      "poster_path": "/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
+      "release_date": "1986-06-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.564,
+      "vote_count": 5447
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/q4A2A7h9HsKKBfTxESAdc2N4hVg.jpg",
+      "genre_ids": [
+        18,
+        10752,
+        28
+      ],
+      "id": 792,
+      "title": "Platoon",
+      "original_language": "en",
+      "original_title": "Platoon",
+      "overview": "As a young and naive recruit in Vietnam, Chris Taylor faces a moral crisis when confronted with the horrors of war and the duality of man.",
+      "popularity": 10.9494,
+      "poster_path": "/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+      "release_date": "1986-12-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.751,
+      "vote_count": 5183
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aQwxkvskonfPByfj5PTriJuyFXr.jpg",
+      "genre_ids": [
+        27,
+        878
+      ],
+      "id": 9426,
+      "title": "The Fly",
+      "original_language": "en",
+      "original_title": "The Fly",
+      "overview": "When brilliant, eccentric scientist Seth Brundle makes a huge technological breakthrough in teleportation, he decides to test it on himself. Unbeknownst to him, a common housefly manages to get inside the device and the two become one.",
+      "popularity": 13.6207,
+      "poster_path": "/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
+      "release_date": "1986-08-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.438,
+      "vote_count": 5029
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/j2ZvLJyz163MlmBFsoaDYOwxgws.jpg",
+      "genre_ids": [
+        12,
+        14,
+        16,
+        28,
+        10751
+      ],
+      "id": 10515,
+      "title": "Castle in the Sky",
+      "original_language": "ja",
+      "original_title": "天空の城ラピュタ",
+      "overview": "A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.",
+      "popularity": 8.7833,
+      "poster_path": "/41XxSsJc5OrulP0m7TrrUeO2hoz.jpg",
+      "release_date": "1986-08-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.97,
+      "vote_count": 4731
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/s1CBwblInR0ZBIv59CSko2QdLD3.jpg",
+      "genre_ids": [
+        9648,
+        53,
+        80
+      ],
+      "id": 793,
+      "title": "Blue Velvet",
+      "original_language": "en",
+      "original_title": "Blue Velvet",
+      "overview": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child.",
+      "popularity": 8.7689,
+      "poster_path": "/6v1zYh2FKOYVddY5pCQhd4PO9uX.jpg",
+      "release_date": "1986-09-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 3868
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ehHskGgDUchxGyG33vUQZWNng43.jpg",
+      "genre_ids": [
+        28,
+        12,
+        35,
+        14
+      ],
+      "id": 6978,
+      "title": "Big Trouble in Little China",
+      "original_language": "en",
+      "original_title": "Big Trouble in Little China",
+      "overview": "Truck driver Jack Burton gets embroiled in a supernatural battle when his best friend Wang Chi's green-eyed fiancée is kidnapped by henchmen of the sorcerer Lo Pan, who must marry a girl with green eyes in order to return to the human realm.",
+      "popularity": 6.9796,
+      "poster_path": "/gI2Qs1yTTj3NcESJyttCkbmJ4k9.jpg",
+      "release_date": "1986-05-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.215,
+      "vote_count": 3416
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/v4d6PPfqHeUNSdcyBVQ2Xb8yBk0.jpg",
+      "genre_ids": [
+        18,
+        53,
+        9648
+      ],
+      "id": 192,
+      "title": "The Name of the Rose",
+      "original_language": "en",
+      "original_title": "The Name of the Rose",
+      "overview": "14th-century Franciscan monk William of Baskerville and his young novice arrive at a conference to find that several monks have been murdered under mysterious circumstances. To solve the crimes, William must rise up against the Church's authority and fight the shadowy conspiracy of monastery monks using only his intelligence; which is considerable.",
+      "popularity": 5.283,
+      "poster_path": "/d6dlbTBb3N7nXDz7tQslDJs2jgv.jpg",
+      "release_date": "1986-09-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.496,
+      "vote_count": 3352
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2EfbAWLq8s2f1LxTAIuLGYpKETV.jpg",
+      "genre_ids": [
+        12,
+        28,
+        14
+      ],
+      "id": 8009,
+      "title": "Highlander",
+      "original_language": "en",
+      "original_title": "Highlander",
+      "overview": "He fought his first battle on the Scottish Highlands in 1536. He will fight his greatest battle on the streets of New York City in 1986. His name is Connor MacLeod. He is immortal.",
+      "popularity": 8.5599,
+      "poster_path": "/8Z8dptJEypuLoOQro1WugD855YE.jpg",
+      "release_date": "1986-03-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 2957
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mGkleIuPO2flRyvP8yBcUykSQsp.jpg",
+      "genre_ids": [
+        12,
+        10751,
+        14
+      ],
+      "id": 13597,
+      "title": "Labyrinth",
+      "original_language": "en",
+      "original_title": "Labyrinth",
+      "overview": "Frustrated with babysitting on yet another weekend night, Sarah, a teenager with an active imagination, summons the Goblins to take her baby stepbrother away. When little Toby actually disappears, Sarah must follow him into a fantastical world to rescue him from the Goblin King. Guarding his castle is the labyrinth itself, a twisted maze of deception, populated with outrageous characters and unknown dangers.",
+      "popularity": 7.6038,
+      "poster_path": "/pejayhTVBEL4w8YKSfrhOjjWVlH.jpg",
+      "release_date": "1986-06-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 2785
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7rfcRXbFD0xr8NteNq1hwXUd4Af.jpg",
+      "genre_ids": [
+        12,
+        18,
+        28,
+        10749,
+        10751
+      ],
+      "id": 8856,
+      "title": "The Karate Kid Part II",
+      "original_language": "en",
+      "original_title": "The Karate Kid Part II",
+      "overview": "Summoned by his dying father, Miyagi returns to his homeland of Okinawa, with Daniel, after a 40-year exile. There he must confront Yukie, the love of his youth, and Sato, his former best friend turned vengeful rival. Sato is bent on a fight to the death, even if it means the destruction of their village. Daniel finds his own love in Yukia's niece, Kumiko, and his own enemy in Sato's nephew, the vicious Chozen. Now, far away from the tournaments, cheering crowds and safety of home, Daniel will face his greatest challenge ever when the cost of honor is life itself.",
+      "popularity": 5.9147,
+      "poster_path": "/k0OwgRR6PNu7h3SiqpCbRdZWNaG.jpg",
+      "release_date": "1986-06-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.35,
+      "vote_count": 2517
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fdyRR3R1urnk6oYiChCMu6bFaFb.jpg",
+      "genre_ids": [
+        12,
+        35
+      ],
+      "id": 9671,
+      "title": "Crocodile Dundee",
+      "original_language": "en",
+      "original_title": "Crocodile Dundee",
+      "overview": "When a New York reporter plucks crocodile hunter Mick Dundee from the Australian Outback for a visit to the Big Apple, it's a clash of cultures and a recipe for good-natured comedy as naïve Dundee negotiates the concrete jungle. He proves that his instincts are quite useful in the city and adeptly handles everything from wily muggers to high-society snoots without breaking a sweat.",
+      "popularity": 6.09,
+      "poster_path": "/pduPduL1ub5kok3lPYT15ryC9L6.jpg",
+      "release_date": "1986-09-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.45,
+      "vote_count": 2154
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zPDpHMdbbE4O0TxVkMcgD6j2ImR.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 9874,
+      "title": "Cobra",
+      "original_language": "en",
+      "original_title": "Cobra",
+      "overview": "A tough-on-crime street cop must protect the only surviving witness to a strange murderous cult with far reaching plans.",
+      "popularity": 5.1188,
+      "poster_path": "/jCxfbTh8JvJil5edhNywxaTHoWv.jpg",
+      "release_date": "1986-05-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.153,
+      "vote_count": 1988
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rXP1DHEk2pnSCnwe3qT1Vp1lps3.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        9648,
+        80,
+        12
+      ],
+      "id": 9994,
+      "title": "The Great Mouse Detective",
+      "original_language": "en",
+      "original_title": "The Great Mouse Detective",
+      "overview": "When the diabolical Professor Ratigan kidnaps London's master toymaker, the brilliant master of disguise Basil of Baker Street and his trusted sidekick Dawson try to elude the ultimate trap and foil the perfect crime.",
+      "popularity": 5.6868,
+      "poster_path": "/9uDr7vfjCFr39KGCcqrk44Cg7fQ.jpg",
+      "release_date": "1986-07-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.053,
+      "vote_count": 1819
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2LiU13aDAWpU2mX25JdacTzBnyr.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 168,
+      "title": "Star Trek IV: The Voyage Home",
+      "original_language": "en",
+      "original_title": "Star Trek IV: The Voyage Home",
+      "overview": "When a huge alien probe enters the galaxy and begins to vaporize Earth's oceans, Kirk and his crew must travel back in time in order to bring back whales and save the planet.",
+      "popularity": 10.2385,
+      "poster_path": "/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg",
+      "release_date": "1986-11-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.179,
+      "vote_count": 1675
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/z9y41Biv1isRtErpt7Ecv01ru0W.jpg",
+      "genre_ids": [
+        27,
+        35
+      ],
+      "id": 10776,
+      "title": "Little Shop of Horrors",
+      "original_language": "en",
+      "original_title": "Little Shop of Horrors",
+      "overview": "Seymour Krelborn is a nerdy orphan working at Mushnik's; a flower shop in urban Skid Row. He harbors a crush on fellow co-worker, Audrey Fulquard, and is berated by Mr. Mushnik daily. One day, Seymour finds a very mysterious unidentified plant which he calls Audrey II. The plant seems to have a craving for blood and soon begins to sing for it’s supper.",
+      "popularity": 4.4633,
+      "poster_path": "/iKkbN17OmFosaW6asCNZTTsyvpu.jpg",
+      "release_date": "1986-12-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.979,
+      "vote_count": 1655
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fytpsMuKVm8GynH0n3DCzIBp092.jpg",
+      "genre_ids": [
+        878,
+        35,
+        10751
+      ],
+      "id": 2605,
+      "title": "Short Circuit",
+      "original_language": "en",
+      "original_title": "Short Circuit",
+      "overview": "After a lightning bolt zaps a robot named Number 5, the lovable machine starts to think he's human and escapes the lab. Hot on his trail is his designer, Newton, who hopes to get to Number 5 before the military does. In the meantime, a spunky animal lover mistakes the robot for an alien and takes him in, teaching her new guest about life on Earth.",
+      "popularity": 5.3838,
+      "poster_path": "/e3eimdUK6lLe0iaSlLrYVQF3yeL.jpg",
+      "release_date": "1986-05-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.653,
+      "vote_count": 1641
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/izgDdMvuRvTtA2azhKwPvfITZU1.jpg",
+      "genre_ids": [
+        12,
+        18,
+        28,
+        36
+      ],
+      "id": 11416,
+      "title": "The Mission",
+      "original_language": "en",
+      "original_title": "The Mission",
+      "overview": "When a Spanish Jesuit goes into the South American wilderness to build a mission in the hope of converting the Indians of the region, a slave hunter is converted and joins his mission. When Spain sells the colony to Portugal, they are forced to defend all they have built against the Portuguese aggressors.",
+      "popularity": 2.666,
+      "poster_path": "/6K9cG6LOOtySZF4D4xBu1MApC1N.jpg",
+      "release_date": "1986-09-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 1566
+    }
+  ],
+  "total_pages": 9,
+  "total_results": 176
+}

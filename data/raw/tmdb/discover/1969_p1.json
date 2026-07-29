@@ -1,0 +1,411 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/C6jcUqld8M6hZQmzBxgwHuQ4qT.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 642,
+      "title": "Butch Cassidy and the Sundance Kid",
+      "original_language": "en",
+      "original_title": "Butch Cassidy and the Sundance Kid",
+      "overview": "As the west rapidly becomes civilized, a pair of outlaws in 1890s Wyoming find themselves pursued by a posse and decide to flee to South America in hopes of evading the law.",
+      "popularity": 5.9905,
+      "poster_path": "/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
+      "release_date": "1969-09-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.607,
+      "vote_count": 2497
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qvTmYyYsv71qTq5syAq24k1kGk.jpg",
+      "genre_ids": [
+        12,
+        18
+      ],
+      "id": 624,
+      "title": "Easy Rider",
+      "original_language": "en",
+      "original_title": "Easy Rider",
+      "overview": "Wyatt and Billy, two Harley-riding hippies, complete a drug deal in Southern California and decide to travel cross-country in search of spiritual truth.",
+      "popularity": 5.0724,
+      "poster_path": "/3H3vwPGX6EbBRffIVHp3eHHcjka.jpg",
+      "release_date": "1969-06-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 2187
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/58pMrmwwcKamJIdjUlinE6QX1Fs.jpg",
+      "genre_ids": [
+        12,
+        28,
+        53
+      ],
+      "id": 668,
+      "title": "On Her Majesty's Secret Service",
+      "original_language": "en",
+      "original_title": "On Her Majesty's Secret Service",
+      "overview": "With the help of Marc-Ange Draco, head of the Unione Corse crime syndicate, and Draco's troubled daughter Tracy, James Bond tracks his archnemesis, Ernst Stravro Blofeld, to a mountaintop retreat in the Swiss Alps, where he is training an army of beautiful, lethal women.",
+      "popularity": 7.6581,
+      "poster_path": "/m3KfbxvqaiAvRJ6MpguA3GuLdDQ.jpg",
+      "release_date": "1969-12-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.556,
+      "vote_count": 2181
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pEdb6DfEBgaXF7S0EHzqnJvTGex.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 3116,
+      "title": "Midnight Cowboy",
+      "original_language": "en",
+      "original_title": "Midnight Cowboy",
+      "overview": "Joe Buck is a wide-eyed hustler from Texas hoping to score big with wealthy New York City women; he finds a companion in Enrico \"Ratso\" Rizzo, an ailing swindler with a bum leg and a quixotic fantasy of escaping to Florida.",
+      "popularity": 4.8684,
+      "poster_path": "/ckklq45UxUkwgHve9xItXqXr06r.jpg",
+      "release_date": "1969-05-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.53,
+      "vote_count": 1635
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nkgWcfOeQnVnxak5xCKvkRDLt5H.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 576,
+      "title": "The Wild Bunch",
+      "original_language": "en",
+      "original_title": "The Wild Bunch",
+      "overview": "An aging group of outlaws look for one last big score as the \"traditional\" American West is disappearing around them.",
+      "popularity": 3.6245,
+      "poster_path": "/8j9yEC3xjy1PJDSizIbaxcHaSph.jpg",
+      "release_date": "1969-06-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 1357
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jkYdRAhshaRwiRAB4KdDz1Ocj4e.jpg",
+      "genre_ids": [
+        80,
+        35,
+        53
+      ],
+      "id": 10536,
+      "title": "The Italian Job",
+      "original_language": "en",
+      "original_title": "The Italian Job",
+      "overview": "Charlie's got a 'job' to do. Having just left prison he finds one of his friends has attempted a high-risk job in Torino, Italy, right under the nose of the mafia. Charlie's friend doesn't get very far, so Charlie takes over the 'job'. Using three Mini Coopers, a couple of Jaguars, and a bus, he hopes to bring Torino to a standstill, steal a fortune in gold and escape in the chaos.",
+      "popularity": 5.2378,
+      "poster_path": "/8NOw3HPHkcBndJW2K6ofbcSb7WD.jpg",
+      "release_date": "1969-06-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.933,
+      "vote_count": 876
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i7n9u1SppzXcSO2EVgwEehzABzm.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 17529,
+      "title": "True Grit",
+      "original_language": "en",
+      "original_title": "True Grit",
+      "overview": "The murder of her father sends a teenage tomboy on a mission of 'justice', which involves avenging her father's death. She recruits a tough old marshal, 'Rooster' Cogburn because he has 'true grit', and a reputation of getting the job done.",
+      "popularity": 5.0058,
+      "poster_path": "/lmexRC57l39elaIcnxhaHpcaIW2.jpg",
+      "release_date": "1969-06-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 872
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dB9pJFYLvaf9w2sYtVH9TYOu6Vr.jpg",
+      "genre_ids": [
+        35,
+        80
+      ],
+      "id": 11485,
+      "title": "Take the Money and Run",
+      "original_language": "en",
+      "original_title": "Take the Money and Run",
+      "overview": "Virgil Starkwell is intent on becoming a notorious bank robber. Unfortunately for Virgil and his not-so-budding career, he is completely incompetent.",
+      "popularity": 1.5817,
+      "poster_path": "/dT7cKFxsuHzSnDBxKeP5acoIpWZ.jpg",
+      "release_date": "1969-08-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.133,
+      "vote_count": 799
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/90tyLBdh9PeYxHCUEHMtFWP3FNI.jpg",
+      "genre_ids": [
+        10752,
+        18,
+        53,
+        36
+      ],
+      "id": 15383,
+      "title": "Army of Shadows",
+      "original_language": "fr",
+      "original_title": "L'Armée des ombres",
+      "overview": "Betrayed by an informant, Philippe Gerbier finds himself trapped in a torturous Nazi prison camp. Though Gerbier escapes to rejoin the Resistance in occupied Marseilles, France, and exacts his revenge on the informant, he must continue a quiet, seemingly endless battle against the Nazis in an atmosphere of tension, paranoia and distrust.",
+      "popularity": 2.9056,
+      "poster_path": "/aqNZWM9bspt8zaDvVRIRiWxRVJ7.jpg",
+      "release_date": "1969-09-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 760
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7AvbU0ei7Fz21jqBL4tlgSufnMp.jpg",
+      "genre_ids": [
+        53,
+        80,
+        18
+      ],
+      "id": 2721,
+      "title": "Z",
+      "original_language": "fr",
+      "original_title": "Z",
+      "overview": "A prominent politician is murdered during a demonstration. The government and army are trying to suppress the truth, but a tenacious magistrate is determined to not to let them get away with it.",
+      "popularity": 1.893,
+      "poster_path": "/dFAJyFNgvOv24f2RQyI9KDxjGr3.jpg",
+      "release_date": "1969-02-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.785,
+      "vote_count": 635
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pQpGA6XsWlmlAyicVIxVXHIW02P.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 4946,
+      "title": "The Swimming Pool",
+      "original_language": "fr",
+      "original_title": "La Piscine",
+      "overview": "Set in a magnificent villa near a sun-drenched St. Tropez, lovers Jean-Paul and Marianne are spending a happy, lazy summer holiday. Their only concern is to gratify their mutual passion - until the day when Marianne invites her former lover and his beautiful teenage daughter to spend a few days with them. From the first moment, a certain uneasiness and tension begin to develop between the four, which soon escalates in a dangerous love-game.",
+      "popularity": 4.2753,
+      "poster_path": "/pIR9bZM0bN1TwM1tppP7wZ2eJrL.jpg",
+      "release_date": "1969-01-31",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 573
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yoIwxm5PlsHfK6DfqdRdZN7A6t9.jpg",
+      "genre_ids": [
+        35,
+        878
+      ],
+      "id": 2462,
+      "title": "Hibernatus",
+      "original_language": "fr",
+      "original_title": "Hibernatus",
+      "overview": "Hubert de Tartas' life becomes a complete muddle when his wife's grandfather is unearthed after having spent 65 years in frozen hibernation in the polar circle. After being de-frosted, the Hibernating Man believes it is still the beginning of the century. Nothing is spared to keep that illusion alive. At the end of his rope, Hubert blurts out the truth and takes the man from Edwardian times on a crazy spree through an ultramodern Twentieth Century.",
+      "popularity": 3.1931,
+      "poster_path": "/dQTG9gwSgaGD9T8vukNFPMOcBh0.jpg",
+      "release_date": "1969-09-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.701,
+      "vote_count": 520
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3NSwwxsu8YXIqnGOrfREEsXWkT7.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 2370,
+      "title": "Topaz",
+      "original_language": "en",
+      "original_title": "Topaz",
+      "overview": "Copenhagen, Denmark, 1962. When a high-ranking Soviet official decides to change sides, a French intelligence agent is caught up in a cold, silent and bloody spy war in which his own family will play a decisive role.",
+      "popularity": 2.3355,
+      "poster_path": "/8u7vxykCVZoaxNocLbpstv3IFNK.jpg",
+      "release_date": "1969-12-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.025,
+      "vote_count": 424
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ybi3LVVyXVRQUDz9xos2YM24Gnj.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 14030,
+      "title": "Hello, Dolly!",
+      "original_language": "en",
+      "original_title": "Hello, Dolly!",
+      "overview": "Dolly Levi is a strong-willed matchmaker who travels to Yonkers, New York in order to see the miserly \"well-known unmarried half-a-millionaire\" Horace Vandergelder. In doing so, she convinces his niece, his niece's intended, and Horace's two clerks to travel to New York City.",
+      "popularity": 3.2383,
+      "poster_path": "/aPZOt9BR3gnk1RyX924ySq81S4P.jpg",
+      "release_date": "1969-12-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 393
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/69HEmEIgFCo6Te8ShHcFB1ERPeF.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        10770
+      ],
+      "id": 13675,
+      "title": "Frosty the Snowman",
+      "original_language": "en",
+      "original_title": "Frosty the Snowman",
+      "overview": "A discarded silk top-hat becomes the focus of a struggle between a washed-up stage magician and a group of schoolchildren, after it magically brings a snowman to life. Realizing that newly-living Frosty will melt in spring unless he takes refuge in a colder climate, the magic snowman and Karen, a young girl whom he befriends, stow away on a freight train headed for the North Pole. Little do they know that the magician is following them, and he wants his hat back!",
+      "popularity": 1.9436,
+      "poster_path": "/gw7ie4W3iW8nefnZ4kuw8dgYNM2.jpg",
+      "release_date": "1969-12-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.932,
+      "vote_count": 392
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7WdvQjsRorlIlI8itYb371ZUET1.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 28145,
+      "title": "They Shoot Horses, Don't They?",
+      "original_language": "en",
+      "original_title": "They Shoot Horses, Don't They?",
+      "overview": "In the midst of the Great Depression, manipulative emcee Rocky enlists contestants for a dance marathon offering a $1,500 cash prize. Among them are a failed actress, a middle-aged sailor, a delusional blonde and a pregnant girl.",
+      "popularity": 2.4674,
+      "poster_path": "/7wVLBgriOQpT5RrufAFCdCSUp7M.jpg",
+      "release_date": "1969-12-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 374
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1gNfZauhTpNWRmwtKlJZBqT34fd.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 4235,
+      "title": "The Sicilian Clan",
+      "original_language": "fr",
+      "original_title": "Le Clan des Siciliens",
+      "overview": "An ambitious mobster plans an elaborate diamond heist while seducing the daughter-in-law of a ruthless mob patriarch as a determined police commissioner closes in on all of them.",
+      "popularity": 2.3541,
+      "poster_path": "/uVBbDPbm1H4Z9M7uZ976KFaAjDR.jpg",
+      "release_date": "1969-12-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.568,
+      "vote_count": 374
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kPdvXDdXIbuKKAt9gEy13FNYgbm.jpg",
+      "genre_ids": [
+        18,
+        14
+      ],
+      "id": 11163,
+      "title": "Satyricon",
+      "original_language": "it",
+      "original_title": "Fellini – satyricon",
+      "overview": "After his young lover, Gitone, leaves him for another man, Encolpio decides to kill himself, but a sudden earthquake destroys his home before he has a chance to do so. Now wandering around Rome in the time of Nero, Encolpio encounters one bizarre and surreal scene after another.",
+      "popularity": 1.7845,
+      "poster_path": "/83urUMl04GtwuuGIFpezqzi7n6m.jpg",
+      "release_date": "1969-09-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.698,
+      "vote_count": 364
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zNMMKmyZ2W5viK2iqbsRfaQIa2u.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        18
+      ],
+      "id": 48831,
+      "title": "My Night at Maud's",
+      "original_language": "fr",
+      "original_title": "Ma nuit chez Maud",
+      "overview": "The Catholic Jean-Louis runs into an old friend, the Marxist Vidal, in Clermont-Ferrand around Christmas. Vidal introduces Jean-Louis to the modestly libertine, recently divorced Maud and the three engage in conversation on religion, atheism, love, morality and Blaise Pascal's life and writings on philosophy, faith and mathematics. Jean-Louis ends up spending a night at Maud's. Jean-Louis' Catholic views on marriage, fidelity and obligation make his situation a dilemma, as he has already, at the very beginning of the film, proclaimed his love for a young woman whom, however, he has never yet spoken to.",
+      "popularity": 1.3463,
+      "poster_path": "/9usKgth3ROn4LwPQ7tTvxKnpBGL.jpg",
+      "release_date": "1969-06-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.63,
+      "vote_count": 359
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6Ht821fxEaQ5f4MufKjY5Ks97Qk.jpg",
+      "genre_ids": [
+        10752,
+        36,
+        28,
+        18
+      ],
+      "id": 11463,
+      "title": "Battle of Britain",
+      "original_language": "en",
+      "original_title": "Battle of Britain",
+      "overview": "In 1940, the Royal Air Force fights a desperate battle against the might of the Luftwaffe for control of the skies over Britain, thus preventing an attempted Nazi invasion.",
+      "popularity": 2.7216,
+      "poster_path": "/98kyEWxcqqNrsaprUtPaQ4adsNG.jpg",
+      "release_date": "1969-09-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.843,
+      "vote_count": 354
+    }
+  ],
+  "total_pages": 4,
+  "total_results": 70
+}

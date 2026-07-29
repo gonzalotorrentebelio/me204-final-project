@@ -1,0 +1,415 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/7i0L2ee4Iy0aXV6vR5u1ZmblOrx.jpg",
+      "genre_ids": [
+        35,
+        10752
+      ],
+      "id": 935,
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "original_language": "en",
+      "original_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "overview": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop it.",
+      "popularity": 7.3641,
+      "poster_path": "/gHm96BRW4GoI339rF1vYoYTB6Qe.jpg",
+      "release_date": "1964-01-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.12,
+      "vote_count": 6223
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/prVH6SyQ6yDmzVxxkcr57zhLM5C.jpg",
+      "genre_ids": [
+        35,
+        10751,
+        14
+      ],
+      "id": 433,
+      "title": "Mary Poppins",
+      "original_language": "en",
+      "original_title": "Mary Poppins",
+      "overview": "In turn of the century London, a magical nanny employs music and adventure to help two neglected children become closer to their father.",
+      "popularity": 11.008,
+      "poster_path": "/o4Wsby4ydIXhWmtmfvb451D5Np1.jpg",
+      "release_date": "1964-12-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.546,
+      "vote_count": 5044
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9gMkOYzk7P9QXwndhLRAC8cMZcJ.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 391,
+      "title": "A Fistful of Dollars",
+      "original_language": "it",
+      "original_title": "Per un pugno di dollari",
+      "overview": "The Man With No Name enters the Mexican village of San Miguel in the midst of a power struggle among the three Rojo brothers and sheriff John Baxter. When a regiment of Mexican soldiers bearing gold intended to pay for new weapons is waylaid by the Rojo brothers, the stranger inserts himself into the middle of the long-simmering battle, selling false information to both sides for his own benefit.",
+      "popularity": 9.1868,
+      "poster_path": "/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg",
+      "release_date": "1964-09-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.822,
+      "vote_count": 4775
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/f1Is9VLQZSRpeLMU7mIcj5aXclt.jpg",
+      "genre_ids": [
+        12,
+        28,
+        53
+      ],
+      "id": 658,
+      "title": "Goldfinger",
+      "original_language": "en",
+      "original_title": "Goldfinger",
+      "overview": "Special agent 007 comes face to face with one of the most notorious villains of all time, and now he must outwit and outgun the powerful tycoon to prevent him from cashing in on a devious scheme to raid Fort Knox -- and obliterate the world's economy.",
+      "popularity": 9.1415,
+      "poster_path": "/aKNFzaqQgPzsGXnsMc4kJH5hFIV.jpg",
+      "release_date": "1964-09-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.362,
+      "vote_count": 4025
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xMoQjqa3JUc2unO4nF9PmM1JTQu.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 11113,
+      "title": "My Fair Lady",
+      "original_language": "en",
+      "original_title": "My Fair Lady",
+      "overview": "A snobbish phonetics professor agrees to a wager that he can take a flower girl and make her presentable in high society.",
+      "popularity": 6.0038,
+      "poster_path": "/bTXVc29lGSNclf94VIZ49W4gGKl.jpg",
+      "release_date": "1964-12-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.496,
+      "vote_count": 1446
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dmznYjPfNpNMJZtmnlgSutIDot2.jpg",
+      "genre_ids": [
+        53,
+        9648,
+        10749
+      ],
+      "id": 506,
+      "title": "Marnie",
+      "original_language": "en",
+      "original_title": "Marnie",
+      "overview": "Marnie is a beautiful but emotionally withdrawn thief, stealing from employers before disappearing under new identities. When her new boss, Mark Rutland, discovers her secret, his fascination turns to obsession, and he blackmails her into marriage, convinced he can cure her. But as he probes deeper into Marnie’s fractured mind, long-buried fears and compulsions begin to surface.",
+      "popularity": 2.8117,
+      "poster_path": "/nRRy4VO2A3Py7wiZBPz11PAlogp.jpg",
+      "release_date": "1964-07-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 1236
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mSwyH7ix20lqdKmPx7682gALwGu.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 4727,
+      "title": "Le Gendarme de Saint-Tropez",
+      "original_language": "fr",
+      "original_title": "Le Gendarme de Saint-Tropez",
+      "overview": "The ambitious police officer Cruchot is transferred to St. Tropez. He's struggling with crimes such as persistent nude swimming, but even more with his teenage daughter, who's trying to impress her rich friends by telling them her father was a millionaire and owned a yacht in the harbor.",
+      "popularity": 3.2409,
+      "poster_path": "/6510K6Y8eYLf9FJ7O4xaOnwhn2u.jpg",
+      "release_date": "1964-09-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.046,
+      "vote_count": 944
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/m1Gei9O5GfLoJHQjBaxWBSkXX2y.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 5967,
+      "title": "The Umbrellas of Cherbourg",
+      "original_language": "fr",
+      "original_title": "Les Parapluies de Cherbourg",
+      "overview": "This simple romantic tragedy begins in 1957. Guy Foucher, a 20-year-old French auto mechanic, has fallen in love with 17-year-old Geneviève Emery, an employee in her widowed mother's chic but financially embattled umbrella shop. On the evening before Guy is to leave for a two-year tour of combat in Algeria, he and Geneviève make love. She becomes pregnant and must choose between waiting for Guy's return or accepting an offer of marriage from a wealthy diamond merchant.",
+      "popularity": 2.701,
+      "poster_path": "/tAgTf64XKK5ir7w5C7dnB53jWWG.jpg",
+      "release_date": "1964-02-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.386,
+      "vote_count": 897
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pXYTP26ED7gAyyQ5QNrsGeieYbY.jpg",
+      "genre_ids": [
+        35,
+        80,
+        12
+      ],
+      "id": 1871,
+      "title": "Fantomas",
+      "original_language": "fr",
+      "original_title": "Fantômas",
+      "overview": "Fantômas is a man of many disguises. He uses maquillage as a weapon. He can impersonate anyone using an array of masks and can create endless confusion by constantly changing his appearance.",
+      "popularity": 3.4402,
+      "poster_path": "/bZd7mSdJQENp8WpanJpriWno8EZ.jpg",
+      "release_date": "1964-11-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.821,
+      "vote_count": 826
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9hWiNbvLR3nPDanTdEWOc4EeBGp.jpg",
+      "genre_ids": [
+        35,
+        10402
+      ],
+      "id": 704,
+      "title": "A Hard Day's Night",
+      "original_language": "en",
+      "original_title": "A Hard Day's Night",
+      "overview": "Capturing John Lennon, Paul McCartney, George Harrison and Ringo Starr in their electrifying element, 'A Hard Day's Night' is a wildly irreverent journey through this pastiche of a day in the life of The Beatles during 1964. The band have to use all their guile and wit to avoid the pursuing fans and press to reach their scheduled television performance, in spite of Paul's troublemaking grandfather and Ringo's arrest.",
+      "popularity": 3.3221,
+      "poster_path": "/6Ulsccp2VkaVU5qbya3bxm9JG4x.jpg",
+      "release_date": "1964-07-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.321,
+      "vote_count": 750
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/26O2JCu4cyR7U3ga1GT7BhTj888.jpg",
+      "genre_ids": [
+        35,
+        9648,
+        80
+      ],
+      "id": 1594,
+      "title": "A Shot in the Dark",
+      "original_language": "en",
+      "original_title": "A Shot in the Dark",
+      "overview": "Inspector Jacques Clouseau, smitten with the accused maid Maria Gambrelli, unwittingly turns a straightforward murder investigation into a comedic series of mishaps, testing the patience of his irritable boss Charles Dreyfus as casualties mount.",
+      "popularity": 2.788,
+      "poster_path": "/pR6tNqNLYIbRRYC5TFKWVWaVvvK.jpg",
+      "release_date": "1964-06-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.18,
+      "vote_count": 663
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zd3p7GKopxH4rIjGoDQ1ugalUtx.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12,
+        14
+      ],
+      "id": 13382,
+      "title": "Rudolph the Red-Nosed Reindeer",
+      "original_language": "en",
+      "original_title": "Rudolph the Red-Nosed Reindeer",
+      "overview": "Sam the snowman tells us the story of a young red-nosed reindeer who, after being ousted from the reindeer games because of his glowing nose, teams up with Hermey, an elf who wants to be a dentist, and Yukon Cornelius, the prospector. They run into the Abominable Snowman and find a whole island of misfit toys. Rudolph vows to see if he can get Santa to help the toys, and he goes back to the North Pole on Christmas Eve. But Santa's sleigh is fogged in. But when Santa looks over Rudolph, he gets a very bright idea...",
+      "popularity": 2.0783,
+      "poster_path": "/xjAElUhXuc7zFJPj3qUHjcySNsE.jpg",
+      "release_date": "1964-12-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 656
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kKsy8sCjfOtfHPBT2i8z13bIRij.jpg",
+      "genre_ids": [
+        80,
+        18,
+        35
+      ],
+      "id": 8073,
+      "title": "Band of Outsiders",
+      "original_language": "fr",
+      "original_title": "Bande à part",
+      "overview": "Cinephile slackers Franz and Arthur spend their days mimicking the antiheroes of Hollywood noirs and Westerns while pursuing the lovely Odile. The misfit trio upends convention at every turn, be it through choreographed dances in cafés or frolicsome romps through the Louvre. Eventually, their romantic view of outlaws pushes them to plan their own heist, but their inexperience may send them out in a blaze of glory -- which could be just what they want.",
+      "popularity": 1.6625,
+      "poster_path": "/9oqyj79xmcypxLajJdefOtrYx64.jpg",
+      "release_date": "1964-08-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 614
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/41ZWAGMttCr74dq7sAeh44QSJTQ.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "id": 14433,
+      "title": "Zulu",
+      "original_language": "en",
+      "original_title": "Zulu",
+      "overview": "In 1879, during the Anglo-Zulu War, man-of-the-people Lt. Chard and snooty Lt. Bromhead are in charge of defending the isolated and vastly outnumbered Natal outpost of Rorke's Drift from tribal hordes.",
+      "popularity": 2.5115,
+      "poster_path": "/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg",
+      "release_date": "1964-01-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 574
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gyoYWae5mqg6MjbwKu1AE9bgGMt.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        35
+      ],
+      "id": 49687,
+      "title": "Marriage Italian Style",
+      "original_language": "it",
+      "original_title": "Matrimonio all'italiana",
+      "overview": "During the bombing of Naples in World War II, a cynical businessman helps a naive prostitute, who spends the next two decades desperate to have him reciprocate her feelings.",
+      "popularity": 1.5945,
+      "poster_path": "/1VVQFXwr4i6QSAoPnCs9UmGTUVw.jpg",
+      "release_date": "1964-12-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 550
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dxfFh9pTKDaYH2B6PwcR6ohCM1L.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 16672,
+      "title": "Woman in the Dunes",
+      "original_language": "ja",
+      "original_title": "砂の女",
+      "overview": "A vacationing entomologist suffers extreme physical and psychological trauma after being taken captive by the residents of a poor seaside village and made to live with a woman whose life task is shoveling sand for them.",
+      "popularity": 3.6491,
+      "poster_path": "/xiBr3bIT2xpbuIKo5bLK7ebP4O1.jpg",
+      "release_date": "1964-02-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.205,
+      "vote_count": 525
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xe43LKesFXjQgP4W1s2juf7Tb4t.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 26638,
+      "title": "Red Desert",
+      "original_language": "it",
+      "original_title": "Il deserto rosso",
+      "overview": "In an industrializing Italian town, a married woman, rendered mentally unstable after a traffic accident, drifts into an affair with a friend of her husband.",
+      "popularity": 1.8716,
+      "poster_path": "/rGcTVdyhaGzMxPPRVApXre6F7SD.jpg",
+      "release_date": "1964-09-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 511
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2peNKd9nJkGUofBRhS9LYPTcXnz.jpg",
+      "genre_ids": [
+        878,
+        18,
+        27
+      ],
+      "id": 21159,
+      "title": "The Last Man on Earth",
+      "original_language": "en",
+      "original_title": "The Last Man on Earth",
+      "overview": "When a disease turns all of humanity into the living dead, the last man on earth becomes a reluctant vampire hunter.",
+      "popularity": 2.0517,
+      "poster_path": "/m0zIz963wNxAqqxiKYdZS9cRScT.jpg",
+      "release_date": "1964-05-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.584,
+      "vote_count": 490
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AcAMkNfQ21cL7EJzs5eVx24k3H4.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 3763,
+      "title": "Onibaba",
+      "original_language": "ja",
+      "original_title": "鬼婆",
+      "overview": "While her son, Kichi, is away at war, a woman and her daughter-in-law survive by killing samurai who stray into their swamp, then selling whatever valuables they find. Both are devastated when they learn that Kichi has died, but his wife soon begins an affair with a neighbor who survived the war, Hachi. The mother disapproves and, when she can't steal Hachi for herself, tries to scare her daughter-in-law with a mysterious mask from a dead samurai.",
+      "popularity": 2.2647,
+      "poster_path": "/xyPLG53OodhJtvfQEfcmC43l16O.jpg",
+      "release_date": "1964-11-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.674,
+      "vote_count": 487
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/p8TUKej4ka8FYAirpOoCy77t6yd.jpg",
+      "genre_ids": [
+        53,
+        18,
+        10752
+      ],
+      "id": 502,
+      "title": "Fail Safe",
+      "original_language": "en",
+      "original_title": "Fail Safe",
+      "overview": "Because of a technical defect an American bomber team mistakenly orders the destruction of Moscow. The President of the United States has but little time to prevent an atomic catastrophe from occurring.",
+      "popularity": 2.6507,
+      "poster_path": "/qrsj5hort5xkLOKw9NyraGMnlVP.jpg",
+      "release_date": "1964-10-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 477
+    }
+  ],
+  "total_pages": 5,
+  "total_results": 85
+}

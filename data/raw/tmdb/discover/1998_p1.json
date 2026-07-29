@@ -1,0 +1,423 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/aCHn2TXYJfzPXQKA6r9mKPbMlUB.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 37165,
+      "title": "The Truman Show",
+      "original_language": "en",
+      "original_title": "The Truman Show",
+      "overview": "In a picture-perfect seaside town, an insurance salesman begins to realize that his entire existence may be staged and observed by a vast unseen audience as part of a long-running real-time reality TV show.",
+      "popularity": 25.1872,
+      "poster_path": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+      "release_date": "1998-06-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.2,
+      "vote_count": 20497
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+      "genre_ids": [
+        10752,
+        18,
+        36
+      ],
+      "id": 857,
+      "title": "Saving Private Ryan",
+      "original_language": "en",
+      "original_title": "Saving Private Ryan",
+      "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+      "popularity": 26.9138,
+      "poster_path": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+      "release_date": "1998-07-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.231,
+      "vote_count": 17490
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6qHI1IYj7QlLSCwHRzkL62X175s.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 73,
+      "title": "American History X",
+      "original_language": "en",
+      "original_title": "American History X",
+      "overview": "Derek Vineyard is paroled after serving 3 years in prison for killing two African-American men. Through his brother, Danny Vineyard's narration, we learn that before going to prison, Derek was a skinhead and the leader of a violent white supremacist gang that committed acts of racial crime throughout L.A. and his actions greatly influenced Danny. Reformed and fresh out of prison, Derek severs contact with the gang and becomes determined to keep Danny from going down the same violent path as he did.",
+      "popularity": 14.1984,
+      "poster_path": "/x2drgoXYZ8484lqyDj7L1CEVR4T.jpg",
+      "release_date": "1998-07-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.327,
+      "vote_count": 12713
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hXsy4XCCHrUk81XoRhcooyWejao.jpg",
+      "genre_ids": [
+        35,
+        80
+      ],
+      "id": 115,
+      "title": "The Big Lebowski",
+      "original_language": "en",
+      "original_title": "The Big Lebowski",
+      "overview": "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants to bowl and drink White Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adult film producers, ferrets, errant toes, and large sums of money.",
+      "popularity": 18.706,
+      "poster_path": "/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg",
+      "release_date": "1998-03-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.835,
+      "vote_count": 12311
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mUYV0ZdsDEliGaQahcQH1F3grsP.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12
+      ],
+      "id": 10674,
+      "title": "Mulan",
+      "original_language": "en",
+      "original_title": "Mulan",
+      "overview": "When Imperial China calls one man from every family to defend the empire from invading Huns, a young woman disguises herself as a soldier to take her ailing father’s place. Facing ruthless invaders, brutal training, and the risk of execution if discovered, she must decide who she truly is— and what she’s willing to fight for.",
+      "popularity": 16.6576,
+      "poster_path": "/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg",
+      "release_date": "1998-06-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.905,
+      "vote_count": 10546
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg",
+      "genre_ids": [
+        12,
+        16,
+        35,
+        10751
+      ],
+      "id": 9487,
+      "title": "A Bug's Life",
+      "original_language": "en",
+      "original_title": "A Bug's Life",
+      "overview": "On behalf of \"oppressed bugs everywhere,\" an inventive ant named Flik hires a troupe of warrior bugs to defend his bustling colony from a horde of freeloading grasshoppers led by the evil-minded Hopper.",
+      "popularity": 13.7602,
+      "poster_path": "/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
+      "release_date": "1998-11-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.981,
+      "vote_count": 9807
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1cO6OQJxz7YhTZ4V1OlkYfebeJa.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 95,
+      "title": "Armageddon",
+      "original_language": "en",
+      "original_title": "Armageddon",
+      "overview": "When an asteroid threatens to collide with Earth, NASA honcho Dan Truman determines the only way to stop it is to drill into its surface and detonate a nuclear bomb. This leads him to renowned driller Harry Stamper, who agrees to helm the dangerous space mission provided he can bring along his own hotshot crew. Among them is the cocksure A.J. who Harry thinks isn't good enough for his daughter, until the mission proves otherwise.",
+      "popularity": 14.0533,
+      "poster_path": "/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",
+      "release_date": "1998-07-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.833,
+      "vote_count": 8686
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cXQH2u7wUIX1eoIdEj51kHXoWhX.jpg",
+      "genre_ids": [
+        35,
+        80
+      ],
+      "id": 100,
+      "title": "Lock, Stock and Two Smoking Barrels",
+      "original_language": "en",
+      "original_title": "Lock, Stock and Two Smoking Barrels",
+      "overview": "A card shark and his unwillingly-enlisted friends need to make a lot of cash quick after losing a sketchy poker match. To do this they decide to pull a heist on a small-time gang who happen to be operating out of the flat next door.",
+      "popularity": 4.8295,
+      "poster_path": "/6pJB2t3MbQUy9m5pFIBHXLqnqNd.jpg",
+      "release_date": "1998-08-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.097,
+      "vote_count": 7279
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7NKfxJrQn053UJeLftlx4m4NTzo.jpg",
+      "genre_ids": [
+        27,
+        28
+      ],
+      "id": 36647,
+      "title": "Blade",
+      "original_language": "en",
+      "original_title": "Blade",
+      "overview": "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
+      "popularity": 19.0279,
+      "poster_path": "/oWT70TvbsmQaqyphCZpsnQR7R32.jpg",
+      "release_date": "1998-08-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.846,
+      "vote_count": 6819
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uMBByiSDpgFwWVegAtwwnuzvogJ.jpg",
+      "genre_ids": [
+        14,
+        18,
+        10749
+      ],
+      "id": 297,
+      "title": "Meet Joe Black",
+      "original_language": "en",
+      "original_title": "Meet Joe Black",
+      "overview": "Bill Parrish has it all - success, wealth and power. Days before his 65th birthday, he receives a visit from a mysterious stranger, Joe Black, who soon reveals himself as Death. In exchange for extra time, Bill agrees to serve as Joe's earthly guide. But will he regret his choice when Joe unexpectedly falls in love with Bill's beautiful daughter Susan?",
+      "popularity": 10.0672,
+      "poster_path": "/fDPAjvfPMomkKF7cMRmL5Anak61.jpg",
+      "release_date": "1998-11-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.369,
+      "vote_count": 5840
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9FrpAtF87VKblKkDEiIZzYgO40K.jpg",
+      "genre_ids": [
+        28,
+        35,
+        80
+      ],
+      "id": 2109,
+      "title": "Rush Hour",
+      "original_language": "en",
+      "original_title": "Rush Hour",
+      "overview": "When Hong Kong Inspector Lee is summoned to Los Angeles to investigate a kidnapping, the FBI doesn't want any outside help and assigns cocky LAPD Detective James Carter to distract Lee from the case. Not content to watch the action from the sidelines, Lee and Carter form an unlikely partnership and investigate the case themselves.",
+      "popularity": 13.7136,
+      "poster_path": "/nwPhAsfnb7f46bZkWLG7IRP5HXr.jpg",
+      "release_date": "1998-09-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.084,
+      "vote_count": 5762
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/egJQ3nIon5fT8wyXcKRHzvmtZpD.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "id": 544,
+      "title": "There's Something About Mary",
+      "original_language": "en",
+      "original_title": "There's Something About Mary",
+      "overview": "For Ted, prom night went about as bad as it’s possible for any night to go. Thirteen years later, he finally gets another chance with his old prom date, only to run up against other suitors including the sleazy detective he hired to find her.",
+      "popularity": 8.2767,
+      "poster_path": "/slJD1Dvnsf15LoeqhERsyzisAdn.jpg",
+      "release_date": "1998-07-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.634,
+      "vote_count": 5417
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3TimUBrXMVblpnTsyg4HssGVbBv.jpg",
+      "genre_ids": [
+        53,
+        878,
+        9648
+      ],
+      "id": 431,
+      "title": "Cube",
+      "original_language": "en",
+      "original_title": "Cube",
+      "overview": "A group of strangers find themselves trapped in a maze-like prison. It soon becomes clear that each of them possesses the peculiar skills necessary to escape, if they don't wind up dead first.",
+      "popularity": 5.7755,
+      "poster_path": "/x4BTjxdrOKC27FcSkBh8KPEgnum.jpg",
+      "release_date": "1998-07-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.826,
+      "vote_count": 5297
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qJaR9AZx2Qq2oJ3krnSO0Z5ne5I.jpg",
+      "genre_ids": [
+        12,
+        18,
+        35
+      ],
+      "id": 1878,
+      "title": "Fear and Loathing in Las Vegas",
+      "original_language": "en",
+      "original_title": "Fear and Loathing in Las Vegas",
+      "overview": "Raoul Duke and his attorney Dr. Gonzo drive a red convertible across the Mojave desert to Las Vegas with a suitcase full of drugs to cover a motorcycle race. As their consumption of drugs increases at an alarming rate, the stoned duo trash their hotel room and fear legal repercussions. Duke begins to drive back to L.A., but after an odd run-in with a cop, he returns to Sin City and continues his wild drug binge.",
+      "popularity": 6.4276,
+      "poster_path": "/tisNLcMkxryU2zxhi0PiyDFqhm0.jpg",
+      "release_date": "1998-05-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.202,
+      "vote_count": 5079
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i4NvcHeYeAdLEFiLxEVvUA3BT0.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751
+      ],
+      "id": 8916,
+      "title": "Antz",
+      "original_language": "en",
+      "original_title": "Antz",
+      "overview": "A neurotic worker ant in love with a rebellious princess rises to unlikely stardom when he switches places with a soldier. Signing up to march in a parade, he ends up under the command of a bloodthirsty general. But he's actually been enlisted to fight against a termite army.",
+      "popularity": 6.1024,
+      "poster_path": "/lWPjxbUMpAHFkJpZHHNWhQaRsax.jpg",
+      "release_date": "1998-10-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.19,
+      "vote_count": 4789
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vyOFlV1afDHb9MMwJVyON4qXbvC.jpg",
+      "genre_ids": [
+        12,
+        16,
+        18,
+        10751,
+        10749
+      ],
+      "id": 9732,
+      "title": "The Lion King II: Simba's Pride",
+      "original_language": "en",
+      "original_title": "The Lion King II: Simba's Pride",
+      "overview": "The circle of life continues for Simba, now fully grown and in his rightful place as the king of Pride Rock. Simba and Nala have given birth to a daughter, Kiara who's as rebellious as her father was. But Kiara drives her parents to distraction when she catches the eye of Kovu, the son of the evil lioness, Zira. Will Kovu steal Kiara's heart?",
+      "popularity": 10.15,
+      "poster_path": "/sWR1x6UCMCGN9xEf8RGhPS934X0.jpg",
+      "release_date": "1998-10-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.943,
+      "vote_count": 4709
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/y3zUOMWRoI2vC4ck2GBJyFWhzyA.jpg",
+      "genre_ids": [
+        35,
+        10751,
+        10749
+      ],
+      "id": 9820,
+      "title": "The Parent Trap",
+      "original_language": "en",
+      "original_title": "The Parent Trap",
+      "overview": "Hallie Parker and Annie James are identical twins who were separated at a young age due to their parents' divorce. Unbeknownst to their parents, the girls are sent to the same summer camp, where they meet, discover the truth about their relationship, and come up with a plan to switch places in an effort to reunite their mother and father.",
+      "popularity": 13.4003,
+      "poster_path": "/p4dGmi8u9W0HHyVXcgWPoiFfKTF.jpg",
+      "release_date": "1998-07-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.217,
+      "vote_count": 4574
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fozyUa1Zl9kMb1CxDIR6tybw8Jt.jpg",
+      "genre_ids": [
+        28,
+        12
+      ],
+      "id": 9342,
+      "title": "The Mask of Zorro",
+      "original_language": "en",
+      "original_title": "The Mask of Zorro",
+      "overview": "It has been twenty years since Don Diego de la Vega fought Spanish oppression in Alta California as the legendary romantic hero, Zorro. Having escaped from prison he transforms troubled bandit Alejandro into his successor, in order to foil the plans of the tyrannical Don Rafael Montero who robbed him of his freedom, his wife and his precious daughter.",
+      "popularity": 8.6407,
+      "poster_path": "/bdMufwGDDzqu4kTSQwrKc5WR4bu.jpg",
+      "release_date": "1998-07-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.585,
+      "vote_count": 4381
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/565DYYXgdRYMiETLi2EDx4p7s92.jpg",
+      "genre_ids": [
+        12,
+        16,
+        18,
+        10751
+      ],
+      "id": 9837,
+      "title": "The Prince of Egypt",
+      "original_language": "en",
+      "original_title": "The Prince of Egypt",
+      "overview": "The strong bond between two Royal Egyptian brothers is challenged when their chosen responsibilities set them at odds, with extraordinary consequences.",
+      "popularity": 8.8283,
+      "poster_path": "/2xUjYwL6Ol7TLJPPKs7sYW5PWLX.jpg",
+      "release_date": "1998-12-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 4357
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lPLTLCBn39Wiy1RPQLB9xOKyF2v.jpg",
+      "genre_ids": [
+        28,
+        18,
+        53
+      ],
+      "id": 9798,
+      "title": "Enemy of the State",
+      "original_language": "en",
+      "original_title": "Enemy of the State",
+      "overview": "When the videotape of the murder of a congressman unknowingly ends up in the hands of labor lawyer and dedicated family man Robert Clayton Dean, he is framed for the murder. With the help of the mysterious Brill, Dean attempts to throw the NSA off his trail and prove his innocence.",
+      "popularity": 7.1648,
+      "poster_path": "/x9pXrMKLsBGGOFyyZ0Gwt9YpVub.jpg",
+      "release_date": "1998-11-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.075,
+      "vote_count": 4329
+    }
+  ],
+  "total_pages": 14,
+  "total_results": 273
+}

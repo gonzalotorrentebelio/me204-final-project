@@ -1,0 +1,417 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/rnMwOM8gMqo6Gf6XXMpaJEayUwk.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        12
+      ],
+      "id": 10112,
+      "title": "The Aristocats",
+      "original_language": "en",
+      "original_title": "The Aristocats",
+      "overview": "When Madame Adelaide Bonfamille leaves her fortune to Duchess and her children—Bonfamille’s beloved family of cats—the butler plots to steal the money and kidnaps the legatees, leaving them out on a country road. All seems lost until the wily Thomas O’Malley Cat and his jazz-playing alley cats come to the aristocats’ rescue.",
+      "popularity": 8.0361,
+      "poster_path": "/aOWs5XMJEABN6SKCTJBCoeD1kCA.jpg",
+      "release_date": "1970-12-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.304,
+      "vote_count": 5409
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gxz2lWaekGbVu8ODCi2qeZyBX1g.jpg",
+      "genre_ids": [
+        12,
+        878,
+        9648
+      ],
+      "id": 1685,
+      "title": "Beneath the Planet of the Apes",
+      "original_language": "en",
+      "original_title": "Beneath the Planet of the Apes",
+      "overview": "The sole survivor of an interplanetary rescue mission lands on the planet of the apes, and uncovers a horrible secret beneath the surface.",
+      "popularity": 4.2074,
+      "poster_path": "/szHCeYwi4ubewuYnlnz0YGqWnQC.jpg",
+      "release_date": "1970-04-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.145,
+      "vote_count": 1492
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/z2EYbXNON8bQDgE0YY1SdRe5C4j.jpg",
+      "genre_ids": [
+        28,
+        35,
+        37
+      ],
+      "id": 9394,
+      "title": "They Call Me Trinity",
+      "original_language": "it",
+      "original_title": "Lo chiamavano Trinità...",
+      "overview": "The simple story has the pair coming to the rescue of peace-loving Mormons when land-hungry Major Harriman sends his bullies to harass them into giving up their fertile valley. Trinity and Bambino manage to save the Mormons and send the bad guys packing with slapstick humor instead of excessive violence, saving the day.",
+      "popularity": 4.337,
+      "poster_path": "/qY7iV4BJD5IXJU4iXlcZxKN8s9w.jpg",
+      "release_date": "1970-12-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 1477
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/txXPooNu7fr4YhLwx7AlXkU0PnN.jpg",
+      "genre_ids": [
+        10752,
+        18,
+        36
+      ],
+      "id": 11202,
+      "title": "Patton",
+      "original_language": "en",
+      "original_title": "Patton",
+      "overview": "\"Patton\" tells the tale of General George S. Patton, famous tank commander of World War II. The film begins with Patton's career in North Africa and progresses through the invasion of Germany and the fall of the Third Reich. Side plots also speak of Patton's numerous faults such his temper and habit towards insubordination.",
+      "popularity": 3.8303,
+      "poster_path": "/rLM7jIEPTjj4CF7F1IrzzNjLUCu.jpg",
+      "release_date": "1970-01-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.462,
+      "vote_count": 1228
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3YWL6rZmvZxCQw2qEwxPGrqhYku.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10752
+      ],
+      "id": 651,
+      "title": "M*A*S*H",
+      "original_language": "en",
+      "original_title": "M*A*S*H",
+      "overview": "One of the world's most acclaimed comedies, M*A*S*H focuses on three Korean War Army surgeons brilliantly brought to life by Donald Sutherland, Tom Skerritt and Elliott Gould. Though highly skilled and deeply dedicated, they adopt a hilarious, lunatic lifestyle as an antidote to the tragedies of their Mobile Army Surgical Hospital, and in the process infuriate Army bureaucrats. Robert Duvall, Gary Burghoff and Sally Kellerman co-star as a sanctimonious Major, an other-worldly Corporal, and a self-righteous yet lusty nurse.",
+      "popularity": 6.9774,
+      "poster_path": "/on8Q9LhtHYNhmITjUMpgOUkIG8o.jpg",
+      "release_date": "1970-02-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.942,
+      "vote_count": 1169
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7SUT9mYb7SD88Gz7rFeLbjC2YeG.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 26451,
+      "title": "Investigation of a Citizen Above Suspicion",
+      "original_language": "it",
+      "original_title": "Indagine su un cittadino al di sopra di ogni sospetto",
+      "overview": "Rome, Italy. After committing a heinous crime, a senior police officer exposes evidence incriminating him because his moral commitment prevents him from circumventing the law and the social order it protects.",
+      "popularity": 2.0781,
+      "poster_path": "/vPTZwlq1IC4o1DCsEZEl2uGljzm.jpg",
+      "release_date": "1970-10-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.182,
+      "vote_count": 882
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uj4vPPQBsD4HXoltTgPysfhm4Qn.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "id": 20345,
+      "title": "The Bird with the Crystal Plumage",
+      "original_language": "it",
+      "original_title": "L'uccello dalle piume di cristallo",
+      "overview": "An American writer living in Rome witnesses an attempted murder that is connected to an ongoing killing spree in the city and conducts his own investigation, despite him and his girlfriend being targeted by the killer.",
+      "popularity": 2.5149,
+      "poster_path": "/dpALRkwodEIT7TGX9SqTgwVNn0i.jpg",
+      "release_date": "1970-02-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.14,
+      "vote_count": 842
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eSEhPsuIiKEGdZRrBsAJbEH6AGk.jpg",
+      "genre_ids": [
+        12,
+        35,
+        10752
+      ],
+      "id": 11589,
+      "title": "Kelly's Heroes",
+      "original_language": "en",
+      "original_title": "Kelly's Heroes",
+      "overview": "A misfit group of World War II American soldiers goes AWOL to rob a bank behind German lines.",
+      "popularity": 3.7757,
+      "poster_path": "/hleMxFKSC42yT0TClS4G29HV11n.jpg",
+      "release_date": "1970-06-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.382,
+      "vote_count": 831
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jZC1xS5DVTe4T5azqJ4NB2QBpgt.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 9062,
+      "title": "Love Story",
+      "original_language": "en",
+      "original_title": "Love Story",
+      "overview": "Harvard Law student Oliver Barrett IV and music student Jennifer Cavilleri share a chemistry they cannot deny - and a love they cannot ignore. Despite their opposite backgrounds, the young couple put their hearts on the line for each other. When they marry, Oliver's wealthy father threatens to disown him. Jenny tries to reconcile the Barrett men, but to no avail.",
+      "popularity": 3.9624,
+      "poster_path": "/yCjADq9fwbdPnxMo0DKNeRGZ4YC.jpg",
+      "release_date": "1970-12-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.826,
+      "vote_count": 743
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/93iDrZmjDF01Tn3PxOYL8Zz9hBM.jpg",
+      "genre_ids": [
+        80,
+        53
+      ],
+      "id": 11657,
+      "title": "Le Cercle Rouge",
+      "original_language": "fr",
+      "original_title": "Le Cercle rouge",
+      "overview": "When French criminal Corey gets released from prison, he resolves to never return. He is quickly pulled back into the underworld, however, after a chance encounter with escaped murderer Vogel. Along with former policeman and current alcoholic Jansen, they plot an intricate jewel heist. All the while, quirky Police Commissioner Mattei, who was the one to lose custody of Vogel, is determined to find him.",
+      "popularity": 2.9619,
+      "poster_path": "/w56La43IJnGpLepgqfGCAZsbQPp.jpg",
+      "release_date": "1970-10-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.605,
+      "vote_count": 735
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uuich47VwLn44B0gHmhgLt6hTcM.jpg",
+      "genre_ids": [
+        37,
+        35,
+        12,
+        18
+      ],
+      "id": 11040,
+      "title": "Little Big Man",
+      "original_language": "en",
+      "original_title": "Little Big Man",
+      "overview": "Jack Crabb, looking back from extreme old age, tells of his life being raised by Indians and fighting with General Custer.",
+      "popularity": 2.1202,
+      "poster_path": "/pLvUVqadEI9cPrRlTru6ee71EWU.jpg",
+      "release_date": "1970-12-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.442,
+      "vote_count": 727
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qVZOjhe5BiqFaa9UPSTt71hpi6l.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 11916,
+      "title": "Two Mules for Sister Sara",
+      "original_language": "en",
+      "original_title": "Two Mules for Sister Sara",
+      "overview": "When a wandering mercenary named Hogan rescues a nun called Sister Sara from the unwanted attentions of a band of rogues on the Mexican plains, he has no idea what he has let himself in for. Their chance encounter results in the blowing up of a train and a French garrison, as well as igniting a spark between them that survives a shocking discovery.",
+      "popularity": 3.2972,
+      "poster_path": "/RbuNHMlrw7M2w1R3hZMAPwh6dG.jpg",
+      "release_date": "1970-03-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 685
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xkfXO0Zswvvlbs0FlxH3TA4qji3.jpg",
+      "genre_ids": [
+        12,
+        18,
+        37
+      ],
+      "id": 13041,
+      "title": "El Topo",
+      "original_language": "es",
+      "original_title": "El Topo",
+      "overview": "El Topo decides to confront warrior Masters on a trans-formative desert journey he begins with his 6 year old son, who must bury his childhood totems to become a man.",
+      "popularity": 2.6179,
+      "poster_path": "/fKoNBTATc94rUYLq8VyypS24LUw.jpg",
+      "release_date": "1970-12-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.056,
+      "vote_count": 670
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/z2mntgw06VvPybd1YlNBi5prg7N.jpg",
+      "genre_ids": [
+        10752,
+        36,
+        18
+      ],
+      "id": 11165,
+      "title": "Tora! Tora! Tora!",
+      "original_language": "en",
+      "original_title": "Tora! Tora! Tora!",
+      "overview": "In the summer of 1941, the United States and Japan seem on the brink of war after constant embargos and failed diplomacy come to no end. \"Tora! Tora! Tora!\", named after the code words used by the lead Japanese pilot to indicate they had surprised the Americans, covers the days leading up to the attack on Pearl Harbor, which plunged America into the Second World War.",
+      "popularity": 3.7504,
+      "poster_path": "/c311sN931DixuZRer0JGYCwpx9N.jpg",
+      "release_date": "1970-01-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.175,
+      "vote_count": 608
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/y7pnEmBotaowRY0o8V33r4JuRNS.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 26617,
+      "title": "Five Easy Pieces",
+      "original_language": "en",
+      "original_title": "Five Easy Pieces",
+      "overview": "Robert Dupea spends his days doing various odd jobs, drinking and womanizing until an encounter with his sister makes him revisit his past.",
+      "popularity": 2.5766,
+      "poster_path": "/sUEzamvvoTIhPIVhfZw3pUEo6bY.jpg",
+      "release_date": "1970-09-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 605
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rZoLlRrD0QE3wYJGPjkv6IMrGjB.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 11913,
+      "title": "The Gendarme Takes Off",
+      "original_language": "fr",
+      "original_title": "Le Gendarme en balade",
+      "overview": "The whole clique of Cruchot's police station is retired. Now he lives with his rich wife in her castle - and is bored almost to death. He fights with the butler, because he isn't even allowed to do the simple works. But when one of the clique suffers from amnesia after an accident, all of the others reunite and kidnap him, to take him on a tour to their old working places and through their memories. In their old uniforms they turn St. Tropez upside down.",
+      "popularity": 1.7123,
+      "poster_path": "/8vyd7FSnU1LOb1CpLI20KnZZjJX.jpg",
+      "release_date": "1970-10-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.339,
+      "vote_count": 557
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3yZva3ONs7C1kKJ6IVvrZQJCUIj.jpg",
+      "genre_ids": [
+        14,
+        35,
+        10402,
+        10749
+      ],
+      "id": 5590,
+      "title": "Donkey Skin",
+      "original_language": "fr",
+      "original_title": "Peau d'âne",
+      "overview": "A fairy godmother helps a princess disguise herself so she won't have to marry her father.",
+      "popularity": 2.3358,
+      "poster_path": "/kSODEFNpTBCOJNHhsbwrwvH0Uvd.jpg",
+      "release_date": "1970-12-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.215,
+      "vote_count": 556
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1LLYXoaAfjcwG2P8zXPk2GQkA0c.jpg",
+      "genre_ids": [
+        18,
+        53,
+        28
+      ],
+      "id": 10671,
+      "title": "Airport",
+      "original_language": "en",
+      "original_title": "Airport",
+      "overview": "An airport manager tries to keep his terminals open during a snowstorm, while a suicide bomber plots to blow up a Boeing 707 airliner in flight.",
+      "popularity": 3.1241,
+      "poster_path": "/6iOKluJfyiU1SLZbGYrY7Z0i6k0.jpg",
+      "release_date": "1970-03-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.473,
+      "vote_count": 455
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eWvxOS5g67B1b46Cff9TlYuJleY.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 13384,
+      "title": "Kes",
+      "original_language": "en",
+      "original_title": "Kes",
+      "overview": "Bullied at school and ignored and abused at home by his indifferent mother and older brother, Billy Casper, a 15-year-old working-class Yorkshire boy, tames and trains his pet kestrel falcon whom he names Kes. Helped and encouraged by his English teacher and his fellow students, Billy finally finds a positive purpose to his unhappy existence.",
+      "popularity": 2.1674,
+      "poster_path": "/r1FMq75irhsQBVGjXhPU4xA9SDo.jpg",
+      "release_date": "1970-04-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.42,
+      "vote_count": 448
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nLb3TOTjgvvjmHnUmlkg4Rwq9jG.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 2998,
+      "title": "Zabriskie Point",
+      "original_language": "en",
+      "original_title": "Zabriskie Point",
+      "overview": "Anthropology student Daria, who's helping a property developer build a village in the Los Angeles desert, and dropout Mark, who's wanted by the authorities for allegedly killing a policeman during a student riot, accidentally encounter each other in Death Valley and soon begin an unrestrained romance.",
+      "popularity": 1.8751,
+      "poster_path": "/uelo2oMg4fM51LAm4eEArEwOHXZ.jpg",
+      "release_date": "1970-03-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.998,
+      "vote_count": 446
+    }
+  ],
+  "total_pages": 5,
+  "total_results": 91
+}

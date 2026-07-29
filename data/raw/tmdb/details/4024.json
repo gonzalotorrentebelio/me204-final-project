@@ -1,0 +1,110 @@
+{
+  "adult": false,
+  "backdrop_path": "/h1ov8VcVCiZsnWRu4EjZ74R33GP.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 4024,
+  "imdb_id": "tt0054632",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "L'Année dernière à Marienbad",
+  "overview": "At a weekend gathering, a man tells a woman that they had spent time there together a year prior. But, the woman has no recollection whatsoever and is convinced that he is simply fabricating the encounter. The more he speaks about their activities the previous year however, the more compelling he becomes. The question remains however – did they meet previously or not?",
+  "popularity": 2.6,
+  "poster_path": "/syIJCqiSkGRJTlyaBtyI5jqPtE7.jpg",
+  "production_companies": [
+    {
+      "id": 9387,
+      "logo_path": null,
+      "name": "Cineriz",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1476,
+      "logo_path": null,
+      "name": "Cormoran Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 142,
+      "logo_path": null,
+      "name": "Silver Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 6116,
+      "logo_path": "/yCu2D15iD7lcYsBWqXjU65U9nkH.png",
+      "name": "Argos films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1129,
+      "logo_path": null,
+      "name": "Cinétel",
+      "origin_country": "FR"
+    },
+    {
+      "id": 147865,
+      "logo_path": null,
+      "name": "Terra Film",
+      "origin_country": "FR"
+    },
+    {
+      "id": 232849,
+      "logo_path": null,
+      "name": "Precitel",
+      "origin_country": ""
+    },
+    {
+      "id": 46570,
+      "logo_path": null,
+      "name": "Como Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1543,
+      "logo_path": null,
+      "name": "Les Films Tamara",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1961-09-29",
+  "revenue": 0,
+  "runtime": 95,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Extraordinary! Hypnotic! Beautiful! Masterful!",
+  "title": "Last Year at Marienbad",
+  "video": false,
+  "vote_average": 7.434,
+  "vote_count": 547
+}

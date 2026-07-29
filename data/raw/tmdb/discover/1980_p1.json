@@ -1,0 +1,412 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 694,
+      "title": "The Shining",
+      "original_language": "en",
+      "original_title": "The Shining",
+      "overview": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+      "popularity": 35.0838,
+      "poster_path": "/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
+      "release_date": "1980-05-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.202,
+      "vote_count": 19114
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k9pshruhCpJAdH9RaGJO6jaWQ4X.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "id": 1891,
+      "title": "The Empire Strikes Back",
+      "original_language": "en",
+      "original_title": "The Empire Strikes Back",
+      "overview": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
+      "popularity": 20.5462,
+      "poster_path": "/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+      "release_date": "1980-05-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.392,
+      "vote_count": 18592
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wQyvrsNSTzFVEGgarZbFkFyIciy.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 813,
+      "title": "Airplane!",
+      "original_language": "en",
+      "original_title": "Airplane!",
+      "overview": "An ex-fighter pilot forced to take over the controls of an airliner when the flight crew succumbs to food poisoning.",
+      "popularity": 8.821,
+      "poster_path": "/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+      "release_date": "1980-06-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.306,
+      "vote_count": 5136
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 1578,
+      "title": "Raging Bull",
+      "original_language": "en",
+      "original_title": "Raging Bull",
+      "overview": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+      "popularity": 6.341,
+      "poster_path": "/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+      "release_date": "1980-11-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.899,
+      "vote_count": 4817
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bk2fTuIhQIvdAA3RbnrnvLvuaTc.jpg",
+      "genre_ids": [
+        10402,
+        35,
+        80
+      ],
+      "id": 525,
+      "title": "The Blues Brothers",
+      "original_language": "en",
+      "original_title": "The Blues Brothers",
+      "overview": "Jake Blues, just released from prison, puts his old band back together to save the Catholic home where he and his brother Elwood were raised.",
+      "popularity": 6.721,
+      "poster_path": "/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg",
+      "release_date": "1980-06-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.716,
+      "vote_count": 4602
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6huSptAsqYg3wbsi1jbMognSgmp.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 1955,
+      "title": "The Elephant Man",
+      "original_language": "en",
+      "original_title": "The Elephant Man",
+      "overview": "A Victorian surgeon rescues a heavily disfigured man being mistreated by his \"owner\" as a side-show freak. Behind his monstrous façade, there is revealed a person of great intelligence and sensitivity. Based on the true story of Joseph Merrick (called John Merrick in the film), a severely deformed man in 19th century London.",
+      "popularity": 5.8314,
+      "poster_path": "/u0wpPYjuSt8DIe1Y3Vapnh8jcKE.jpg",
+      "release_date": "1980-10-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.049,
+      "vote_count": 3983
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/16zzKM5vDxnYiqG6Tg6wOkOLSmj.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 4488,
+      "title": "Friday the 13th",
+      "original_language": "en",
+      "original_title": "Friday the 13th",
+      "overview": "Camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp that was the site of a child's drowning.",
+      "popularity": 7.6233,
+      "poster_path": "/uGGpnWHOmWTARVN9wbC1nPxNgps.jpg",
+      "release_date": "1980-05-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.402,
+      "vote_count": 3395
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/e77VeVcrXhxfCdJWD9rameYn7Qn.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 8536,
+      "title": "Superman II",
+      "original_language": "en",
+      "original_title": "Superman II",
+      "overview": "Three Kryptonian criminals led by General Zod team up with Lex Luthor to conquer Earth, forcing a depowered Superman to regain his strength and stop them.",
+      "popularity": 6.0169,
+      "poster_path": "/3xk5cno9BHcnwc97XO9k21aI1Zi.jpg",
+      "release_date": "1980-12-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.762,
+      "vote_count": 2556
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4HYBkZPz2Gb7LWXludvvOfATzGS.jpg",
+      "genre_ids": [
+        12,
+        18,
+        10749
+      ],
+      "id": 5689,
+      "title": "The Blue Lagoon",
+      "original_language": "en",
+      "original_title": "The Blue Lagoon",
+      "overview": "Two small children and a ship's cook survive a shipwreck and find safety on an idyllic tropical island. Soon, however, the cook dies and the young boy and girl are left on their own. Days become years and Emmeline and Richard make a home for themselves surrounded by exotic creatures and nature's beauty. But will they ever see civilization again?",
+      "popularity": 6.8927,
+      "poster_path": "/hg57Zr63A96mpIQKHxOjHYqCVhI.jpg",
+      "release_date": "1980-07-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.142,
+      "vote_count": 2049
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7QBBvE6tA1kUlo7AKeZZMygdSHp.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 8689,
+      "title": "Cannibal Holocaust",
+      "original_language": "it",
+      "original_title": "Cannibal Holocaust",
+      "overview": "A New York University professor returns from a rescue mission to the Amazon rainforest with the footage shot by a lost team of documentarians who were making a film about the area's local cannibal tribes.",
+      "popularity": 10.5125,
+      "poster_path": "/otxZzMh53TsN7yYFqSZ3rwH1yMd.jpg",
+      "release_date": "1980-02-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.249,
+      "vote_count": 1901
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pAOLiapALC7Q5pcCPDTA6P9pRuv.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 790,
+      "title": "The Fog",
+      "original_language": "en",
+      "original_title": "The Fog",
+      "overview": "Strange things begin to occur as a tiny California coastal town prepares to commemorate its centenary. Inanimate objects spring eerily to life; Rev. Malone stumbles upon a dark secret about the town's founding; radio announcer Stevie witnesses a mystical fire; and hitchhiker Elizabeth discovers the mutilated corpse of a fisherman. Then a mysterious iridescent fog descends upon the village, and more people start to die.",
+      "popularity": 9.3711,
+      "poster_path": "/12EeSboRofP3CI4SPmMFNNXCbtY.jpg",
+      "release_date": "1980-02-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.742,
+      "vote_count": 1777
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3gzI0UrLqIR9D40qshwduhGZCp3.jpg",
+      "genre_ids": [
+        28,
+        35
+      ],
+      "id": 8393,
+      "title": "The Gods Must Be Crazy",
+      "original_language": "en",
+      "original_title": "The Gods Must Be Crazy",
+      "overview": "A Coca-Cola bottle dropped from an airplane raises havoc among a normally peaceful tribe of African bushmen who believe it to be a utensil of the gods.",
+      "popularity": 6.0515,
+      "poster_path": "/wntGWN2mpeS3QaUm1PTKAcTM9K7.jpg",
+      "release_date": "1980-09-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.272,
+      "vote_count": 1334
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3tqRm30c1Nbe82xvBOdRhYh0Uet.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 11977,
+      "title": "Caddyshack",
+      "original_language": "en",
+      "original_title": "Caddyshack",
+      "overview": "At an exclusive country club, an ambitious young caddy, Danny Noonan, eagerly pursues a caddy scholarship in hopes of attending college and, in turn, avoiding a job at the lumber yard. In order to succeed, he must first win the favour of the elitist Judge Smails, and then the caddy golf tournament which Smails sponsors.",
+      "popularity": 3.3719,
+      "poster_path": "/lXnNz7zOXCsftMDVoU3VSo0Eioi.jpg",
+      "release_date": "1980-07-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.592,
+      "vote_count": 1315
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/An4QeEvTDmWBnDmorMo0H8xxn6w.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        35
+      ],
+      "id": 166,
+      "title": "The Party",
+      "original_language": "fr",
+      "original_title": "La Boum",
+      "overview": "A thirteen-year-old French girl deals with moving to a new city and school in Paris, while at the same time her parents are getting a divorce.",
+      "popularity": 4.1286,
+      "poster_path": "/usGV1Q7KWR0Uq4dOIppGZ0ba8kz.jpg",
+      "release_date": "1980-12-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.597,
+      "vote_count": 1222
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vTsEz34qxqBDOxVNdqC1bXNlL3X.jpg",
+      "genre_ids": [
+        53,
+        9648,
+        27
+      ],
+      "id": 11033,
+      "title": "Dressed to Kill",
+      "original_language": "en",
+      "original_title": "Dressed to Kill",
+      "overview": "After witnessing a mysterious woman brutally slay a homemaker, prostitute Liz Blake finds herself trapped in a dangerous situation. While the police thinks she is the murderer, the real killer is intent on silencing her only witness.",
+      "popularity": 3.3421,
+      "poster_path": "/oy1m5dd44foNrxV8U9l6Walx82V.jpg",
+      "release_date": "1980-07-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.958,
+      "vote_count": 1129
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fU92iWyQbysjAQmkfkuFxNlWzz1.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 3604,
+      "title": "Flash Gordon",
+      "original_language": "en",
+      "original_title": "Flash Gordon",
+      "overview": "A football player and his mates travel to the planet Mongo and find themselves fighting the tyranny of Ming the Merciless to save Earth.",
+      "popularity": 3.8352,
+      "poster_path": "/eTdEaRjtVnFbd5KVhxLRfbYW46e.jpg",
+      "release_date": "1980-12-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 1112
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4iJQItnH2qmV7fZVDGvdE4XyxcO.jpg",
+      "genre_ids": [
+        27,
+        878,
+        53
+      ],
+      "id": 11542,
+      "title": "Altered States",
+      "original_language": "en",
+      "original_title": "Altered States",
+      "overview": "A research scientist explores the boundaries and frontiers of human consciousness. Using sensory deprivation and hallucinogenic mixtures from Native American shamans, he explores these altered states of cognizance and finds that memory, time, and reality itself are states of mind.",
+      "popularity": 2.9196,
+      "poster_path": "/fsoaPN5SWYgZ4B7GG9nRNj33so.jpg",
+      "release_date": "1980-12-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.716,
+      "vote_count": 776
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7qsKE8GsgjreeQ2mTLd5oKZ7Tbf.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36,
+        10752
+      ],
+      "id": 11953,
+      "title": "Kagemusha",
+      "original_language": "ja",
+      "original_title": "影武者",
+      "overview": "Akira Kurosawa's lauded feudal epic presents the tale of a petty thief who is recruited to impersonate Shingen, an aging warlord, in order to avoid attacks by competing clans. When Shingen dies, his generals reluctantly agree to have the impostor take over as the powerful ruler. He soon begins to appreciate life as Shingen, but his commitment to the role is tested when he must lead his troops into battle against the forces of a rival warlord.",
+      "popularity": 2.8349,
+      "poster_path": "/fJgqj9s8HNZz9zwX6femVJn8HEB.jpg",
+      "release_date": "1980-04-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 744
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tnbEY8Kn0mPyMfkxONYePWP5RUa.jpg",
+      "genre_ids": [
+        80,
+        18,
+        9648
+      ],
+      "id": 2768,
+      "title": "American Gigolo",
+      "original_language": "en",
+      "original_title": "American Gigolo",
+      "overview": "Julian makes a lucrative living as an escort to older women in the Los Angeles area. He begins a relationship with Michelle, a local politician's wife, without expecting any pay. One of his clients is murdered and Detective Sunday begins pumping him for details on his different clients, something he is reluctant to do considering the nature of his work. Julian begins to suspect he's being framed. Meanwhile Michelle begins to fall in love with him.",
+      "popularity": 3.3731,
+      "poster_path": "/igXGCwti23PHOjLKQX6eGIGzQiJ.jpg",
+      "release_date": "1980-02-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.183,
+      "vote_count": 739
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/r4nx6BZY4PfLPrThytBtAuwN8uV.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 13550,
+      "title": "The Changeling",
+      "original_language": "en",
+      "original_title": "The Changeling",
+      "overview": "After a tragic event happens, composer John Russell moves to Seattle to try to overcome it and build a new and peaceful life in a lonely big house that has been uninhabited for many years. But, soon after, the obscure history of such an old mansion and his own past begin to haunt him.",
+      "popularity": 2.8945,
+      "poster_path": "/z4nTYj3JZ5jWAhDgrmEhW2GRAzb.jpg",
+      "release_date": "1980-03-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.971,
+      "vote_count": 733
+    }
+  ],
+  "total_pages": 7,
+  "total_results": 133
+}

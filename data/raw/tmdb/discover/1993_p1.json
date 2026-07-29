@@ -1,0 +1,421 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/o7LzVmlOSYc3EspyVMC9bsTTARc.jpg",
+      "genre_ids": [
+        12,
+        878
+      ],
+      "id": 329,
+      "title": "Jurassic Park",
+      "original_language": "en",
+      "original_title": "Jurassic Park",
+      "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+      "popularity": 13.2808,
+      "poster_path": "/b1xCNnyrPebIc7EWNZIa6jhb1Ww.jpg",
+      "release_date": "1993-06-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.975,
+      "vote_count": 18091
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "id": 424,
+      "title": "Schindler's List",
+      "original_language": "en",
+      "original_title": "Schindler's List",
+      "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+      "popularity": 31.5373,
+      "poster_path": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "release_date": "1993-12-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.57,
+      "vote_count": 17651
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg",
+      "genre_ids": [
+        14,
+        16,
+        10751
+      ],
+      "id": 9479,
+      "title": "The Nightmare Before Christmas",
+      "original_language": "en",
+      "original_title": "The Nightmare Before Christmas",
+      "overview": "Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly king of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning. But as Christmas approaches, Jack's rag-doll girlfriend, Sally, tries to foil his misguided plans.",
+      "popularity": 13.3684,
+      "poster_path": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+      "release_date": "1993-10-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.834,
+      "vote_count": 10434
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4W6RYDNe4OByNryOCvJprrutm9h.jpg",
+      "genre_ids": [
+        10749,
+        14,
+        35
+      ],
+      "id": 137,
+      "title": "Groundhog Day",
+      "original_language": "en",
+      "original_title": "Groundhog Day",
+      "overview": "A cynical TV weatherman, along with his idealistic producer and his sardonic cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
+      "popularity": 17.2902,
+      "poster_path": "/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
+      "release_date": "1993-02-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.634,
+      "vote_count": 9005
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/f9X91dUckoRzOZlw4XBUOfkN9FC.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10751
+      ],
+      "id": 788,
+      "title": "Mrs. Doubtfire",
+      "original_language": "en",
+      "original_title": "Mrs. Doubtfire",
+      "overview": "Loving but irresponsible dad Daniel Hillard, estranged from his exasperated spouse, is crushed by a court order allowing only weekly visits with his kids. When Daniel learns his ex needs a housekeeper, he gets the job -- disguised as a British nanny. Soon he becomes not only his children's best pal but the kind of parent he should have been from the start.",
+      "popularity": 7.8026,
+      "poster_path": "/shHrSmXS5140o6sQzgzXxn3KqSm.jpg",
+      "release_date": "1993-11-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.201,
+      "vote_count": 6689
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7WVRxZ7KZmzoHnUkAjnEFT4o6Dw.jpg",
+      "genre_ids": [
+        28,
+        53,
+        18
+      ],
+      "id": 5503,
+      "title": "The Fugitive",
+      "original_language": "en",
+      "original_title": "The Fugitive",
+      "overview": "Wrongfully convicted of murdering his wife and sentenced to death, Richard Kimble escapes from the law in an attempt to find the real killer and clear his name.",
+      "popularity": 10.91,
+      "poster_path": "/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+      "release_date": "1993-08-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.485,
+      "vote_count": 4852
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nWO4sGqH950N2fij8X0Pwumqe9k.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 9800,
+      "title": "Philadelphia",
+      "original_language": "en",
+      "original_title": "Philadelphia",
+      "overview": "Two competing lawyers join forces to sue a prestigious law firm for AIDS discrimination. As their unlikely friendship develops, their courage overcomes the prejudice and corruption of their powerful adversaries.",
+      "popularity": 6.3241,
+      "poster_path": "/tFe5Yoo5zT495okA49bq1vPPkiV.jpg",
+      "release_date": "1993-12-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.709,
+      "vote_count": 4688
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/m05zMH2I7aEOP4zc0JYOdqR4JUD.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1587,
+      "title": "What's Eating Gilbert Grape",
+      "original_language": "en",
+      "original_title": "What's Eating Gilbert Grape",
+      "overview": "Gilbert Grape is a small-town young man with a lot of responsibility. Chief among his concerns are his mother, who is so overweight that she can't leave the house, and his mentally impaired younger brother, Arnie, who has a knack for finding trouble. Settled into a job at a grocery store and an ongoing affair with local woman Betty Carver, Gilbert finally has his life shaken up by the free-spirited Becky.",
+      "popularity": 6.9039,
+      "poster_path": "/8FxWgsfDNosewo7H65oE4QkOb7g.jpg",
+      "release_date": "1993-12-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.66,
+      "vote_count": 4332
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4pl165EUdvveHCr4J4YcHVA1MnD.jpg",
+      "genre_ids": [
+        80,
+        28,
+        878
+      ],
+      "id": 9739,
+      "title": "Demolition Man",
+      "original_language": "en",
+      "original_title": "Demolition Man",
+      "overview": "In 1996, brash L.A. detective John Spartan and maniac killer Simon Phoenix are both sentenced to decades in a cryogenic prison as punishment for a rescue mission gone wrong. When Phoenix escapes 36 years later to wreak havoc on the future, Spartan is awakened to capture his nemesis the old-fashioned way.",
+      "popularity": 6.9849,
+      "poster_path": "/dq6AmlVFo92PRuoLCcIyFdoRuxf.jpg",
+      "release_date": "1993-10-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.758,
+      "vote_count": 4170
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cS45swrlrTJijH1RblBLe8LlW2p.jpg",
+      "genre_ids": [
+        80,
+        18,
+        53
+      ],
+      "id": 37094,
+      "title": "Falling Down",
+      "original_language": "en",
+      "original_title": "Falling Down",
+      "overview": "An ordinary man frustrated with the various flaws he sees in society begins to psychotically and violently lash out against them.",
+      "popularity": 7.805,
+      "poster_path": "/7ujqyF96Zg3rfrsh9M0cEF0Yzqj.jpg",
+      "release_date": "1993-02-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.397,
+      "vote_count": 4148
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9s4ZDw0j6qByLgwJtUsRcepBXSw.jpg",
+      "genre_ids": [
+        80,
+        18,
+        53
+      ],
+      "id": 6075,
+      "title": "Carlito's Way",
+      "original_language": "en",
+      "original_title": "Carlito's Way",
+      "overview": "Free after years in prison, Carlito Brigante intends to give up his criminal ways, but it's not long before the ex-con is sucked back into the New York City underworld.",
+      "popularity": 5.709,
+      "poster_path": "/g6D7mjQtndu768cusGmoEQY9fTB.jpg",
+      "release_date": "1993-11-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 3517
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sZhTfYouKM1iV3rVbgIVEQFQogA.jpg",
+      "genre_ids": [
+        35,
+        10751,
+        14
+      ],
+      "id": 2758,
+      "title": "Addams Family Values",
+      "original_language": "en",
+      "original_title": "Addams Family Values",
+      "overview": "Siblings Wednesday and Pugsley Addams will stop at nothing to get rid of Pubert, the new baby boy adored by parents Gomez and Morticia. Things go from bad to worse when the new \"black widow\" nanny, Debbie Jellinsky, launches her plan to add Fester to her collection of dead husbands.",
+      "popularity": 9.7663,
+      "poster_path": "/sdxT2VjVSx9DRicwnuECUdBHeE7.jpg",
+      "release_date": "1993-11-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.978,
+      "vote_count": 3347
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ncr6KR7bBF8cps6yZKiTAwClpn1.jpg",
+      "genre_ids": [
+        14,
+        35,
+        10751
+      ],
+      "id": 10439,
+      "title": "Hocus Pocus",
+      "original_language": "en",
+      "original_title": "Hocus Pocus",
+      "overview": "After 300 years of slumber, three sister witches are accidentally resurrected in Salem on Halloween night, and it is up to three kids and their newfound feline friend to put an end to the witches' reign of terror once and for all.",
+      "popularity": 6.5648,
+      "poster_path": "/by4D4Q9NlUjFSEUA1yrxq6ksXmk.jpg",
+      "release_date": "1993-07-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.041,
+      "vote_count": 3329
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1Uh8yuXlFcMDpVHWZJidjanT06e.jpg",
+      "genre_ids": [
+        28,
+        80,
+        10749
+      ],
+      "id": 319,
+      "title": "True Romance",
+      "original_language": "en",
+      "original_title": "True Romance",
+      "overview": "Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell it in Hollywood, while the owners of the coke try to reclaim it.",
+      "popularity": 9.2233,
+      "poster_path": "/39lXk6ud6KiJgGbbWI2PUKS7y2.jpg",
+      "release_date": "1993-09-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.542,
+      "vote_count": 3115
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bumIpNTKmLY380bruTgIDTrXfpZ.jpg",
+      "genre_ids": [
+        14,
+        28,
+        35
+      ],
+      "id": 9593,
+      "title": "Last Action Hero",
+      "original_language": "en",
+      "original_title": "Last Action Hero",
+      "overview": "After his father's death, a young boy finds solace in action movies featuring an indestructible cop. Given a magic ticket by a theater manager, he is transported into the film and teams up with the cop to stop a villain who escapes into the real world.",
+      "popularity": 5.1663,
+      "poster_path": "/vkhEaWAv5j3qgrOGp3BgMeiYPKj.jpg",
+      "release_date": "1993-06-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.484,
+      "vote_count": 3041
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ggzzn1Hf4zBz1VVywpQhGtDxKtA.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 1607,
+      "title": "A Bronx Tale",
+      "original_language": "en",
+      "original_title": "A Bronx Tale",
+      "overview": "Set in the Bronx during the tumultuous 1960s, an adolescent boy is torn between his honest, working-class father and a violent yet charismatic crime boss. Complicating matters is the youngster's growing attraction - forbidden in his neighborhood - for a beautiful black girl.",
+      "popularity": 8.9386,
+      "poster_path": "/sDbO6LmLYtyqAoFTPpRcMgPSCEO.jpg",
+      "release_date": "1993-10-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 2931
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hPTaANKrpghMQeRIOcPJbJA4Yia.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 9350,
+      "title": "Cliffhanger",
+      "original_language": "en",
+      "original_title": "Cliffhanger",
+      "overview": "A year after losing his friend in a tragic 4,000-foot fall, former ranger Gabe Walker and his partner, Hal, are called to return to the same peak to rescue a group of stranded climbers, only to learn the climbers are actually thieving hijackers who are looking for boxes full of money.",
+      "popularity": 6.4161,
+      "poster_path": "/b28DOM54OHb1c7Lsk6Nu7Kwuonj.jpg",
+      "release_date": "1993-05-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.519,
+      "vote_count": 2675
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7ME0fJZxjEoSGPP4E4bbYT5zoqt.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 858,
+      "title": "Sleepless in Seattle",
+      "original_language": "en",
+      "original_title": "Sleepless in Seattle",
+      "overview": "After the death of his mother, a young boy calls a radio station in an attempt to set his father up on a date. Across the country, an engaged woman becomes convinced that they belong together, despite their never having met. Will their paths collide despite the odds?",
+      "popularity": 6.3983,
+      "poster_path": "/jAXfku1u1uaLGh4cUmK0ESf1pPu.jpg",
+      "release_date": "1993-06-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.745,
+      "vote_count": 2621
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/djPXXv9pPyTLGl9kMPCTyiBmIA5.jpg",
+      "genre_ids": [
+        37,
+        28
+      ],
+      "id": 11969,
+      "title": "Tombstone",
+      "original_language": "en",
+      "original_title": "Tombstone",
+      "overview": "Legendary marshal Wyatt Earp, now a weary gunfighter, joins his brothers Morgan and Virgil to pursue their collective fortune in the thriving mining town of Tombstone. But Earp is forced to don a badge again and get help from his notorious pal Doc Holliday when a gang of renegade brigands and rustlers begins terrorizing the town.",
+      "popularity": 8.0207,
+      "poster_path": "/wGFCvylul8iEQhJOKfwZGGvXMzA.jpg",
+      "release_date": "1993-12-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 2486
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jlUTfePS1XRyMpgZvjFvDk7yEi0.jpg",
+      "genre_ids": [
+        18,
+        9648,
+        53
+      ],
+      "id": 37233,
+      "title": "The Firm",
+      "original_language": "en",
+      "original_title": "The Firm",
+      "overview": "Mitch McDeere is a young man with a promising future in Law. About to sit his Bar exam, he is approached by 'The Firm' and made an offer he doesn't refuse. Seduced by the money and gifts showered on him, he is totally oblivious to the more sinister side of his company. Then, two Associates are murdered. The FBI contact him, asking him for information and suddenly his life is ruined. He has a choice - work with the FBI, or stay with the Firm. Either way he will lose his life as he knows it. Mitch figures the only way out is to follow his own plan...",
+      "popularity": 7.1584,
+      "poster_path": "/kFexXCzidkm4LwlgZqxsJsDQB5v.jpg",
+      "release_date": "1993-06-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.742,
+      "vote_count": 2338
+    }
+  ],
+  "total_pages": 11,
+  "total_results": 220
+}

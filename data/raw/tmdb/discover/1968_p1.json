@@ -1,0 +1,418 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+      "genre_ids": [
+        878,
+        9648,
+        12
+      ],
+      "id": 62,
+      "title": "2001: A Space Odyssey",
+      "original_language": "en",
+      "original_title": "2001: A Space Odyssey",
+      "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+      "popularity": 20.8894,
+      "poster_path": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "release_date": "1968-04-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.048,
+      "vote_count": 12741
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/h31SOVlekuHXsMWVGxI8nPPfY82.jpg",
+      "genre_ids": [
+        18,
+        37
+      ],
+      "id": 335,
+      "title": "Once Upon a Time in the West",
+      "original_language": "it",
+      "original_title": "C'era una volta il West",
+      "overview": "As the railroad builders advance unstoppably through the Arizona desert on their way to the sea, Jill arrives in the small town of Flagstone with the intention of starting a new life.",
+      "popularity": 15.5548,
+      "poster_path": "/qbYgqOczabWNn2XKwgMtVrntD6P.jpg",
+      "release_date": "1968-12-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 4965
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qszuXKhzYR24oRpsmh7eZaPbvL8.jpg",
+      "genre_ids": [
+        18,
+        27,
+        53
+      ],
+      "id": 805,
+      "title": "Rosemary's Baby",
+      "original_language": "en",
+      "original_title": "Rosemary's Baby",
+      "overview": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
+      "popularity": 8.1545,
+      "poster_path": "/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg",
+      "release_date": "1968-06-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.816,
+      "vote_count": 4425
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gmJOXle5QeOOVFEYOVBOkmIJUWV.jpg",
+      "genre_ids": [
+        878,
+        12,
+        18,
+        28
+      ],
+      "id": 871,
+      "title": "Planet of the Apes",
+      "original_language": "en",
+      "original_title": "Planet of the Apes",
+      "overview": "Astronaut Taylor crash lands on a distant planet ruled by apes who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.",
+      "popularity": 10.1972,
+      "poster_path": "/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+      "release_date": "1968-02-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 4016
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5KtmBSqFtHY3I9t8lgH27Mc0bqY.jpg",
+      "genre_ids": [
+        27,
+        53,
+        878
+      ],
+      "id": 10331,
+      "title": "Night of the Living Dead",
+      "original_language": "en",
+      "original_title": "Night of the Living Dead",
+      "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+      "popularity": 5.0453,
+      "poster_path": "/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg",
+      "release_date": "1968-10-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.607,
+      "vote_count": 2775
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/glvwKs7zwGh6G3hoCYJexwEfPfT.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 916,
+      "title": "Bullitt",
+      "original_language": "en",
+      "original_title": "Bullitt",
+      "overview": "Senator Walter Chalmers is aiming to take down mob boss Pete Ross with the help of testimony from the criminal's hothead brother Johnny, who is in protective custody in San Francisco under the watch of police lieutenant Frank Bullitt. When a pair of mob hitmen enter the scene, Bullitt follows their trail through a maze of complications and double-crosses. This thriller includes one of the most famous car chases ever filmed.",
+      "popularity": 3.7205,
+      "poster_path": "/2ffzF1WmeXtH420fSUoCrecFvDA.jpg",
+      "release_date": "1968-10-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.146,
+      "vote_count": 1309
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ort14Ott2BvpfmTuhsMUVnSEsWd.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        12,
+        35
+      ],
+      "id": 9929,
+      "title": "Asterix and Cleopatra",
+      "original_language": "fr",
+      "original_title": "Astérix et Cléopâtre",
+      "overview": "Popular animated hero Asterix and his faithful sidekick Obelix travel to ancient Egypt to help Cleopatra build a new summer home. Cleopatra and Julius Caesar have made a bet, with Caesar wagering the project cannot be completed in a few weeks time. With the help of a magic potion, Asterix comes to the rescue of the Queen of the Nile as Caesar and an angry architect plot against them.",
+      "popularity": 2.5327,
+      "poster_path": "/gNpKAmWFsCiWKKx39Ap8pF7EWQg.jpg",
+      "release_date": "1968-12-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 1039
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vzavBt9c6v4zBaGiwQDO21aNQG9.jpg",
+      "genre_ids": [
+        12,
+        10752
+      ],
+      "id": 11046,
+      "title": "Where Eagles Dare",
+      "original_language": "en",
+      "original_title": "Where Eagles Dare",
+      "overview": "World War II is raging, and an American general has been captured and is being held hostage in the Schloss Adler, a Bavarian castle that's nearly impossible to breach. It's up to a group of skilled Allied soldiers to liberate the general before it's too late.",
+      "popularity": 7.122,
+      "poster_path": "/dnyiVS4Ad4w4rfS4Bm1YalEdonx.jpg",
+      "release_date": "1968-12-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.502,
+      "vote_count": 1004
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hQPDNRs6Zvt1pwss7DSu5Cihtim.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 30197,
+      "title": "The Producers",
+      "original_language": "en",
+      "original_title": "The Producers",
+      "overview": "A conniving Broadway producer and his meek accountant plan to profit from charming wealthy old biddies to invest in an overbudget production, and then put on a sure-fire disaster, so nobody will ask for their money back — and what's more disastrous than a tasteless musical celebrating Adolf Hitler.",
+      "popularity": 2.5166,
+      "poster_path": "/9qCIkNWGuRj5lMyeOXwJs8z9nRz.jpg",
+      "release_date": "1968-03-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 920
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dNKRoMyjqzFIJ1HtqR6qMZyrvtj.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 10794,
+      "title": "The Party",
+      "original_language": "en",
+      "original_title": "The Party",
+      "overview": "Hrundi V. Bakshi, an accident-prone actor from India, is accidentally put on the guest list for an upcoming party at the home of a Hollywood film producer. Unfortunately, from the moment he arrives, one thing after another goes wrong with compounding effect.",
+      "popularity": 2.8663,
+      "poster_path": "/nWZ9rrbMoHHgsvYNdng2EhbjeLf.jpg",
+      "release_date": "1968-04-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.297,
+      "vote_count": 870
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/z1mGshfVVUNyjeLaqSzO56ROGk6.jpg",
+      "genre_ids": [
+        37,
+        18
+      ],
+      "id": 4929,
+      "title": "Hang 'em High",
+      "original_language": "en",
+      "original_title": "Hang 'em High",
+      "overview": "Marshall Jed Cooper survives a hanging, vowing revenge on the lynch mob that left him dangling. To carry out his oath for vengeance, he returns to his former job as a lawman. Before long, he's caught up with the nine men on his hit list and starts dispensing his own brand of Wild West justice.",
+      "popularity": 4.1401,
+      "poster_path": "/gFvRKgCAa1MKlcAKZfoDNdR2dgy.jpg",
+      "release_date": "1968-04-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.856,
+      "vote_count": 860
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gY8essk1UcNZMK3VRkPpdaUQLDQ.jpg",
+      "genre_ids": [
+        878,
+        12,
+        35
+      ],
+      "id": 8069,
+      "title": "Barbarella",
+      "original_language": "en",
+      "original_title": "Barbarella",
+      "overview": "In the far future, a highly sexual woman is tasked with finding and stopping the evil Durand-Durand. Along the way she encounters various unusual people.",
+      "popularity": 4.4689,
+      "poster_path": "/facTz5BZz4AkJal1FWgjYciekih.jpg",
+      "release_date": "1968-10-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 856
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vOl8p3u3MKjACtpTn6CV3BB7HY.jpg",
+      "genre_ids": [
+        10751,
+        12,
+        14,
+        35
+      ],
+      "id": 11708,
+      "title": "Chitty Chitty Bang Bang",
+      "original_language": "en",
+      "original_title": "Chitty Chitty Bang Bang",
+      "overview": "A hapless inventor finally finds success with a flying car, which a dictator from a foreign government sets out to take for himself.",
+      "popularity": 3.5732,
+      "poster_path": "/wJ62FzGeCAs6PjCIK1as6xzdIY5.jpg",
+      "release_date": "1968-12-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 750
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zQyNGzYD144sbFKrfBP8mFwqDxn.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 6003,
+      "title": "Romeo and Juliet",
+      "original_language": "en",
+      "original_title": "Romeo and Juliet",
+      "overview": "Romeo Montague and Juliet Capulet fall in love against the wishes of their feuding families. Driven by their passion, the young lovers defy their destiny and elope, only to suffer the ultimate tragedy.",
+      "popularity": 6.5214,
+      "poster_path": "/vaBQKLbSWkXGTOlsz9ARdJP4lvg.jpg",
+      "release_date": "1968-04-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.404,
+      "vote_count": 736
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/h63N8AZ0kzC1qTqo2bXI33lXkJe.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 11356,
+      "title": "The Odd Couple",
+      "original_language": "en",
+      "original_title": "The Odd Couple",
+      "overview": "In New York, Felix, a neurotic news writer who just broke up with his wife, is urged by his chaotic friend Oscar, a sports journalist, to move in with him, but their lifestyles are as different as night and day are, so Felix's ideas about housekeeping soon begin to irritate Oscar.",
+      "popularity": 2.2544,
+      "poster_path": "/d3dKPpzEi7WfgmoMnMwWyQnd2ja.jpg",
+      "release_date": "1968-05-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.417,
+      "vote_count": 658
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w6PpUETms1qZc4WJUqR7PuHpbTT.jpg",
+      "genre_ids": [
+        35,
+        10751,
+        14
+      ],
+      "id": 14136,
+      "title": "The Love Bug",
+      "original_language": "en",
+      "original_title": "The Love Bug",
+      "overview": "Down-on-his-luck race car driver Jim Douglas teams up with a little VW Bug that has a mind of its own, not realizing Herbie's worth until a sneaky rival plots to steal him.",
+      "popularity": 3.704,
+      "poster_path": "/9Lc1efdYZUZia2zsRWcUkiD1KdN.jpg",
+      "release_date": "1968-12-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.567,
+      "vote_count": 652
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lVkPc19q3iymP98NKeeoAMFXry2.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 4729,
+      "title": "The Gendarme Gets Married",
+      "original_language": "fr",
+      "original_title": "Le Gendarme se marie",
+      "overview": "The Saint-Tropez police launch a major offensive against dangerous drivers. Marechal Cruchot (Louis de Funès) relishes the assignment, which he pursues with a manic zeal. Cruchot is after an offending driver, who turns out to be Josépha (Claude Gensac), the widow of a highly regarded police colonel. When they meet, Cruchot falls instantly in love....",
+      "popularity": 1.9704,
+      "poster_path": "/7e1OEPLRN4XqXiWjxXzKgnVZjPM.jpg",
+      "release_date": "1968-10-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.516,
+      "vote_count": 613
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dmNg4IfF8vNBSVO1GzJXqTZhBm5.jpg",
+      "genre_ids": [
+        80,
+        10749
+      ],
+      "id": 912,
+      "title": "The Thomas Crown Affair",
+      "original_language": "en",
+      "original_title": "The Thomas Crown Affair",
+      "overview": "A debonair, adventuresome bank executive believes that he has pulled off the perfect multi-million dollar heist--until he must match wits with an insurance investigator who will do anything to get her man.",
+      "popularity": 3.1891,
+      "poster_path": "/oODAwa2AK3fXvK93GCbq7dFLZPi.jpg",
+      "release_date": "1968-06-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 585
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pEHxojfy6EGOZ3e7TU9lREpWvNN.jpg",
+      "genre_ids": [
+        18,
+        27
+      ],
+      "id": 18333,
+      "title": "Hour of the Wolf",
+      "original_language": "sv",
+      "original_title": "Vargtimmen",
+      "overview": "While vacationing on a remote German island with his younger pregnant wife, an artist has an emotional breakdown while confronting his repressed desires.",
+      "popularity": 1.7209,
+      "poster_path": "/jSqTnEP1x1OcOglqrInYvGSF1tL.jpg",
+      "release_date": "1968-02-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.43,
+      "vote_count": 561
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1J2Aox2FsctJjvxp6kBsXmMM1xU.jpg",
+      "genre_ids": [
+        10402,
+        16,
+        12,
+        35,
+        14
+      ],
+      "id": 12105,
+      "title": "Yellow Submarine",
+      "original_language": "en",
+      "original_title": "Yellow Submarine",
+      "overview": "The wicked Blue Meanies take over Pepperland, eliminating all color and music. As the only survivor, the Lord Admiral escapes in the yellow submarine and journeys to Liverpool to enlist the help of the Beatles.",
+      "popularity": 2.4186,
+      "poster_path": "/1pmeLKaLFNggcsAk5FiouIvo3ST.jpg",
+      "release_date": "1968-07-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.216,
+      "vote_count": 558
+    }
+  ],
+  "total_pages": 4,
+  "total_results": 78
+}

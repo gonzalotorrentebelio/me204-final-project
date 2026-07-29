@@ -1,0 +1,420 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/3sbmRuIpYEH5dMvec4z4JxKQHoj.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        12
+      ],
+      "id": 9325,
+      "title": "The Jungle Book",
+      "original_language": "en",
+      "original_title": "The Jungle Book",
+      "overview": "The boy Mowgli makes his way to the man-village with Bagheera, the wise panther. Along the way he meets jazzy King Louie, the hypnotic snake Kaa and the lovable, happy-go-lucky bear Baloo, who teaches Mowgli \"The Bare Necessities\" of life and the true meaning of friendship.",
+      "popularity": 8.4528,
+      "poster_path": "/yN1kuupnPTLUprgfvC5WapgrxG4.jpg",
+      "release_date": "1967-10-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.287,
+      "vote_count": 6718
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lIY8ZTp6OJTAMfiorDGsPsJ5LT.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        35
+      ],
+      "id": 37247,
+      "title": "The Graduate",
+      "original_language": "en",
+      "original_title": "The Graduate",
+      "overview": "A disillusioned college graduate finds himself torn between his older lover and her daughter.",
+      "popularity": 7.0431,
+      "poster_path": "/8XaDpF0COV1MLsDirJMnxmYc1Wp.jpg",
+      "release_date": "1967-12-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.629,
+      "vote_count": 3727
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cpZAXIYA0lkZMpAt7d1MmH8ojNV.jpg",
+      "genre_ids": [
+        28,
+        53,
+        12
+      ],
+      "id": 667,
+      "title": "You Only Live Twice",
+      "original_language": "en",
+      "original_title": "You Only Live Twice",
+      "overview": "A mysterious spacecraft captures Russian and American space capsules and brings the two superpowers to the brink of war. James Bond investigates the case in Japan and comes face to face with his archenemy Blofeld.",
+      "popularity": 6.1867,
+      "poster_path": "/9mvNd43HgTkbfPwX6MF6EoPIMIa.jpg",
+      "release_date": "1967-06-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 2521
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fyzSiE8IWezmd3ls1amHNeOkrEf.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 475,
+      "title": "Bonnie and Clyde",
+      "original_language": "en",
+      "original_title": "Bonnie and Clyde",
+      "overview": "In the 1930s, bored European-American waitress Bonnie Parker falls in love with a European-American ex-con named Clyde Barrow and together they start a violent crime spree through the country, stealing cars and robbing banks.",
+      "popularity": 5.191,
+      "poster_path": "/sCSQFK9kMsprT4jgWqgw82dT6WI.jpg",
+      "release_date": "1967-08-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 1813
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9TDi0FPOSAePfVLZXAUgFZhiMLf.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 903,
+      "title": "Cool Hand Luke",
+      "original_language": "en",
+      "original_title": "Cool Hand Luke",
+      "overview": "When petty criminal Luke Jackson is sentenced to two years in a Florida prison farm, he doesn't play by the rules of either the sadistic warden or the yard's resident heavy, Dragline, who ends up admiring the new guy's unbreakable will. Luke's bravado, even in the face of repeated stints in the prison's dreaded solitary confinement cell, \"the box,\" make him a rebel hero to his fellow convicts and a thorn in the side of the prison officers.",
+      "popularity": 4.9549,
+      "poster_path": "/4ykzTiHKLamh3eZJ8orVICtU2Jp.jpg",
+      "release_date": "1967-11-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.74,
+      "vote_count": 1636
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gZqkMnORel0oiE0oSrBPfVQPB9w.jpg",
+      "genre_ids": [
+        28,
+        12,
+        10752
+      ],
+      "id": 1654,
+      "title": "The Dirty Dozen",
+      "original_language": "en",
+      "original_title": "The Dirty Dozen",
+      "overview": "12 American military prisoners in World War II are ordered to infiltrate a well-guarded enemy château and kill the Nazi officers vacationing there. The soldiers, most of whom are facing death sentences for a variety of violent crimes, agree to the mission and the possible commuting of their sentences.",
+      "popularity": 7.7271,
+      "poster_path": "/tFWWsuhp22zJ6OG6QepJIiPUfeF.jpg",
+      "release_date": "1967-06-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.593,
+      "vote_count": 1340
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/znLq5iyuMVvHwDdgZf6HyVUNjWB.jpg",
+      "genre_ids": [
+        80,
+        53,
+        18
+      ],
+      "id": 5511,
+      "title": "Le Samouraï",
+      "original_language": "fr",
+      "original_title": "Le Samouraï",
+      "overview": "After carrying out a flawlessly planned hit, Jef Costello, a contract killer with samurai instincts, finds himself caught between a persistent police investigator and a ruthless employer, and not even his armor of fedora and trench coat can protect him.",
+      "popularity": 3.3553,
+      "poster_path": "/5Fa6o5nfUPEatQ9b3OwEvdEdR7T.jpg",
+      "release_date": "1967-10-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.777,
+      "vote_count": 1274
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xY5sgU09cOsvEAgJZaYo2aOZEFi.jpg",
+      "genre_ids": [
+        80,
+        18,
+        9648,
+        53
+      ],
+      "id": 10633,
+      "title": "In the Heat of the Night",
+      "original_language": "en",
+      "original_title": "In the Heat of the Night",
+      "overview": "African-American Philadelphia police detective Virgil Tibbs is arrested on suspicion of murder by Bill Gillespie, the racist police chief of tiny Sparta, Mississippi. After Tibbs proves not only his own innocence but that of another man, he joins forces with Gillespie to track down the real killer. Their investigation takes them through every social level of the town, with Tibbs making enemies as well as unlikely friends as he hunts for the truth.",
+      "popularity": 3.999,
+      "poster_path": "/qFpfALhprXmOAbA5upTNupZw8rq.jpg",
+      "release_date": "1967-08-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.677,
+      "vote_count": 1261
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9fJPLvrUV32MzpfDwXk7cOnj8hM.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 649,
+      "title": "Belle de Jour",
+      "original_language": "fr",
+      "original_title": "Belle de jour",
+      "overview": "Beautiful young housewife Séverine Serizy cannot reconcile her masochistic fantasies with her everyday life alongside dutiful husband Pierre. When her lovestruck friend Henri mentions a secretive high-class brothel run by Madame Anais, Séverine begins to work there during the day under the name Belle de Jour. But when one of her clients grows possessive, she must try to go back to her normal life.",
+      "popularity": 3.6718,
+      "poster_path": "/iUAFECovwPA0cVV9bo4uNGLJSGL.jpg",
+      "release_date": "1967-05-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 1026
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yTKXKR9quKkH8N8szLjWLJ6TLBy.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 1879,
+      "title": "Guess Who's Coming to Dinner",
+      "original_language": "en",
+      "original_title": "Guess Who's Coming to Dinner",
+      "overview": "A couple's attitudes are challenged when their daughter brings home a fiancé who is black.",
+      "popularity": 2.2787,
+      "poster_path": "/fkHeYWahNbhxhuLefaAg553lYo5.jpg",
+      "release_date": "1967-12-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.571,
+      "vote_count": 919
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bzd7Uph8qfAB3fi488rIE3x2pWg.jpg",
+      "genre_ids": [
+        12,
+        28,
+        35
+      ],
+      "id": 12208,
+      "title": "Casino Royale",
+      "original_language": "en",
+      "original_title": "Casino Royale",
+      "overview": "Sir James Bond is called back out of retirement to stop SMERSH. In order to trick SMERSH, James thinks up the ultimate plan - that every agent will be named 'James Bond'. One of the Bonds, whose real name is Evelyn Tremble is sent to take on Le Chiffre in a game of baccarat, but all the Bonds get more than they can handle.",
+      "popularity": 5.7171,
+      "poster_path": "/9wdw5H018bgIM8bK2HuDvh8BwOh.jpg",
+      "release_date": "1967-04-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.3,
+      "vote_count": 835
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pmO4NERkXjJiCfpEuLT1raZS5fA.jpg",
+      "genre_ids": [
+        35,
+        27
+      ],
+      "id": 3053,
+      "title": "The Fearless Vampire Killers",
+      "original_language": "en",
+      "original_title": "The Fearless Vampire Killers",
+      "overview": "A noted professor and his dim-witted apprentice fall prey to their inquiring vampires, while on the trail of the ominous damsel in distress.",
+      "popularity": 2.4238,
+      "poster_path": "/oexVZ419LUVBiZnBYgDfnUS1Ufv.jpg",
+      "release_date": "1967-11-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 835
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bAoPOb3GWnzycolOMYk9E2jkapz.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        12,
+        35
+      ],
+      "id": 11047,
+      "title": "Asterix the Gaul",
+      "original_language": "fr",
+      "original_title": "Astérix le Gaulois",
+      "overview": "In the year 50 BC, Gaul is occupied by the Romans - nearly. But the small village of Asterix and his friends still resists the Roman legions with the aid of their druid's magic potion, which gives superhuman strength. Learning of this potion, a Roman centurion kidnaps the druid to get the secret formula out of him.",
+      "popularity": 1.93,
+      "poster_path": "/A2dlVs5WRmAwIPVS5vODhAOkNy7.jpg",
+      "release_date": "1967-12-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 812
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pKX8G6IN8ZCRvKeHh6ctqoHZl0K.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 10227,
+      "title": "PlayTime",
+      "original_language": "fr",
+      "original_title": "PlayTime",
+      "overview": "Clumsy Monsieur Hulot finds himself perplexed by the intimidating complexity of a gadget-filled Paris. He attempts to meet with a business contact but soon becomes lost. His roundabout journey parallels that of an American tourist, and as they weave through the inventive urban environment, they intermittently meet, developing an interest in one another. They eventually get together at a chaotic restaurant, along with several other quirky characters.",
+      "popularity": 3.5037,
+      "poster_path": "/kQOrS0DLUXYsqPMedM2G6NJcJBq.jpg",
+      "release_date": "1967-12-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 677
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8m7qOKlsdnxt4335vpFzpffuIVu.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        18
+      ],
+      "id": 2433,
+      "title": "The Young Girls of Rochefort",
+      "original_language": "fr",
+      "original_title": "Les Demoiselles de Rochefort",
+      "overview": "In the seaside town of Rochefort, twin sisters Delphine and Solange dream of love and artistic fulfillment beyond their quiet lives. As sailors, artists, musicians, and chance visitors pass through town during a weekend fair, a web of near-misses and romantic longing brings ideal partners tantalizingly close—without their realizing it.",
+      "popularity": 2.2815,
+      "poster_path": "/jtxhyGaYhurH6KsjvP1jV3dDypz.jpg",
+      "release_date": "1967-03-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.673,
+      "vote_count": 662
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1hNQtElM8RfieC2xJHvsoUylMZ.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 17887,
+      "title": "Barefoot in the Park",
+      "original_language": "en",
+      "original_title": "Barefoot in the Park",
+      "overview": "In this film based on a Neil Simon play, newlyweds Corie, a free spirit, and Paul Bratter, an uptight lawyer, share a sixth-floor apartment in Greenwich Village. Soon after their marriage, Corie tries to find a companion for mother, Ethel, who is now alone, and sets up Ethel with neighbor Victor. Inappropriate behavior on a double date causes conflict, and the young couple considers divorce.",
+      "popularity": 2.2958,
+      "poster_path": "/qh64tAOmbQNoYMLTETkhmBQgSbu.jpg",
+      "release_date": "1967-05-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.139,
+      "vote_count": 618
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3PYjmY1OiOq2LQ8ZvvLxzwbqIq.jpg",
+      "genre_ids": [
+        53,
+        80,
+        27
+      ],
+      "id": 11206,
+      "title": "Wait Until Dark",
+      "original_language": "en",
+      "original_title": "Wait Until Dark",
+      "overview": "After a flight back home, Sam Hendrix returns with a doll he innocently acquired along the way. As it turns out, the doll is actually stuffed with heroin, and a group of criminals led by the ruthless Roat has followed Hendrix back to his place to retrieve it. When Hendrix leaves for business, the crooks make their move -- and find his blind wife, Susy, alone in the apartment. Soon, a life-threatening game begins between Susy and the thugs.",
+      "popularity": 2.1641,
+      "poster_path": "/cNW3ewCB52KkxzSE47PcE5Bqvmr.jpg",
+      "release_date": "1967-10-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 603
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6BMk2AnieC5sDkhcBiNjWWoxvHe.jpg",
+      "genre_ids": [
+        35,
+        80,
+        12,
+        14
+      ],
+      "id": 1875,
+      "title": "Fantomas vs. Scotland Yard",
+      "original_language": "fr",
+      "original_title": "Fantômas contre Scotland Yard",
+      "overview": "In the third and final episode of the trilogy, Fantômas imposes a head tax on the rich, threatening to kill those who do not comply.",
+      "popularity": 1.5496,
+      "poster_path": "/wrs0leNyQwVbUOoXCnfMf3Bix4V.jpg",
+      "release_date": "1967-03-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.718,
+      "vote_count": 579
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k0hmRQYWTxc3TvQ7QuvYt2wXZvA.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 2798,
+      "title": "Oscar",
+      "original_language": "fr",
+      "original_title": "Oscar",
+      "overview": "This film originated as a play in Paris. The story focuses on the one-day adventures of Bertrand Barnier played with a genius of French cinema, Louis de Funes. In the same morning he learns that his daughter is pregnant, an employee stole a large amount of money from his company, his maid is about to resign in order to marry a wealthy neighbor and his body builder is interested in marrying his daughter. The seemingly complicated story-line is full of comedy or errors and some of the most hilarious mime scenes of the French cinema.",
+      "popularity": 1.3536,
+      "poster_path": "/imsP4Vl1UpsLf27DPxX1atIubBB.jpg",
+      "release_date": "1967-10-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.317,
+      "vote_count": 539
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gQYsE1Zu89fbi3yUL4bubxoRjbh.jpg",
+      "genre_ids": [
+        80,
+        18,
+        36
+      ],
+      "id": 18900,
+      "title": "In Cold Blood",
+      "original_language": "en",
+      "original_title": "In Cold Blood",
+      "overview": "After a botched robbery results in the brutal murder of a rural family, two drifters elude police, in the end coming to terms with their own mortality and the repercussions of their vile atrocity.",
+      "popularity": 1.9633,
+      "poster_path": "/sPEvsif5Y70mfVvtU39iOyrVJdF.jpg",
+      "release_date": "1967-12-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.518,
+      "vote_count": 439
+    }
+  ],
+  "total_pages": 5,
+  "total_results": 81
+}

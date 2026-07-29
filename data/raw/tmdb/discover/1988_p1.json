@@ -1,0 +1,416 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/bvk2AAH64lP2YZs02Q3jskfHT8j.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 562,
+      "title": "Die Hard",
+      "original_language": "en",
+      "original_title": "Die Hard",
+      "overview": "High above the city of L.A. a team of terrorists has seized a building, taken hostages, and declared war. One man has manages to escape... An off-duty cop hiding somewhere inside. He's alone, tired... and the only chance anyone has got.",
+      "popularity": 24.1094,
+      "poster_path": "/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
+      "release_date": "1988-07-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.815,
+      "vote_count": 12435
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zkThiZAaAie8Lw7RAc5yPTOewBV.jpg",
+      "genre_ids": [
+        14,
+        16,
+        10751
+      ],
+      "id": 8392,
+      "title": "My Neighbor Totoro",
+      "original_language": "ja",
+      "original_title": "となりのトトロ",
+      "overview": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.",
+      "popularity": 14.3123,
+      "poster_path": "/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+      "release_date": "1988-04-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.064,
+      "vote_count": 8931
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yRKyJJYIzfeiVDHBe4LXguPQCvD.jpg",
+      "genre_ids": [
+        14,
+        35
+      ],
+      "id": 4011,
+      "title": "Beetlejuice",
+      "original_language": "en",
+      "original_title": "Beetlejuice",
+      "overview": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.",
+      "popularity": 9.8147,
+      "poster_path": "/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
+      "release_date": "1988-03-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.371,
+      "vote_count": 8529
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/b3tos7Tsd6lsTe52Nn4TMrEQg65.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 380,
+      "title": "Rain Man",
+      "original_language": "en",
+      "original_title": "Rain Man",
+      "overview": "When car dealer Charlie Babbitt learns that his estranged father has died, he returns home to Cincinnati, where he discovers that he has a savant older brother named Raymond and that his father's $3 million fortune is being left to the mental institution in which Raymond lives. Motivated by his father's money, Charlie checks Raymond out of the facility in order to return with him to Los Angeles. The brothers' cross-country trip ends up changing both their lives.",
+      "popularity": 11.9784,
+      "poster_path": "/iTNHwO896WKkaoPtpMMS74d8VNi.jpg",
+      "release_date": "1988-12-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.754,
+      "vote_count": 7184
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aHaqZpOL7UyVu0nKqp3SMz0o2E1.jpg",
+      "genre_ids": [
+        16,
+        18,
+        10752
+      ],
+      "id": 12477,
+      "title": "Grave of the Fireflies",
+      "original_language": "ja",
+      "original_title": "火垂るの墓",
+      "overview": "In the final months of World War II, 14-year-old Seita and his sister Setsuko are orphaned when their mother is killed during an air raid in Kobe, Japan. After a falling out with their aunt, they move into an abandoned bomb shelter. With no surviving relatives and their emergency rations depleted, Seita and Setsuko struggle to survive.",
+      "popularity": 0.0148,
+      "poster_path": "/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg",
+      "release_date": "1988-04-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 6635
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/udIE8Cdon9wnYmVIOFYrBPfA2Mq.jpg",
+      "genre_ids": [
+        14,
+        16,
+        35,
+        80
+      ],
+      "id": 856,
+      "title": "Who Framed Roger Rabbit",
+      "original_language": "en",
+      "original_title": "Who Framed Roger Rabbit",
+      "overview": "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+      "popularity": 12.7714,
+      "poster_path": "/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
+      "release_date": "1988-06-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.54,
+      "vote_count": 6244
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 11216,
+      "title": "Cinema Paradiso",
+      "original_language": "it",
+      "original_title": "Nuovo Cinema Paradiso",
+      "overview": "A filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist.",
+      "popularity": 14.9272,
+      "poster_path": "/gCI2AeMV4IHSewhJkzsur5MEp6R.jpg",
+      "release_date": "1988-11-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.43,
+      "vote_count": 4895
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
+      "genre_ids": [
+        16,
+        878,
+        28
+      ],
+      "id": 149,
+      "title": "Akira",
+      "original_language": "ja",
+      "original_title": "AKIRA",
+      "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
+      "popularity": 10.988,
+      "poster_path": "/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
+      "release_date": "1988-06-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.937,
+      "vote_count": 4858
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vsCIw7ARCKQVPT2K2hkkFVl7yo5.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 9602,
+      "title": "Coming to America",
+      "original_language": "en",
+      "original_title": "Coming to America",
+      "overview": "An African prince decides it’s time for him to find a princess... and his mission leads him and his most loyal friend to Queens, New York. In disguise as an impoverished immigrant, the pampered prince quickly finds himself a new job, new friends, new digs, new enemies and lots of trouble.",
+      "popularity": 8.7562,
+      "poster_path": "/8YZiA1o264dk0cr1USyMdph6SZl.jpg",
+      "release_date": "1988-06-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.884,
+      "vote_count": 4796
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qpjuVCGZvNsbDa4UyxrbAa4Dno3.jpg",
+      "genre_ids": [
+        35,
+        80
+      ],
+      "id": 37136,
+      "title": "The Naked Gun: From the Files of Police Squad!",
+      "original_language": "en",
+      "original_title": "The Naked Gun: From the Files of Police Squad!",
+      "overview": "When the bumbling Lieutenant Frank Drebin investigates events following the shooting of his partner, he stumbles upon an attempt to assassinate Queen Elizabeth II.",
+      "popularity": 7.0594,
+      "poster_path": "/zT0mhZqZQJE1gSY5Eg9qcGP4NYo.jpg",
+      "release_date": "1988-12-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.286,
+      "vote_count": 4572
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bi9ihIMB9DoXs7odkS5oKkHoK2o.jpg",
+      "genre_ids": [
+        14,
+        18,
+        35
+      ],
+      "id": 2280,
+      "title": "Big",
+      "original_language": "en",
+      "original_title": "Big",
+      "overview": "When a young boy makes a wish at a carnival machine to be big—he wakes up the following morning to find that it has been granted and his body has grown older overnight. But he is still the same 13-year-old boy inside. Now he must learn how to cope with the unfamiliar world of grown-ups including getting a job and having his first romantic encounter with a woman.",
+      "popularity": 7.6405,
+      "poster_path": "/eWhCDJiwxvx3YXkAFRiHjimnF0j.jpg",
+      "release_date": "1988-06-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.189,
+      "vote_count": 4089
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3k2DQBryXzaL7DoAtu6veWWluwt.jpg",
+      "genre_ids": [
+        878,
+        28,
+        53
+      ],
+      "id": 8337,
+      "title": "They Live",
+      "original_language": "en",
+      "original_title": "They Live",
+      "overview": "A lone drifter stumbles upon a unique pair of sunglasses that reveal aliens are systematically gaining control of the Earth by masquerading as humans and lulling the public into submission.",
+      "popularity": 7.8842,
+      "poster_path": "/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
+      "release_date": "1988-11-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 3534
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nEuPSz6LhmrtYp7K56dbsmomuqA.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53,
+        10752
+      ],
+      "id": 1370,
+      "title": "Rambo III",
+      "original_language": "en",
+      "original_title": "Rambo III",
+      "overview": "Combat has taken its toll on Rambo, but he's finally begun to find inner peace in a monastery. When Rambo's friend and mentor Col. Trautman asks for his help on a top secret mission to Afghanistan, Rambo declines but must reconsider when Trautman is captured.",
+      "popularity": 8.8866,
+      "poster_path": "/uycbt9iVlAnKkQIisqUWuO8hVcm.jpg",
+      "release_date": "1988-05-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.205,
+      "vote_count": 3523
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/edghRD7vw1XgWEpMLpGt1VSGB5w.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 10585,
+      "title": "Child's Play",
+      "original_language": "en",
+      "original_title": "Child's Play",
+      "overview": "After being shot in a toy store, a serial killer transfers his soul into a Good Guy doll. A mother then gifts it to her 6-year old son Andy, which unleashes terror upon the city.",
+      "popularity": 8.9304,
+      "poster_path": "/wvpgvcWNkF2HLuTEMIM7K83MvZ.jpg",
+      "release_date": "1988-11-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.764,
+      "vote_count": 3410
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sXfQGa7juaTpZ5IF17Xa6hI53nx.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        12
+      ],
+      "id": 12144,
+      "title": "The Land Before Time",
+      "original_language": "en",
+      "original_title": "The Land Before Time",
+      "overview": "An orphaned brontosaurus named Littlefoot sets off in search of the legendary Great Valley. A land of lush vegetation where the dinosaurs can thrive and live in peace. Along the way he meets four other young dinosaurs, each one a different species, and they encounter several obstacles as they learn to work together in order to survive.",
+      "popularity": 5.2329,
+      "poster_path": "/vP2cDLZyj8mlu97m1N3q9nxNrRS.jpg",
+      "release_date": "1988-11-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.156,
+      "vote_count": 2781
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sAtK99PjOX1IzDUV24N2nab803R.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 9493,
+      "title": "Twins",
+      "original_language": "en",
+      "original_title": "Twins",
+      "overview": "Julius and Vincent Benedict are the results of an experiment that would allow for the perfect child. Julius was planned and grows to athletic proportions. Vincent is an accident and is somewhat smaller in stature. Vincent is placed in an orphanage while Julius is taken to a south seas island and raised by philosophers. Vincent becomes the ultimate low life and is about to be killed by loan sharks.",
+      "popularity": 5.8898,
+      "poster_path": "/stJx9BQZbXrZnTGf9Erc7d2UMVc.jpg",
+      "release_date": "1988-12-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.05,
+      "vote_count": 2554
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6IFTmhNh9kmwd5ix53OdlSphPYl.jpg",
+      "genre_ids": [
+        35,
+        80
+      ],
+      "id": 623,
+      "title": "A Fish Called Wanda",
+      "original_language": "en",
+      "original_title": "A Fish Called Wanda",
+      "overview": "While a diamond advocate attempts to steal a collection of diamonds, troubles arise when he realises he’s not the only one after the collection.",
+      "popularity": 4.2137,
+      "poster_path": "/hkSGFNVfEEUXFCxRZDITFHVhUlu.jpg",
+      "release_date": "1988-07-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.211,
+      "vote_count": 2459
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aSA7RuKmCQBnYKn70GYPi6ckgoY.jpg",
+      "genre_ids": [
+        28,
+        53,
+        18
+      ],
+      "id": 11690,
+      "title": "Bloodsport",
+      "original_language": "en",
+      "original_title": "Bloodsport",
+      "overview": "An American Army Major goes AWOL to Hong Kong for an outlawed martial arts contest called the Kumite.",
+      "popularity": 10.0334,
+      "poster_path": "/kndxR9TRK0kJ5hxzDprRSS80F2W.jpg",
+      "release_date": "1988-02-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.062,
+      "vote_count": 2208
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3sF6AibdbTTkswfSRxXEGCt5w6s.jpg",
+      "genre_ids": [
+        14,
+        12,
+        28
+      ],
+      "id": 847,
+      "title": "Willow",
+      "original_language": "en",
+      "original_title": "Willow",
+      "overview": "The evil Queen Bavmorda hunts the newborn princess Elora Danan, a child prophesied to bring about her downfall. When the royal infant is found by Willow, a timid farmer and aspiring sorcerer, he's entrusted with delivering her from evil.",
+      "popularity": 6.0409,
+      "poster_path": "/pAIRGMIdN7ZdZhflazdV2ezuJ9f.jpg",
+      "release_date": "1988-05-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.005,
+      "vote_count": 2196
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zE4I9YvrrMUfwDZ3zLiN10eRZxG.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 11357,
+      "title": "Halloween 4: The Return of Michael Myers",
+      "original_language": "en",
+      "original_title": "Halloween 4: The Return of Michael Myers",
+      "overview": "Ten years after his original massacre, the invalid Michael Myers awakens on Halloween Eve and returns to Haddonfield to kill his seven-year-old niece.",
+      "popularity": 4.2178,
+      "poster_path": "/eFSOkXF9n9hsfGv45MDsPixiOyx.jpg",
+      "release_date": "1988-10-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.171,
+      "vote_count": 2080
+    }
+  ],
+  "total_pages": 10,
+  "total_results": 189
+}

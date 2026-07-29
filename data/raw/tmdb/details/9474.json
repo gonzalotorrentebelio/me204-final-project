@@ -1,0 +1,94 @@
+{
+  "adult": false,
+  "backdrop_path": "/4II0fdNtTMR0elrMgQSn9wfYuuk.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 9474,
+  "imdb_id": "tt0070215",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Il mio nome è Nessuno",
+  "overview": "Jack Beauregard, an aging gunman of the Old West, only wants to retire in peace and move to Europe, but a young gunfighter known as \"Nobody\" who idolizes Beauregard wants him to go out in a blaze of glory. So, he arranges for Jack to face the 150-man gang known as The Wild Bunch and earn his place in history.",
+  "popularity": 3.3493,
+  "poster_path": "/tJQEVI1p00Jh9TUgNEI623iu7ST.jpg",
+  "production_companies": [
+    {
+      "id": 218,
+      "logo_path": null,
+      "name": "Rafran Cinematografica",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1639,
+      "logo_path": null,
+      "name": "Les Films Jacques Leitienne",
+      "origin_country": "FR"
+    },
+    {
+      "id": 12726,
+      "logo_path": null,
+      "name": "Alcinter",
+      "origin_country": ""
+    },
+    {
+      "id": 32208,
+      "logo_path": null,
+      "name": "Imp.Ex.Ci.",
+      "origin_country": "FR"
+    },
+    {
+      "id": 29165,
+      "logo_path": "/d1wokdgTjC7lJs6yktVd61JZrwD.png",
+      "name": "Rialto Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1973-12-13",
+  "revenue": 0,
+  "runtime": 117,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Nobody, but \"Nobody,\" knows the trouble he's in!",
+  "title": "My Name Is Nobody",
+  "video": false,
+  "vote_average": 7.272,
+  "vote_count": 1069
+}

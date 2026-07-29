@@ -1,0 +1,412 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/98qofsLB8HwPsmlq0HczQTt8BcS.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 571,
+      "title": "The Birds",
+      "original_language": "en",
+      "original_title": "The Birds",
+      "overview": "Thousands of birds flock into a seaside town and terrorize the residents in a series of deadly attacks.",
+      "popularity": 6.6521,
+      "poster_path": "/eClg8QPg8mwB6INIC4pyR5pAbDr.jpg",
+      "release_date": "1963-03-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.512,
+      "vote_count": 4508
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uMe6McFXAPEhkasGVlaLTOuhfnl.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14
+      ],
+      "id": 9078,
+      "title": "The Sword in the Stone",
+      "original_language": "en",
+      "original_title": "The Sword in the Stone",
+      "overview": "Wart is a young boy who aspires to be a knight's squire. On a hunting trip he falls in on Merlin, a powerful but amnesiac wizard who has plans for him beyond mere squiredom. He starts by trying to give him an education, believing that once one has an education, one can go anywhere. Needless to say, it doesn't quite work out that way.",
+      "popularity": 6.1753,
+      "poster_path": "/7lyeeuhGAJSNXYEW34S8mJ1bwI8.jpg",
+      "release_date": "1963-12-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.227,
+      "vote_count": 4139
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8JMiQa0OqsCYvbNUrQIrMzwV7g2.jpg",
+      "genre_ids": [
+        28,
+        53,
+        12
+      ],
+      "id": 657,
+      "title": "From Russia with Love",
+      "original_language": "en",
+      "original_title": "From Russia with Love",
+      "overview": "Agent 007 is back in the second installment of the James Bond series, this time battling a secret crime organization known as SPECTRE. Russians Rosa Klebb and Kronsteen are out to snatch a decoding device known as the Lektor, using the ravishing Tatiana to lure Bond into helping them. Bond willingly travels to meet Tatiana in Istanbul, where he must rely on his wits to escape with his life in a series of deadly encounters with the enemy.",
+      "popularity": 8.2455,
+      "poster_path": "/zx4V17FP8oclNvOpTgs2iCCtiYk.jpg",
+      "release_date": "1963-10-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.063,
+      "vote_count": 3416
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/q8niSuT02ZlBJDfCxoK2YZal3PL.jpg",
+      "genre_ids": [
+        12,
+        18,
+        10752
+      ],
+      "id": 5925,
+      "title": "The Great Escape",
+      "original_language": "en",
+      "original_title": "The Great Escape",
+      "overview": "The Nazis, exasperated at the number of escapes from their prison camps by a relatively small number of Allied prisoners, relocate them to a high-security 'escape-proof' camp to sit out the remainder of the war. Undaunted, the prisoners plan one of the most ambitious escape attempts of World War II. Based on a true story.",
+      "popularity": 7.375,
+      "poster_path": "/gBH4H8UMFxl139HaLz6lRuvsel8.jpg",
+      "release_date": "1963-07-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.929,
+      "vote_count": 2883
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/y2FNZLHynsevBnVTocGW6c3pQpr.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 422,
+      "title": "8½",
+      "original_language": "it",
+      "original_title": "8½",
+      "overview": "Guido Anselmi, a film director, finds himself creatively barren at the peak of his career. Urged by his doctors to rest, Anselmi heads for a luxurious resort, but a sorry group gathers—his producer, staff, actors, wife, mistress, and relatives—each one begging him to get on with the show. In retreat from their dependency, he fantasizes about past women and dreams of his childhood.",
+      "popularity": 5.5936,
+      "poster_path": "/23VIf7zNxAgaXwIlvzd3IvOd9sY.jpg",
+      "release_date": "1963-02-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.083,
+      "vote_count": 2551
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gj2TBYmOIy4E2GjMIpnbAEZNCQx.jpg",
+      "genre_ids": [
+        35,
+        9648,
+        10749
+      ],
+      "id": 4808,
+      "title": "Charade",
+      "original_language": "en",
+      "original_title": "Charade",
+      "overview": "After Regina Lampert falls for the dashing Peter Joshua on a skiing holiday in the French Alps, she discovers upon her return to Paris that her husband has been murdered. Soon, she and Peter are giving chase to three of her late husband's World War II cronies, Tex, Scobie and Gideon, who are after a quarter of a million dollars the quartet stole while behind enemy lines.",
+      "popularity": 3.7654,
+      "poster_path": "/qqaPjC5FQidtKY65jbAKZPiOTaS.jpg",
+      "release_date": "1963-12-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 1565
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iruYVg36Jj8ol4z5owDHOEZH0nt.jpg",
+      "genre_ids": [
+        35,
+        80
+      ],
+      "id": 936,
+      "title": "The Pink Panther",
+      "original_language": "en",
+      "original_title": "The Pink Panther",
+      "overview": "The trademark of The Phantom, a renowned jewel thief, is a glove left at the scene of the crime. Inspector Clouseau, an expert on The Phantom's exploits, feels sure that he knows where The Phantom will strike next and leaves Paris for the Tyrolean Alps, where the famous Lugashi jewel 'The Pink Panther' is going to be. However, he does not know who The Phantom really is, or for that matter who anyone else really is...",
+      "popularity": 3.866,
+      "poster_path": "/aCjJ0sKayks2uL7MJBzdp2i67NI.jpg",
+      "release_date": "1963-12-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.842,
+      "vote_count": 1193
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i1NjlccZcuqbgDCS92RHdhEnx59.jpg",
+      "genre_ids": [
+        18,
+        80,
+        53
+      ],
+      "id": 12493,
+      "title": "High and Low",
+      "original_language": "ja",
+      "original_title": "天国と地獄",
+      "overview": "A Yokohama shoe executive faces a wrenching choice when kidnappers mistakenly seize his chauffeur’s son but demand the ransom anyway.",
+      "popularity": 8.2661,
+      "poster_path": "/tgNjemQPG96uIezpiUiXFcer5ga.jpg",
+      "release_date": "1963-03-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.365,
+      "vote_count": 1155
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/afxEiYxANGG88xXVYpNtAHFzTIV.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 266,
+      "title": "Contempt",
+      "original_language": "fr",
+      "original_title": "Le Mépris",
+      "overview": "Art film producer Jeremy Prokosch, unhappy with the work of his director, hires Fritz Lang (as himself) to direct an adaptation of The Odyssey, but when it seems that the legendary filmmaker is making a picture destined to bomb, he brings in a screenwriter to energise the script. The professional intersects with the personal when a rift develops between the writer and his wife.",
+      "popularity": 4.4876,
+      "poster_path": "/kNElbRcp4Qz6wmJ9kH5vdY004Hq.jpg",
+      "release_date": "1963-10-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.028,
+      "vote_count": 973
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/myikoqu8Z2gtE7TaBgk9r6fB9MF.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1040,
+      "title": "The Leopard",
+      "original_language": "it",
+      "original_title": "Il gattopardo",
+      "overview": "As Garibaldi's troops begin the unification of Italy in the 1860s, an aristocratic Sicilian family grudgingly adapts to the sweeping social changes undermining their way of life.",
+      "popularity": 3.8148,
+      "poster_path": "/riSUxwoK3xjkOgy6YJSvPhi7cO6.jpg",
+      "release_date": "1963-03-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.718,
+      "vote_count": 960
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/q7fBDmVcU0MWkc8sWt9IKj6YbVd.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10749
+      ],
+      "id": 8095,
+      "title": "Cleopatra",
+      "original_language": "en",
+      "original_title": "Cleopatra",
+      "overview": "Determined to hold on to the throne, Cleopatra seduces the Roman emperor Julius Caesar. When Caesar is murdered, she redirects her attentions to his general, Marc Antony, who vows to take power—but Caesar’s successor has other plans.",
+      "popularity": 6.3904,
+      "poster_path": "/bj7rUGUewofA9cpHt1h36gvDFfy.jpg",
+      "release_date": "1963-06-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 862
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9CVUzIPyBMnHsDDighQNgkDYsP9.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 11772,
+      "title": "The Haunting",
+      "original_language": "en",
+      "original_title": "The Haunting",
+      "overview": "Dr. John Markway recruits three strangers for a sleep-disorder study at the eerie and isolated Hill House. It soon becomes clear his real interest lies in the mansion itself and its sinister history, as they are forced to confront the nature of its horror…",
+      "popularity": 2.4406,
+      "poster_path": "/fmpTnUKTcrpuxLSY23gQMUf9qu7.jpg",
+      "release_date": "1963-03-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 726
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xdefSJpYARFdW4jPhPsuvUlmt2M.jpg",
+      "genre_ids": [
+        12,
+        10751,
+        14
+      ],
+      "id": 11533,
+      "title": "Jason and the Argonauts",
+      "original_language": "en",
+      "original_title": "Jason and the Argonauts",
+      "overview": "Jason, a fearless sailor and explorer, returns to his home land of Thessaly after a long voyage to claim his rightful throne. He learns, however, that he must first find the magical Golden Fleece. To do so, he must embark on an epic quest fraught with fantastic monsters and terrible perils.",
+      "popularity": 6.8244,
+      "poster_path": "/xHVxIgqD5CxlOI5GHxvVSt5Zh5Y.jpg",
+      "release_date": "1963-06-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.174,
+      "vote_count": 706
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wSiBXaJ2PtlxUGH2waIxQZjFPhg.jpg",
+      "genre_ids": [
+        12,
+        35,
+        80
+      ],
+      "id": 11576,
+      "title": "It's a Mad, Mad, Mad, Mad World",
+      "original_language": "en",
+      "original_title": "It's a Mad, Mad, Mad, Mad World",
+      "overview": "A group of strangers come across a man dying after a car crash who proceeds to tell them about the $350,000 he buried in California. What follows is the madcap adventures of those strangers as each attempts to claim the prize for himself.",
+      "popularity": 4.0942,
+      "poster_path": "/j4mWzOisSHFkaqIkq34l2mm8a5K.jpg",
+      "release_date": "1963-11-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.982,
+      "vote_count": 699
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gLRsYQTWShZrCOASZDswahfGcQF.jpg",
+      "genre_ids": [
+        18,
+        12,
+        53
+      ],
+      "id": 9960,
+      "title": "Lord of the Flies",
+      "original_language": "en",
+      "original_title": "Lord of the Flies",
+      "overview": "Following a plane crash a group of schoolboys find themselves on a deserted island. They appoint a leader and attempt to create an organized society for the sake of their survival. Democracy and order soon begin to crumble when a breakaway faction regresses to savagery with horrifying consequences.",
+      "popularity": 2.8603,
+      "poster_path": "/3jhp9oxZpwcWCZ1vfn3PyMWovzq.jpg",
+      "release_date": "1963-08-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.678,
+      "vote_count": 584
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2pnfUSFqUPn9F4mzl1MLKrlnNbU.jpg",
+      "genre_ids": [
+        35,
+        80
+      ],
+      "id": 25253,
+      "title": "Crooks in Clover",
+      "original_language": "fr",
+      "original_title": "Les Tontons flingueurs",
+      "overview": "An aging gangster, Fernand Naudin is hoping for a quiet retirement when he suddenly inherits a fortune from an old friend, a former gangster supremo known as the Mexican. If he is ambivalent about his new found wealth, Fernand is positively nonplussed to discover that he has also inherited his benefactor’s daughter, Patricia. Unfortunately, not only does Fernand have to put up with the thoroughly modern Patricia and her nauseating boyfriend, but he also had to contend with the Mexican’s trigger-happy former employees, who are determined to make a claim.",
+      "popularity": 1.449,
+      "poster_path": "/1uYCIsMpX7FtWu2xO1YMIAQYvLR.jpg",
+      "release_date": "1963-11-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.724,
+      "vote_count": 568
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tis6nrWakUsuG6Jwdm4yESfTU0o.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 29455,
+      "title": "Winter Light",
+      "original_language": "sv",
+      "original_title": "Nattvardsgästerna",
+      "overview": "A Swedish pastor fails a loving woman, a suicidal fisherman and God.",
+      "popularity": 2.1769,
+      "poster_path": "/wDxrEssdjFWYwIZLbr06RQNcg1q.jpg",
+      "release_date": "1963-02-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 511
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vELycsAjczFbhneSJG1V6gvTz0D.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 28043,
+      "title": "Black Sabbath",
+      "original_language": "it",
+      "original_title": "I tre volti della paura",
+      "overview": "Three tales of supernatural horror include a woman plagued by threatening phone calls, a family targeted by vampiric monsters, and a deceased medium who wreaks havoc upon the living.",
+      "popularity": 1.9208,
+      "poster_path": "/vrMcn6CKrLjWAtHHMFL7cj8A5au.jpg",
+      "release_date": "1963-08-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 487
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6j1yeUhtFUVACFjLJXCFLswlcFE.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        18
+      ],
+      "id": 2690,
+      "title": "Irma la Douce",
+      "original_language": "en",
+      "original_title": "Irma la Douce",
+      "overview": "When a recently fired policeman falls in love with a French prostitute, he doesn't want her to be with other men, so he creates an alter-ego in order to become her only customer.",
+      "popularity": 2.5143,
+      "poster_path": "/5TgL8ql6WwXWmX4EvBL4geJ7gx5.jpg",
+      "release_date": "1963-01-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 481
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i7awVEzUulqDX35EDKtXijRCpzM.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 42801,
+      "title": "Yesterday, Today and Tomorrow",
+      "original_language": "it",
+      "original_title": "Ieri, oggi, domani",
+      "overview": "Three tales of very different women using their sexuality as a means to getting what they want.",
+      "popularity": 1.7506,
+      "poster_path": "/uRJuHGtdNES7OgCoBpTXkOTO9IL.jpg",
+      "release_date": "1963-12-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.437,
+      "vote_count": 475
+    }
+  ],
+  "total_pages": 4,
+  "total_results": 72
+}

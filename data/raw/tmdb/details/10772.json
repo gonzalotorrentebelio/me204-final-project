@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/2tFsObjPy5Q0Ea4pb0ICPqVI2ht.jpg",
+  "belongs_to_collection": {
+    "id": 386818,
+    "name": "Django Collection",
+    "poster_path": "/a5iHu8etjtKqFOsJCkMo040WzKZ.jpg",
+    "backdrop_path": "/vN834OJwbVNeWG46sOcZVbS1Z6I.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 10772,
+  "imdb_id": "tt0060315",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Django",
+  "overview": "A coffin-dragging gunslinger and a prostitute become embroiled in a bitter feud between a merciless masked clan and a band of Mexican revolutionaries.",
+  "popularity": 3.527,
+  "poster_path": "/XO7MrV0nsDlBWLjfM5ekiGgjyt.jpg",
+  "production_companies": [
+    {
+      "id": 9232,
+      "logo_path": null,
+      "name": "Tecisa Film",
+      "origin_country": "ES"
+    },
+    {
+      "id": 6775,
+      "logo_path": null,
+      "name": "B.R.C. Produzione Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "1966-04-06",
+  "revenue": 17277,
+  "runtime": 93,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The movie that spawned a genre.",
+  "title": "Django",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 1012
+}

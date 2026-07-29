@@ -1,0 +1,84 @@
+{
+  "adult": false,
+  "backdrop_path": "/1gNfZauhTpNWRmwtKlJZBqT34fd.jpg",
+  "belongs_to_collection": null,
+  "budget": 19000000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 4235,
+  "imdb_id": "tt0064169",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Le Clan des Siciliens",
+  "overview": "An ambitious mobster plans an elaborate diamond heist while seducing the daughter-in-law of a ruthless mob patriarch as a determined police commissioner closes in on all of them.",
+  "popularity": 2.3541,
+  "poster_path": "/uVBbDPbm1H4Z9M7uZ976KFaAjDR.jpg",
+  "production_companies": [
+    {
+      "id": 1602,
+      "logo_path": null,
+      "name": "Les Productions Fox Europa",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1603,
+      "logo_path": null,
+      "name": "Les Films du Siècle",
+      "origin_country": "FR"
+    },
+    {
+      "id": 25,
+      "logo_path": "/nM2MfoMqzJQRiSynsDabOtFKetD.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1969-12-05",
+  "revenue": 0,
+  "runtime": 121,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Behind every gun is \"The Sicilian Clan!\"",
+  "title": "The Sicilian Clan",
+  "video": false,
+  "vote_average": 7.568,
+  "vote_count": 374
+}

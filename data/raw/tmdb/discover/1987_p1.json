@@ -1,0 +1,423 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/3k2TRmqMjgt7tcwkYwZQdctnty3.jpg",
+      "genre_ids": [
+        18,
+        10752
+      ],
+      "id": 600,
+      "title": "Full Metal Jacket",
+      "original_language": "en",
+      "original_title": "Full Metal Jacket",
+      "overview": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+      "popularity": 14.0803,
+      "poster_path": "/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+      "release_date": "1987-06-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.118,
+      "vote_count": 11586
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12,
+        53
+      ],
+      "id": 106,
+      "title": "Predator",
+      "original_language": "en",
+      "original_title": "Predator",
+      "overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+      "popularity": 21.4003,
+      "poster_path": "/aN3cdjIK70KGmD84et8MMblU87Q.jpg",
+      "release_date": "1987-06-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.573,
+      "vote_count": 9306
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6iDQCBUSZKzY8Rnu8ECwl2gXcfG.jpg",
+      "genre_ids": [
+        18,
+        10402,
+        10749
+      ],
+      "id": 88,
+      "title": "Dirty Dancing",
+      "original_language": "en",
+      "original_title": "Dirty Dancing",
+      "overview": "Expecting the usual tedium that accompanies a summer in the Catskills with her family, 17-year-old Frances 'Baby' Houseman is surprised to find herself stepping into the shoes of a professional hoofer—and unexpectedly falling in love.",
+      "popularity": 12.3512,
+      "poster_path": "/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg",
+      "release_date": "1987-08-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 6576
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i1oWUGVDNBhGBykcCRBlX326udb.jpg",
+      "genre_ids": [
+        80,
+        36,
+        53
+      ],
+      "id": 117,
+      "title": "The Untouchables",
+      "original_language": "en",
+      "original_title": "The Untouchables",
+      "overview": "Elliot Ness, an ambitious prohibition agent, is determined to take down Al Capone. In order to achieve this goal, he forms a group given the nickname “The Untouchables”.",
+      "popularity": 7.3331,
+      "poster_path": "/tPq0R4jTO4Ey8ZspFaWK9wGA4Ls.jpg",
+      "release_date": "1987-06-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.757,
+      "vote_count": 6235
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xcaX6BZ1JUPSVMH2gBkWIckLLaA.jpg",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "id": 5548,
+      "title": "RoboCop",
+      "original_language": "en",
+      "original_title": "RoboCop",
+      "overview": "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company's nefarious plans, he turns on his masters.",
+      "popularity": 8.7537,
+      "poster_path": "/hHtOgGb3NihlyRATHlKPaFApbrd.jpg",
+      "release_date": "1987-07-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.364,
+      "vote_count": 5822
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2CisgvF2HcIVnbMZbSjASCtSgEb.jpg",
+      "genre_ids": [
+        12,
+        14,
+        10749,
+        10751,
+        35
+      ],
+      "id": 2493,
+      "title": "The Princess Bride",
+      "original_language": "en",
+      "original_title": "The Princess Bride",
+      "overview": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
+      "popularity": 9.9495,
+      "poster_path": "/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+      "release_date": "1987-09-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.705,
+      "vote_count": 5182
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/guTNnSWS3CaH71jasY8W1FMptjG.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 941,
+      "title": "Lethal Weapon",
+      "original_language": "en",
+      "original_title": "Lethal Weapon",
+      "overview": "A veteran cop and an unstable detective become partners who must put their differences aside in order to bring down a heroin-smuggling ring run by ex-Special Forces.",
+      "popularity": 10.8215,
+      "poster_path": "/fTq4ThIP3pQTYR9eDepsbDHqdcs.jpg",
+      "release_date": "1987-03-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.301,
+      "vote_count": 5109
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dOvEJK2u0slAGTfhdZOjnNgCQet.jpg",
+      "genre_ids": [
+        27,
+        35,
+        14
+      ],
+      "id": 765,
+      "title": "Evil Dead II",
+      "original_language": "en",
+      "original_title": "Evil Dead II",
+      "overview": "Ash Williams and his girlfriend Linda find a log cabin in the woods with a voice recording from an archeologist who had recorded himself reciting ancient chants from \"The Book of the Dead.\" As they play the recording an evil power is unleashed taking over Linda's body.",
+      "popularity": 9.2578,
+      "poster_path": "/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg",
+      "release_date": "1987-03-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.54,
+      "vote_count": 3561
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5j77rB8NRa7lXuu1Sgmm6wfgrzZ.jpg",
+      "genre_ids": [
+        35,
+        878
+      ],
+      "id": 957,
+      "title": "Spaceballs",
+      "original_language": "en",
+      "original_title": "Spaceballs",
+      "overview": "When the nefarious Dark Helmet hatches a plan to snatch Princess Vespa and steal her planet's air, space-bum-for-hire Lone Starr and his clueless sidekick fly to the rescue. Along the way, they meet Yogurt, who puts Lone Starr wise to the power of \"The Schwartz.\" Can he master it in time to save the day?",
+      "popularity": 9.582,
+      "poster_path": "/aHNeKtkNnyQcietzi2cgiYL8sC9.jpg",
+      "release_date": "1987-06-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.884,
+      "vote_count": 3467
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mbgJEkrJ0uBOakLwpufdmW4K8Im.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10752
+      ],
+      "id": 801,
+      "title": "Good Morning, Vietnam",
+      "original_language": "en",
+      "original_title": "Good Morning, Vietnam",
+      "overview": "A disk jockey goes to Vietnam to work for the Armed Forces Radio Service. While he becomes popular among the troops, his superiors disapprove of his humor.",
+      "popularity": 4.9126,
+      "poster_path": "/sreISlFUn5TyR41QNjlfAdX5SEW.jpg",
+      "release_date": "1987-12-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.304,
+      "vote_count": 3040
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jInJNDIyzlYBV79nx8Qb5s2xjfM.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 9003,
+      "title": "Hellraiser",
+      "original_language": "en",
+      "original_title": "Hellraiser",
+      "overview": "A hedonistic man finds a mysterious puzzle box that summons a group of gruesome beings known as the Cenobites. These otherworldly entities open the doors to a dominion where pain and pleasure are indivisible.",
+      "popularity": 6.3975,
+      "poster_path": "/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg",
+      "release_date": "1987-09-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.884,
+      "vote_count": 2917
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ssQ7IcGmgUJdFLv8cHY3vC3OR4f.jpg",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "id": 865,
+      "title": "The Running Man",
+      "original_language": "en",
+      "original_title": "The Running Man",
+      "overview": "By 2017, the global economy has collapsed and U.S. society has become a totalitarian police state, censoring all cultural activity. The government pacifies the populace by broadcasting a number of game shows in which convicted criminals fight for their lives, including the gladiator-style The Running Man, hosted by the ruthless Damon Killian, where “runners” attempt to evade “stalkers” and certain death for a chance to be pardoned and set free.",
+      "popularity": 5.8393,
+      "poster_path": "/GTAUOhO4BN0peJVvxGEQydJvUO.jpg",
+      "release_date": "1987-11-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.538,
+      "vote_count": 2895
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bIA65PCRtIQfBvIoKohJbtOPl3M.jpg",
+      "genre_ids": [
+        28,
+        35,
+        80
+      ],
+      "id": 96,
+      "title": "Beverly Hills Cop II",
+      "original_language": "en",
+      "original_title": "Beverly Hills Cop II",
+      "overview": "Axel Foley returns to the land of sunshine and palm trees to investigate the near-fatal shooting of police Captain Andrew Bogomil. With the help of Sgt. Taggart and Det. Rosewood, they soon uncover that the shooting is associated with a series of \"alphabet\" robberies masterminded by a heartless weapons kingpin—and the chase is on.",
+      "popularity": 4.6531,
+      "poster_path": "/egDakU8O5yUwpUJP9IMAUVtIDll.jpg",
+      "release_date": "1987-05-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.534,
+      "vote_count": 2860
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oSFshBf9Wrv5UcmZYAmy28BwSSh.jpg",
+      "genre_ids": [
+        35,
+        80
+      ],
+      "id": 378,
+      "title": "Raising Arizona",
+      "original_language": "en",
+      "original_title": "Raising Arizona",
+      "overview": "When a childless couple—an ex-con and an ex-cop—take one of a wealthy family’s quintuplets to raise as their own, their lives grow more complicated than anticipated.",
+      "popularity": 3.2143,
+      "poster_path": "/niKyjOqiB4XVl0BqgKTHIlHOCeF.jpg",
+      "release_date": "1987-03-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.054,
+      "vote_count": 2365
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6zvbeKxgc80xQsZLJ4eQVZSKXO8.jpg",
+      "genre_ids": [
+        27,
+        35,
+        53
+      ],
+      "id": 1547,
+      "title": "The Lost Boys",
+      "original_language": "en",
+      "original_title": "The Lost Boys",
+      "overview": "When an unsuspecting town newcomer is drawn to local blood fiends, the Frog brothers and other unlikely heroes gear up to rescue him.",
+      "popularity": 6.0048,
+      "poster_path": "/nH1lvyQvfbL5GKScTtT6zkIvDEn.jpg",
+      "release_date": "1987-07-31",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 2335
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/v46Uq29FXcl4huvu1Nh7tJ5qAjZ.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 10673,
+      "title": "Wall Street",
+      "original_language": "en",
+      "original_title": "Wall Street",
+      "overview": "A young and impatient stockbroker is willing to do anything to get to the top, including trading on illegal inside information taken through a ruthless and greedy corporate raider, whom takes the youth under his wing.",
+      "popularity": 5.3416,
+      "poster_path": "/2tQYq9ntzn2dEwDIGLBSipYPenv.jpg",
+      "release_date": "1987-12-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.165,
+      "vote_count": 2280
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4f8JBqvWyPObKTrjvJnp9BeOUyY.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 2609,
+      "title": "Planes, Trains and Automobiles",
+      "original_language": "en",
+      "original_title": "Planes, Trains and Automobiles",
+      "overview": "An irritable marketing executive, Neal Page, is heading home to Chicago for Thanksgiving when a number of delays force him to travel with a well meaning but overbearing shower curtain ring salesman, Del Griffith.",
+      "popularity": 4.532,
+      "poster_path": "/fwi2cET87xArJCb8MdbWq2BZO3n.jpg",
+      "release_date": "1987-11-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.253,
+      "vote_count": 2244
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xt7boIC763DdceVQIGJdnmKlDVu.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "id": 10110,
+      "title": "Empire of the Sun",
+      "original_language": "en",
+      "original_title": "Empire of the Sun",
+      "overview": "Jamie Graham, a privileged English boy, is living in Shanghai when the Japanese invade and force all foreigners into prison camps. Jamie is captured with an American sailor, who looks out for him while they are in the camp together. Even though he is separated from his parents and in a hostile environment, Jamie maintains his dignity and youthful spirit, providing a beacon of hope for the others held captive with him.",
+      "popularity": 4.6143,
+      "poster_path": "/gEaCzjwHoPgyQFcwHql7o5YLHAU.jpg",
+      "release_date": "1987-12-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.516,
+      "vote_count": 2162
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/euXJlfeYSyrdkOoFQ9gtUG8OOhH.jpg",
+      "genre_ids": [
+        27,
+        53,
+        14
+      ],
+      "id": 10072,
+      "title": "A Nightmare on Elm Street 3: Dream Warriors",
+      "original_language": "en",
+      "original_title": "A Nightmare on Elm Street 3: Dream Warriors",
+      "overview": "A psychiatrist, familiar with the knife-wielding dream demon Freddy Krueger, helps teens at a mental hospital battle the killer who is invading their dreams.",
+      "popularity": 2.7238,
+      "poster_path": "/qbtZewU6EGvxi8yFVzwZ31NijLX.jpg",
+      "release_date": "1987-02-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.717,
+      "vote_count": 2065
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ebaq0ecL1Tu39rIExfHwE4ToFl2.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 708,
+      "title": "The Living Daylights",
+      "original_language": "en",
+      "original_title": "The Living Daylights",
+      "overview": "After a defecting Russian general reveals a plot to assassinate foreign spies, James Bond is assigned a secret mission to dispatch the new head of the KGB to prevent an escalation of tensions between the Soviet Union and the West.",
+      "popularity": 5.888,
+      "poster_path": "/1oRlmWX9hewpn2B44wawBjHd7dx.jpg",
+      "release_date": "1987-06-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.543,
+      "vote_count": 2060
+    }
+  ],
+  "total_pages": 10,
+  "total_results": 198
+}

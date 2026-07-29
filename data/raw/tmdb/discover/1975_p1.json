@@ -1,0 +1,409 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/i1yf91svRHX45l9BXL8rVFzLoPH.jpg",
+      "genre_ids": [
+        27,
+        53,
+        12
+      ],
+      "id": 578,
+      "title": "Jaws",
+      "original_language": "en",
+      "original_title": "Jaws",
+      "overview": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled shark hunter embark on a desperate quest to kill the beast before it strikes again.",
+      "popularity": 20.5282,
+      "poster_path": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "release_date": "1975-06-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.683,
+      "vote_count": 11676
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uA8eSNAUUUyfHNIrG4h0zHxzt9W.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 510,
+      "title": "One Flew Over the Cuckoo's Nest",
+      "original_language": "en",
+      "original_title": "One Flew Over the Cuckoo's Nest",
+      "overview": "A petty criminal fakes insanity to serve his sentence in a mental ward rather than prison. He soon finds himself as a leader to the other patients—and an enemy to the cruel, domineering nurse who runs the ward.",
+      "popularity": 19.6754,
+      "poster_path": "/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+      "release_date": "1975-11-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.408,
+      "vote_count": 11579
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1KgXxv6tHXOnakqYvMPvFwYKWiw.jpg",
+      "genre_ids": [
+        12,
+        35,
+        14
+      ],
+      "id": 762,
+      "title": "Monty Python and the Holy Grail",
+      "original_language": "en",
+      "original_title": "Monty Python and the Holy Grail",
+      "overview": "King Arthur, accompanied by his squire, recruits his Knights of the Round Table, including Sir Bedevere the Wise, Sir Lancelot the Brave, Sir Robin the Not-Quite-So-Brave-As-Sir-Lancelot and Sir Galahad the Pure. On the way, Arthur battles the Black Knight who, despite having had all his limbs chopped off, insists he can still fight. They reach Camelot, but Arthur decides not  to enter, as \"it is a silly place\".",
+      "popularity": 8.866,
+      "poster_path": "/7nTkHjETdGMYK1phHwDbPsrzbYl.jpg",
+      "release_date": "1975-04-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.804,
+      "vote_count": 6480
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/m10uqk0HI5JcITAbxNJIIiGA8HP.jpg",
+      "genre_ids": [
+        80,
+        18,
+        53
+      ],
+      "id": 968,
+      "title": "Dog Day Afternoon",
+      "original_language": "en",
+      "original_title": "Dog Day Afternoon",
+      "overview": "Based on the true story of would-be Brooklyn bank robbers John Wojtowicz and Salvatore Naturile. Sonny and Sal attempt a bank heist which quickly turns sour and escalates into a hostage situation and stand-off with the police. As Sonny's motives for the robbery are slowly revealed and things become more complicated, the heist turns into a media circus.",
+      "popularity": 6.4368,
+      "poster_path": "/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
+      "release_date": "1975-09-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 3424
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ef6SvWbSfCFlKodJZqpIaTvsRRP.jpg",
+      "genre_ids": [
+        18,
+        10752,
+        36
+      ],
+      "id": 3175,
+      "title": "Barry Lyndon",
+      "original_language": "en",
+      "original_title": "Barry Lyndon",
+      "overview": "An Irish rogue uses his cunning and wit to work his way up the social classes of 18th century England, transforming himself from the humble Redmond Barry into the noble Barry Lyndon.",
+      "popularity": 5.5108,
+      "poster_path": "/znfLskGQnXYB2xcOGM9eInRHPAV.jpg",
+      "release_date": "1975-12-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 3225
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/a53EGF0NzHRGKuRItsrtXBM8FCD.jpg",
+      "genre_ids": [
+        35,
+        878,
+        27
+      ],
+      "id": 36685,
+      "title": "The Rocky Horror Picture Show",
+      "original_language": "en",
+      "original_title": "The Rocky Horror Picture Show",
+      "overview": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man.",
+      "popularity": 5.948,
+      "poster_path": "/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
+      "release_date": "1975-08-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 3168
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nIl67C3sKQ68y1kVxuDTLXBJqYX.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "id": 20126,
+      "title": "Deep Red",
+      "original_language": "it",
+      "original_title": "Profondo rosso",
+      "overview": "An English pianist living in Rome witnesses the brutal murder of his psychic neighbor. With the help of a tenacious young reporter, he tries to discover the killer using very unconventional methods. The two are soon drawn into a shocking web of dementia and violence.",
+      "popularity": 4.1525,
+      "poster_path": "/wq7RxV5gMvgO0EKeWpNhegnpJBh.jpg",
+      "release_date": "1975-03-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.721,
+      "vote_count": 1607
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/paaOfARLLJTV2IfqsPwM7pxxSHp.jpg",
+      "genre_ids": [
+        53,
+        9648
+      ],
+      "id": 11963,
+      "title": "Three Days of the Condor",
+      "original_language": "en",
+      "original_title": "Three Days of the Condor",
+      "overview": "When bookish CIA researcher Joe Turner finds all his co-workers dead, he, together with a woman he has kidnapped, must work together to outwit those responsible until he determines who he can really trust.",
+      "popularity": 3.776,
+      "poster_path": "/zinwtZqdb7gnc4zMu8dfkK1fMN3.jpg",
+      "release_date": "1975-09-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.276,
+      "vote_count": 1382
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9UAcMhSCDJ2OCo5QdPpSERjhMA1.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 1396,
+      "title": "Mirror",
+      "original_language": "ru",
+      "original_title": "Зеркало",
+      "overview": "A dying man in his forties recalls his childhood, his mother, the war and personal moments that tell of and juxtapose pivotal moments in Soviet history with daily life.",
+      "popularity": 4.3292,
+      "poster_path": "/AttDP5OEsMxtHPPN7Z92p2Ntnmd.jpg",
+      "release_date": "1975-03-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.953,
+      "vote_count": 1102
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pgtHrfRnVpOWbiGYFVoHM3E9rN.jpg",
+      "genre_ids": [
+        35,
+        36
+      ],
+      "id": 11686,
+      "title": "Love and Death",
+      "original_language": "en",
+      "original_title": "Love and Death",
+      "overview": "In czarist Russia, a neurotic soldier and his distant cousin formulate a plot to assassinate Napoleon.",
+      "popularity": 1.564,
+      "poster_path": "/oJXFd1UHZoOQ1UtoLxbyBLGJDox.jpg",
+      "release_date": "1975-06-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.467,
+      "vote_count": 979
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/41Mlaj6wfjlF4wQaVH0tjfDXvMi.jpg",
+      "genre_ids": [
+        18,
+        9648
+      ],
+      "id": 11020,
+      "title": "Picnic at Hanging Rock",
+      "original_language": "en",
+      "original_title": "Picnic at Hanging Rock",
+      "overview": "In the early 1900s, Miranda attends a girls boarding school in Australia. One Valentine's Day, the school's typically strict headmistress treats the girls to a picnic field trip to an unusual but scenic volcanic formation called Hanging Rock. Despite rules against it, Miranda and several other girls venture off. It's not until the end of the day that the faculty realizes the girls and one of the teachers have disappeared mysteriously.",
+      "popularity": 2.2583,
+      "poster_path": "/7BAXwmFN4pZDNb9N6kzmAAwdssi.jpg",
+      "release_date": "1975-09-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 894
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mrLqmBNmj5U0QCjcOQ4esB6IBF9.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 25606,
+      "title": "Fantozzi: White Collar Blues",
+      "original_language": "it",
+      "original_title": "Fantozzi",
+      "overview": "A good-natured but unlucky Italian is constantly going on a difficult situations, but never lose his mood.",
+      "popularity": 1.2584,
+      "poster_path": "/elGj4wK8fz5NT0weWitmfGizpr8.jpg",
+      "release_date": "1975-03-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.801,
+      "vote_count": 882
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3q6XHCXII7qRZOx5EqU5NfYkVx8.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 20914,
+      "title": "My Friends",
+      "original_language": "it",
+      "original_title": "Amici miei",
+      "overview": "Four inseparable friends try to face their midlife crisis with daytrips and pranks at the expense of their families and the people around them.",
+      "popularity": 3.7965,
+      "poster_path": "/efQiC7hEXa6Vbn05FwNQoB8yGqX.jpg",
+      "release_date": "1975-10-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.115,
+      "vote_count": 751
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hKhsgLfJlIQVa88dZWR7kIEwgbI.jpg",
+      "genre_ids": [
+        27,
+        878
+      ],
+      "id": 27429,
+      "title": "Shivers",
+      "original_language": "en",
+      "original_title": "Shivers",
+      "overview": "The residents of a suburban high-rise apartment building are infected by parasites that turn them into mindless nymphomaniac fiends.",
+      "popularity": 2.806,
+      "poster_path": "/wcgfPA5FicDgQXaw67kjtUxuxdb.jpg",
+      "release_date": "1975-05-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.365,
+      "vote_count": 721
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1Jgefbg5cKfCrppNbP0nPJm2TdR.jpg",
+      "genre_ids": [
+        12,
+        18
+      ],
+      "id": 983,
+      "title": "The Man Who Would Be King",
+      "original_language": "en",
+      "original_title": "The Man Who Would Be King",
+      "overview": "Tired of life as soldiers, Peachy Carnehan and Danny Dravot travel to the isolated land of Kafiristan, where they are ultimately embraced by the people and revered as rulers. After a series of misunderstandings, the natives come to believe that Dravot is a god, but he and Carnehan can't keep up their deception forever.",
+      "popularity": 2.7808,
+      "poster_path": "/xnEhm0CtgJoM9Z1dGGSQAwxU7oJ.jpg",
+      "release_date": "1975-12-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.493,
+      "vote_count": 720
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mF5Xb4zfHV4G04dilPGA4Dz1h5x.jpg",
+      "genre_ids": [
+        35,
+        80,
+        9648
+      ],
+      "id": 11843,
+      "title": "The Return of the Pink Panther",
+      "original_language": "en",
+      "original_title": "The Return of the Pink Panther",
+      "overview": "The famous Pink Panther jewel has once again been stolen and Inspector Clouseau is called in to catch the thief. The Inspector is convinced that 'The Phantom' has returned and utilises all of his resources – himself and his Asian manservant – to reveal the identity of 'The Phantom'.",
+      "popularity": 2.4297,
+      "poster_path": "/vMyjHGfCT89RpwLeN7ofmfgDru7.jpg",
+      "release_date": "1975-05-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 697
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 357953,
+      "title": "Return",
+      "original_language": "en",
+      "original_title": "Return",
+      "overview": "Return is a methodical construction of the approach of an individual towards an unseen goal, which assumes metaphorical significance. Viola moves toward the camera/viewer, pausing every few steps to ring a bell, at which point he is momentarily thrust back to his starting place, and then advanced again. Finally reaching his destination, he is taken through all of the previous stages in a single instant and returned to the source of his journey.",
+      "popularity": 0.1494,
+      "poster_path": null,
+      "release_date": "1975-09-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.924,
+      "vote_count": 656
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7byBh4ZuZxsvRnSrcvlFqwHebna.jpg",
+      "genre_ids": [
+        12,
+        18
+      ],
+      "id": 9764,
+      "title": "Dersu Uzala",
+      "original_language": "ru",
+      "original_title": "Дерсу Узала",
+      "overview": "A military explorer meets and befriends a Goldi man in Russia’s unmapped forests. A deep and abiding bond evolves between the two men, one civilized in the usual sense, the other at home in the glacial Siberian woods.",
+      "popularity": 2.4095,
+      "poster_path": "/bIOrDQ3Gg68k3qJAnRU7nIZr0BW.jpg",
+      "release_date": "1975-08-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.931,
+      "vote_count": 634
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qV4zzpe4mfXnmFIOL6uugnUcM9R.jpg",
+      "genre_ids": [
+        878,
+        28
+      ],
+      "id": 11484,
+      "title": "Rollerball",
+      "original_language": "en",
+      "original_title": "Rollerball",
+      "overview": "In a corporate-controlled future, an ultra-violent sport known as Rollerball represents the world, and one of its powerful athletes is out to defy those who want him out of the game.",
+      "popularity": 1.9489,
+      "poster_path": "/cmcipEfexlhVLYQXqeSWp1YcsPY.jpg",
+      "release_date": "1975-06-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.288,
+      "vote_count": 623
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1WgFbHfTPSXKoqYdB9SbcAWpqrO.jpg",
+      "genre_ids": [
+        28,
+        878,
+        35
+      ],
+      "id": 13282,
+      "title": "Death Race 2000",
+      "original_language": "en",
+      "original_title": "Death Race 2000",
+      "overview": "In a boorish future, the government sponsors a popular, but bloody, cross-country race in which points are scored by mowing down pedestrians. Five teams, each comprised of a male and female, compete using cars equipped with deadly weapons. Frankenstein, the mysterious returning champion, has become America's hero, but this time he has a passenger from the underground resistance.",
+      "popularity": 2.7185,
+      "poster_path": "/kwM8kkNGtv62gfPWVhD6qFxjDzg.jpg",
+      "release_date": "1975-04-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 575
+    }
+  ],
+  "total_pages": 5,
+  "total_results": 86
+}

@@ -1,0 +1,408 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
+      "genre_ids": [
+        27,
+        878
+      ],
+      "id": 348,
+      "title": "Alien",
+      "original_language": "en",
+      "original_title": "Alien",
+      "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+      "popularity": 22.5272,
+      "poster_path": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "release_date": "1979-05-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.171,
+      "vote_count": 16571
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/49fzLedFVKgGgFChLMuulDJBY1c.jpg",
+      "genre_ids": [
+        18,
+        10752
+      ],
+      "id": 28,
+      "title": "Apocalypse Now",
+      "original_language": "en",
+      "original_title": "Apocalypse Now",
+      "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+      "popularity": 16.8784,
+      "poster_path": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "release_date": "1979-05-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.267,
+      "vote_count": 9212
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2eYiXlynI2mSuYJPUkHupJm2dJp.jpg",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "id": 9659,
+      "title": "Mad Max",
+      "original_language": "en",
+      "original_title": "Mad Max",
+      "overview": "In the ravaged near-future, a savage motorcycle gang rules the road. Terrorizing innocent civilians while tearing up the streets, the ruthless gang laughs in the face of a police force hell-bent on stopping them.",
+      "popularity": 10.7376,
+      "poster_path": "/5LrI4GiCSrChgkdskVZiwv643Kg.jpg",
+      "release_date": "1979-04-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.683,
+      "vote_count": 5020
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lOrM3OQhHlzEkpF7Ih3GghecrA8.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 583,
+      "title": "Life of Brian",
+      "original_language": "en",
+      "original_title": "Life of Brian",
+      "overview": "Brian Cohen is an average young Jewish man, but through a series of ridiculous events, he gains a reputation as the Messiah. When he's not dodging his followers or being scolded by his shrill mother, the hapless Brian has to contend with the pompous Pontius Pilate and acronym-obsessed members of a separatist movement. Rife with Monty Python's signature absurdity, the tale finds Brian's life paralleling Biblical lore, albeit with many more laughs.",
+      "popularity": 6.1345,
+      "poster_path": "/lSSA64WF0M0BXnjwr2quMh6shCl.jpg",
+      "release_date": "1979-08-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.761,
+      "vote_count": 4982
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hIfe7FBKGO19weOV5Vgf9CaX6t6.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1367,
+      "title": "Rocky II",
+      "original_language": "en",
+      "original_title": "Rocky II",
+      "overview": "After Rocky goes the distance with champ Apollo Creed, both try to put the fight behind them and move on. Rocky settles down with Adrian but can't put his life together outside the ring, while Creed seeks a rematch to restore his reputation. Soon enough, the \"Master of Disaster\" and the \"Italian Stallion\" are set on a collision course for a climactic battle that is brutal and unforgettable.",
+      "popularity": 7.8654,
+      "poster_path": "/nMaiiu0CzT77U4JZkUYV7KqdAjK.jpg",
+      "release_date": "1979-06-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.302,
+      "vote_count": 4874
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lfLVH3F8Xt8nITqG9cn97b54au1.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 10734,
+      "title": "Escape from Alcatraz",
+      "original_language": "en",
+      "original_title": "Escape from Alcatraz",
+      "overview": "San Francisco Bay, January 18, 1960. Frank Lee Morris is transferred to Alcatraz, a maximum security prison located on a rocky island. Although no one has ever managed to escape from there, Frank and other inmates begin to carefully prepare an escape plan.",
+      "popularity": 6.069,
+      "poster_path": "/uORr2GXQnyqgBOg6tVsRCJD2qxc.jpg",
+      "release_date": "1979-06-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.505,
+      "vote_count": 3216
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/adnSTomHU9YyqV2lx38CgM0UxLS.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 696,
+      "title": "Manhattan",
+      "original_language": "en",
+      "original_title": "Manhattan",
+      "overview": "Manhattan explores how the life of a middle-aged television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.",
+      "popularity": 3.1473,
+      "poster_path": "/k4eT3EvfxW1L9Wmt04UqJqCvCR6.jpg",
+      "release_date": "1979-04-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.707,
+      "vote_count": 2643
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6yrbWzzrPp7pwz6zHdifspJk8t3.jpg",
+      "genre_ids": [
+        878,
+        18
+      ],
+      "id": 1398,
+      "title": "Stalker",
+      "original_language": "ru",
+      "original_title": "Сталкер",
+      "overview": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
+      "popularity": 10.4241,
+      "poster_path": "/1qhOyf5C4s9ZdvY8d5JDx9DFMeT.jpg",
+      "release_date": "1979-05-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.087,
+      "vote_count": 2537
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9pUh1fC8TqVtYPeKpdfNyVK0qnn.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 12102,
+      "title": "Kramer vs. Kramer",
+      "original_language": "en",
+      "original_title": "Kramer vs. Kramer",
+      "overview": "Ted Kramer is a career man for whom his work comes before his family. His wife Joanna cannot take this anymore, so she decides to leave him. Ted is now faced with the tasks of housekeeping and taking care of himself and their young son Billy.",
+      "popularity": 4.1193,
+      "poster_path": "/3CUP5V5SWfHSK4qvkZF7lMNyugY.jpg",
+      "release_date": "1979-12-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.569,
+      "vote_count": 2492
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i4Fp0AJsqAzbeVQyCoG0adRRfdh.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 11474,
+      "title": "The Warriors",
+      "original_language": "en",
+      "original_title": "The Warriors",
+      "overview": "Prominent gang leader Cyrus calls a meeting of New York's gangs to set aside their turf wars and take over the city. At the meeting, a rival leader kills Cyrus, but a Coney Island gang called the Warriors is wrongly blamed for Cyrus' death. Before you know it, the cops and every gangbanger in town is hot on the Warriors' trail.",
+      "popularity": 7.1928,
+      "poster_path": "/d6YZpBq4BhQr1K985J3CuL1cA8J.jpg",
+      "release_date": "1979-02-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.681,
+      "vote_count": 2411
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mrDC5DLx2wljt4HZGwgkmqlzfcF.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53,
+        878
+      ],
+      "id": 698,
+      "title": "Moonraker",
+      "original_language": "en",
+      "original_title": "Moonraker",
+      "overview": "After Drax Industries' Moonraker space shuttle is hijacked, secret agent James Bond is assigned to investigate, traveling to California to meet the company's owner, the mysterious Hugo Drax. With the help of scientist Dr. Holly Goodhead, Bond soon uncovers Drax's nefarious plans for humanity, all the while fending off an old nemesis, Jaws, and venturing to Venice, Rio, the Amazon...and even outer space.",
+      "popularity": 5.6271,
+      "poster_path": "/6LrJdXNmu5uHOVALZxVYd44Lva0.jpg",
+      "release_date": "1979-06-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.191,
+      "vote_count": 2255
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rPaOAtK6OpnHQ9r61WPM4WWNxaH.jpg",
+      "genre_ids": [
+        878,
+        12,
+        9648
+      ],
+      "id": 152,
+      "title": "Star Trek: The Motion Picture",
+      "original_language": "en",
+      "original_title": "Star Trek: The Motion Picture",
+      "overview": "When an unidentified alien destroys three powerful Klingon cruisers, Captain James T. Kirk returns to the newly transformed U.S.S. Enterprise to take command.",
+      "popularity": 6.4366,
+      "poster_path": "/wfiAfNwH6CMKxz4vRaW8CPTabtk.jpg",
+      "release_date": "1979-12-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.482,
+      "vote_count": 1959
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3EJJClmGZwu7e6nsj1l0OBNdXfT.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 33701,
+      "title": "French Fried Vacation 2",
+      "original_language": "fr",
+      "original_title": "Les Bronzés font du ski",
+      "overview": "In this sequel to Les Bronzes (1978) summer has passed, but that doesn't mean the fun has to end for Bernard, Nathalie, Gigi, Jerome, Popeye, Jean-Claude, and Christiane.",
+      "popularity": 1.3973,
+      "poster_path": "/tEiNHF6SqfguCKBdxwukrK10KbH.jpg",
+      "release_date": "1979-11-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.35,
+      "vote_count": 1272
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fCf8WfsRJEDFf1N6gA6o4ICRYp.jpg",
+      "genre_ids": [
+        16,
+        12,
+        35,
+        80
+      ],
+      "id": 15371,
+      "title": "The Castle of Cagliostro",
+      "original_language": "ja",
+      "original_title": "ルパン三世 カリオストロの城",
+      "overview": "After a successful robbery leaves famed thief Lupin the Third and his partner Jigen with nothing but a large amount of expertly crafted counterfeit bills, he decides to track down the forgers responsible—and steal any other treasures he may find in the Castle of Cagliostro, including the 'damsel in distress' he finds imprisoned there.",
+      "popularity": 4.4306,
+      "poster_path": "/p7xL3WYeclgtGCLrWfBrXKdBV7d.jpg",
+      "release_date": "1979-07-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.507,
+      "vote_count": 1153
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hddFwpiSpmAsVtCvKuKEUEmXAlr.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 10322,
+      "title": "Being There",
+      "original_language": "en",
+      "original_title": "Being There",
+      "overview": "A simple-minded gardener named Chance has spent all his life in the Washington D.C. house of an old man. When the man dies, Chance is put out on the street with no knowledge of the world except what he has learned from television.",
+      "popularity": 2.5704,
+      "poster_path": "/2eZTUGNYijOoeq4829P6HNqyZui.jpg",
+      "release_date": "1979-12-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 1143
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uHudMff1vp2GDXqHD8QOA78QpNW.jpg",
+      "genre_ids": [
+        18,
+        27
+      ],
+      "id": 6404,
+      "title": "Nosferatu the Vampyre",
+      "original_language": "de",
+      "original_title": "Nosferatu - Phantom der Nacht",
+      "overview": "A real estate agent leaves behind his beautiful wife to go to Transylvania to visit the mysterious Count Dracula and formalize the purchase of a property in Wismar.",
+      "popularity": 3.9738,
+      "poster_path": "/jHKzGYwf7P34vz8MhJBTN6cnaYD.jpg",
+      "release_date": "1979-01-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 1095
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gN5OCSeJTJcsYWlQBjJVKwV3zBS.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 11449,
+      "title": "The Amityville Horror",
+      "original_language": "en",
+      "original_title": "The Amityville Horror",
+      "overview": "George Lutz, his wife Kathy, and their three children have just moved into a beautiful, and improbably cheap, Victorian mansion nestled in the sleepy coastal town of Amityville, Long Island. However, their dream home is concealing a horrific past and soon each member of the Lutz family is plagued with increasingly strange and violent visions and impulses.",
+      "popularity": 3.9532,
+      "poster_path": "/7VMscq0659xKmcXzd86de1DGV4W.jpg",
+      "release_date": "1979-07-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.28,
+      "vote_count": 1054
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cT6xO3YjzfZKYGhZ8S7plNlA27F.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 9453,
+      "title": "Caligula",
+      "original_language": "it",
+      "original_title": "Caligola",
+      "overview": "After the death of the paranoid emperor Tiberius, Caligula, his heir, seizes power and plunges the empire into a bloody spiral of madness and depravity.",
+      "popularity": 9.2651,
+      "poster_path": "/vNXAY6r9Pb6WkMCGmNeW2PlznLQ.jpg",
+      "release_date": "1979-08-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.991,
+      "vote_count": 994
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/llVPUs3j9RywSMstGRepSeS8vSL.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 6471,
+      "title": "The Jerk",
+      "original_language": "en",
+      "original_title": "The Jerk",
+      "overview": "After discovering he's not really black like the rest of his family, likable dimwit Navin Johnson sets off on a hilarious misadventure that takes him from rags to riches and back again. The slaphappy jerk strikes it rich, but life in the fast lane isn't all it's cracked up to be and, in the end, all that really matters to Johnson is his true love.",
+      "popularity": 3.1497,
+      "poster_path": "/mIjOWtUofyt9Jawge7FbvITjU3D.jpg",
+      "release_date": "1979-12-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.88,
+      "vote_count": 918
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mDr6XaqC9IKA2j35c24cGdc5a0W.jpg",
+      "genre_ids": [
+        27,
+        878
+      ],
+      "id": 28942,
+      "title": "The Brood",
+      "original_language": "en",
+      "original_title": "The Brood",
+      "overview": "A man tries to uncover an unconventional psychologist's therapy techniques on his institutionalised wife, amidst a series of brutal murders.",
+      "popularity": 3.2651,
+      "poster_path": "/zSEt4QXRI4Gypd9xvzvucOmPNl5.jpg",
+      "release_date": "1979-05-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.698,
+      "vote_count": 824
+    }
+  ],
+  "total_pages": 6,
+  "total_results": 103
+}

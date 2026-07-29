@@ -1,0 +1,87 @@
+{
+  "adult": false,
+  "backdrop_path": "/6Ht821fxEaQ5f4MufKjY5Ks97Qk.jpg",
+  "belongs_to_collection": null,
+  "budget": 12000000,
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 11463,
+  "imdb_id": "tt0064072",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Battle of Britain",
+  "overview": "In 1940, the Royal Air Force fights a desperate battle against the might of the Luftwaffe for control of the skies over Britain, thus preventing an attempted Nazi invasion.",
+  "popularity": 2.7216,
+  "poster_path": "/98kyEWxcqqNrsaprUtPaQ4adsNG.jpg",
+  "production_companies": [
+    {
+      "id": 109251,
+      "logo_path": null,
+      "name": "Spitfire Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 60,
+      "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+      "name": "United Artists",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1969-09-15",
+  "revenue": 0,
+  "runtime": 132,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Never was so much owed by so many to so few.",
+  "title": "Battle of Britain",
+  "video": false,
+  "vote_average": 6.843,
+  "vote_count": 354
+}

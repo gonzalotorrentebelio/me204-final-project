@@ -1,0 +1,414 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/zPACwR32amTNvzId9qyapCWXYDJ.jpg",
+      "genre_ids": [
+        12,
+        28
+      ],
+      "id": 85,
+      "title": "Raiders of the Lost Ark",
+      "original_language": "en",
+      "original_title": "Raiders of the Lost Ark",
+      "overview": "When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated archaeologist – is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+      "popularity": 19.5217,
+      "poster_path": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+      "release_date": "1981-06-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.926,
+      "vote_count": 13785
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/MMSI9WzRmOdqXarevQ3Kqnytrx.jpg",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "id": 8810,
+      "title": "Mad Max 2",
+      "original_language": "en",
+      "original_title": "Mad Max 2",
+      "overview": "Max Rockatansky returns as the heroic loner who drives the dusty roads of a postapocalyptic Australian Outback in an unending search for gasoline. Arrayed against him and the other scraggly defendants of a fuel-depot encampment are the bizarre warriors commanded by the charismatic Lord Humungus, a violent leader whose scruples are as barren as the surrounding landscape.",
+      "popularity": 7.8686,
+      "poster_path": "/l1KVEhkGDpWRzQ0VqIhZqDDuOim.jpg",
+      "release_date": "1981-12-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.391,
+      "vote_count": 4231
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6vNuos23LwWjY1FJuojwPAgo8Ss.jpg",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "id": 1103,
+      "title": "Escape from New York",
+      "original_language": "en",
+      "original_title": "Escape from New York",
+      "overview": "In a world ravaged by crime, the entire island of Manhattan has been converted into a walled prison where brutal prisoners roam free. After the US president crash-lands inside, war hero Snake Plissken has 24 hours to bring him back.",
+      "popularity": 6.0554,
+      "poster_path": "/vH9llaphjAssRGi0k7e75tD40Ce.jpg",
+      "release_date": "1981-05-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.05,
+      "vote_count": 3564
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lNmIAX1IuPIEPMHhLBEm4wmhYX0.jpg",
+      "genre_ids": [
+        12,
+        16,
+        18,
+        10751
+      ],
+      "id": 10948,
+      "title": "The Fox and the Hound",
+      "original_language": "en",
+      "original_title": "The Fox and the Hound",
+      "overview": "When a feisty little fox named Tod is adopted into a farm family, he quickly becomes friends with a fun and adorable hound puppy named Copper. Life is full of hilarious adventures until Copper is expected to take on his role as a hunting dog -- and the object of his search is his best friend!",
+      "popularity": 6.4488,
+      "poster_path": "/aC3k6XBaYnulGSkK8263ABjU3Md.jpg",
+      "release_date": "1981-07-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.165,
+      "vote_count": 3541
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4js6VLf6qHWUbW42BpXiQKPBP7t.jpg",
+      "genre_ids": [
+        35,
+        27,
+        14
+      ],
+      "id": 814,
+      "title": "An American Werewolf in London",
+      "original_language": "en",
+      "original_title": "An American Werewolf in London",
+      "overview": "American tourists David and Jack are savagely attacked by an unidentified animal while hiking on the Yorkshire Moors. After retiring to the home of a beautiful nurse to recuperate, David soon begins experiencing disturbing changes to his body and mind.",
+      "popularity": 12.0805,
+      "poster_path": "/hVEqUASJmCQaolkKFEySCHZ8uKG.jpg",
+      "release_date": "1981-08-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.392,
+      "vote_count": 2741
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zzzhbZnSPMOON9uGt0LsdUJWYoC.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "id": 387,
+      "title": "Das Boot",
+      "original_language": "de",
+      "original_title": "Das Boot",
+      "overview": "A German submarine hunts allied ships during the Second World War, but it soon becomes the hunted. The crew tries to survive below the surface, while stretching both the boat and themselves to their limits.",
+      "popularity": 13.5947,
+      "poster_path": "/u8FhQPncOAkwcei2OI9orPWhV6K.jpg",
+      "release_date": "1981-09-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.082,
+      "vote_count": 2558
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lDXQNRmQKzJGdEJSDxWrjIZb7gB.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 11281,
+      "title": "Halloween II",
+      "original_language": "en",
+      "original_title": "Halloween II",
+      "overview": "After failing to kill stubborn survivor Laurie and taking a bullet or six from former psychiatrist Dr. Sam Loomis, Michael Myers has followed Laurie to the Haddonfield Memorial Hospital, where she's been admitted for Myers' attempt on her life. The institution proves to be particularly suited to serial killers, however, as Myers cuts, stabs and slashes his way through hospital staff to reach his favorite victim.",
+      "popularity": 5.3283,
+      "poster_path": "/3nX5HHGgOKaVMxXwMLT9DHO1Ne6.jpg",
+      "release_date": "1981-10-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.59,
+      "vote_count": 2278
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/z7Jp7HAsY7MqXzPYzTjJnmOQk2r.jpg",
+      "genre_ids": [
+        12,
+        28,
+        53
+      ],
+      "id": 699,
+      "title": "For Your Eyes Only",
+      "original_language": "en",
+      "original_title": "For Your Eyes Only",
+      "overview": "A British spy ship has sunk and on board was a hi-tech encryption device. James Bond is sent to find the device that holds British launching instructions before the enemy Soviets get to it first.",
+      "popularity": 5.713,
+      "poster_path": "/xV4Nnr6DjjERlqNikqDQX8LUgua.jpg",
+      "release_date": "1981-06-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.545,
+      "vote_count": 2113
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/80emEEa0svrT0YJDZLgLUu85ttp.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 9725,
+      "title": "Friday the 13th Part 2",
+      "original_language": "en",
+      "original_title": "Friday the 13th Part 2",
+      "overview": "Five years after the horrible bloodbath at Camp Crystal Lake, new counselors roam the area, not sensing the ominous lurking presence that proves that the grisly legend is real.",
+      "popularity": 4.687,
+      "poster_path": "/92rGctBMTv4uaSlIBVnhz01kRWL.jpg",
+      "release_date": "1981-05-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.195,
+      "vote_count": 1941
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nk87CtgZ7wd86W37oJHGYAJbmLz.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        53
+      ],
+      "id": 11644,
+      "title": "Blow Out",
+      "original_language": "en",
+      "original_title": "Blow Out",
+      "overview": "While recording sound effects for a slasher flick, Jack Terry stumbles upon a real-life horror: a car careening off a bridge and into a river. Jack jumps into the water and fishes out Sally from the car, but the other passenger is already dead — a governor intending to run for president. As Jack does some investigating of his tapes, and starts a perilous romance with Sally, he enters a tangled web of conspiracy that might leave him dead.",
+      "popularity": 4.2315,
+      "poster_path": "/uFzMscVLDrTaYd6KXOXlr6dly7w.jpg",
+      "release_date": "1981-07-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.352,
+      "vote_count": 1701
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1X8giVBqnqLqnMKPPOnmqR3eUly.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 9589,
+      "title": "Christiane F.",
+      "original_language": "de",
+      "original_title": "Christiane F. - Wir Kinder vom Bahnhof Zoo",
+      "overview": "A teen girl in 1970s Berlin becomes addicted to heroin. Everything in her life slowly begins to distort and disappear as she befriends a small crew of junkies and falls in love with a drug-abusing male prostitute.",
+      "popularity": 3.0624,
+      "poster_path": "/dHNonSmzgxMzEWp0FrzQIVvcBD6.jpg",
+      "release_date": "1981-04-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.341,
+      "vote_count": 1454
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1qxQvGJXlkFRqfGallca9DXmynS.jpg",
+      "genre_ids": [
+        878,
+        27
+      ],
+      "id": 9538,
+      "title": "Scanners",
+      "original_language": "en",
+      "original_title": "Scanners",
+      "overview": "A scientist trains a man with an advanced telepathic ability called 'scanning' to stop a dangerous Scanner with extraordinary psychic powers from waging war against non-Scanners.",
+      "popularity": 2.3035,
+      "poster_path": "/VTqLdveNXxGsIAZL5I4RliTTt7.jpg",
+      "release_date": "1981-01-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.713,
+      "vote_count": 1378
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zfw3fcF7d4KcWYEvps4zUfl303b.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 21484,
+      "title": "Possession",
+      "original_language": "en",
+      "original_title": "Possession",
+      "overview": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
+      "popularity": 13.5049,
+      "poster_path": "/A9bnRn05riOKWftvQlLKa2gl51n.jpg",
+      "release_date": "1981-05-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 1368
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mrabn7LREC8HOBBUyQIXZsQvWk3.jpg",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "id": 11527,
+      "title": "Excalibur",
+      "original_language": "en",
+      "original_title": "Excalibur",
+      "overview": "Arthur fulfills his fate by bringing together the Knights of the Round Table at Camelot and unifying the country. However, this flawed monarch faces greater tests ahead in pursuit of love, the Holy Grail, and his nation's survival.",
+      "popularity": 5.3152,
+      "poster_path": "/cTWF6zkr5mUOnheowKODIijWYcN.jpg",
+      "release_date": "1981-04-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 1169
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qKERrt3UU1ml8Q9zdsLPpoQ5r3.jpg",
+      "genre_ids": [
+        10751,
+        14,
+        878,
+        12,
+        35
+      ],
+      "id": 36819,
+      "title": "Time Bandits",
+      "original_language": "en",
+      "original_title": "Time Bandits",
+      "overview": "Young history buff Kevin can scarcely believe it when six dwarfs emerge from his closet one night. Former employees of the Supreme Being, they've purloined a map charting all of the holes in the fabric of time and are using it to steal treasures from different historical eras. Taking Kevin with them, they variously drop in on Napoleon, Robin Hood and King Agamemnon before the Supreme Being catches up with them.",
+      "popularity": 2.8137,
+      "poster_path": "/4VZtpwdhHQSa4LUkvujyGAHb1hG.jpg",
+      "release_date": "1981-07-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 1168
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nEeq7iQDbsj4qRt9E11PvQOWKvQ.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 9443,
+      "title": "Chariots of Fire",
+      "original_language": "en",
+      "original_title": "Chariots of Fire",
+      "overview": "In the class-obsessed and religiously divided UK of the early 1920s, two determined young runners train for the 1924 Paris Olympics. Eric Liddell, a devout Christian born to Scottish missionaries in China, sees running as part of his worship of God's glory and refuses to train or compete on the Sabbath. Harold Abrahams overcomes anti-Semitism and class bias, but neglects his beloved sweetheart in his single-minded quest.",
+      "popularity": 3.6711,
+      "poster_path": "/qnRaum8k0HqGRml2i7OawFqUtEb.jpg",
+      "release_date": "1981-05-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.79,
+      "vote_count": 1051
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/RtNJPHoCYXLdc0ckyBd4E3Xlkf.jpg",
+      "genre_ids": [
+        28,
+        35
+      ],
+      "id": 10890,
+      "title": "Stripes",
+      "original_language": "en",
+      "original_title": "Stripes",
+      "overview": "Hard-luck cabbie John Winger, directionless after being fired from his job and dumped by his girlfriend, enlists in the U.S. Army with his close pal, Russell Ziskey. After his barely satisfactory performance in basic training, the irreverent Winger emerges as the figurehead for a ragtag band of misfits. However, his hijinks threaten to cause an international scandal when he inadvertently commandeers a military assault vehicle behind enemy lines.",
+      "popularity": 4.0786,
+      "poster_path": "/vP8tPOgmJSNOh4bpOv1bFjid3rZ.jpg",
+      "release_date": "1981-06-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.565,
+      "vote_count": 1049
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cWOpRLx5Fzz92D3zdesIcsQQxX9.jpg",
+      "genre_ids": [
+        18,
+        10752
+      ],
+      "id": 17360,
+      "title": "Escape to Victory",
+      "original_language": "en",
+      "original_title": "Escape to Victory",
+      "overview": "A group of POWs in a German prison camp during World War II play the German National Soccer Team in this powerful film depicting the role of prisoners during wartime.",
+      "popularity": 4.2711,
+      "poster_path": "/3j6H0dnbvjNXLK1l9nKguXw5vvO.jpg",
+      "release_date": "1981-06-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.886,
+      "vote_count": 1015
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/97f4GFF2Vv6v40Ee5S00nuvAr4i.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 10246,
+      "title": "Porky's",
+      "original_language": "en",
+      "original_title": "Porky's",
+      "overview": "In 1954 Florida, a group of high school boys head to a strip club in the Everglades in an attempt to lose their collective virginity. When the club's owner and his sheriff brother swindle them out of their money and embarrass them, the boys plan revenge.",
+      "popularity": 3.8354,
+      "poster_path": "/AqCOt1cWfKqCepxK7LIdT812idH.jpg",
+      "release_date": "1981-11-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.407,
+      "vote_count": 979
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6FLkGMQXlEJDDpkynZCYlchx2E0.jpg",
+      "genre_ids": [
+        35,
+        878
+      ],
+      "id": 9317,
+      "title": "The Cabbage Soup",
+      "original_language": "fr",
+      "original_title": "La Soupe aux choux",
+      "overview": "Two buddy farmers are visited by aliens who like their domestic cabbage soup.",
+      "popularity": 2.2607,
+      "poster_path": "/eT52CpkNpVrFqamL2WD6iMZuChf.jpg",
+      "release_date": "1981-12-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.388,
+      "vote_count": 949
+    }
+  ],
+  "total_pages": 8,
+  "total_results": 142
+}

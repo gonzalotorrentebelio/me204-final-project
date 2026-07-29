@@ -1,0 +1,424 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/uw4SnKFZ453Gxmj5XR5Susj8TNo.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 602,
+      "title": "Independence Day",
+      "original_language": "en",
+      "original_title": "Independence Day",
+      "overview": "Strange phenomena surface around the globe. The skies ignite. Terror races through the world's major cities. As these extraordinary events unfold, it becomes increasingly clear that a force of incredible magnitude has arrived. Its mission: total annihilation over the Fourth of July weekend. The last hope to stop the destruction is an unlikely group of people united by fate and unimaginable circumstances.",
+      "popularity": 14.4211,
+      "poster_path": "/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
+      "release_date": "1996-07-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.917,
+      "vote_count": 10570
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dkfBKDUIWP1peEszdqK10MkMZCP.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 627,
+      "title": "Trainspotting",
+      "original_language": "en",
+      "original_title": "Trainspotting",
+      "overview": "Heroin addict Mark Renton stumbles through bad ideas and sobriety attempts with his unreliable friends --Sick Boy, Begbie, Spud and Tommy. He also has an underage girlfriend, Diane, along for the ride. After cleaning up and moving from Edinburgh to London, Mark finds he can't escape the life he left behind as Begbie and Sick Boy come knocking.",
+      "popularity": 10.2431,
+      "poster_path": "/1jUC02qsqS2NxBMFarbIhcQtazV.jpg",
+      "release_date": "1996-02-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.958,
+      "vote_count": 10494
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sra8XnL96OyLHENcglmZJg6HA8z.jpg",
+      "genre_ids": [
+        12,
+        28,
+        53
+      ],
+      "id": 954,
+      "title": "Mission: Impossible",
+      "original_language": "en",
+      "original_title": "Mission: Impossible",
+      "overview": "When Ethan Hunt, the leader of a crack espionage team whose perilous operation has gone awry with no explanation, discovers that a mole has penetrated the CIA, he's surprised to learn that he's the prime suspect. To clear his name, Hunt now must ferret out the real double agent and, in the process, even the score.",
+      "popularity": 11.9672,
+      "poster_path": "/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+      "release_date": "1996-05-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.026,
+      "vote_count": 10089
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/747dgDfL5d8esobk7h4odaOFhUq.jpg",
+      "genre_ids": [
+        80,
+        18,
+        53
+      ],
+      "id": 275,
+      "title": "Fargo",
+      "original_language": "en",
+      "original_title": "Fargo",
+      "overview": "Jerry, a small-town Minnesota car salesman is bursting at the seams with debt... but he's got a plan. He's going to hire two thugs to kidnap his wife in a scheme to collect a hefty ransom from his wealthy father-in-law. It's going to be a snap and nobody's going to get hurt... until people start dying. Enter Police Chief Marge, a coffee-drinking, parka-wearing - and extremely pregnant - investigator who'll stop at nothing to get her man. And if you think her small-time investigative skills will give the crooks a run for their ransom... you betcha!",
+      "popularity": 10.351,
+      "poster_path": "/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+      "release_date": "1996-03-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 9198
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4w6nQYAY0eb7B0VVRDXilXcgAUV.jpg",
+      "genre_ids": [
+        80,
+        27,
+        9648
+      ],
+      "id": 4232,
+      "title": "Scream",
+      "original_language": "en",
+      "original_title": "Scream",
+      "overview": "A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
+      "popularity": 16.4364,
+      "poster_path": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+      "release_date": "1996-12-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 8090
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/phiRQhfwZZeMMn3osvQUmGYmJbp.jpg",
+      "genre_ids": [
+        27,
+        28,
+        80
+      ],
+      "id": 755,
+      "title": "From Dusk Till Dawn",
+      "original_language": "en",
+      "original_title": "From Dusk Till Dawn",
+      "overview": "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
+      "popularity": 10.3964,
+      "poster_path": "/sV3kIAmvJ9tPz4Lq5fuf9LLMxte.jpg",
+      "release_date": "1996-01-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.046,
+      "vote_count": 6572
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lWybXICZZpxnSvWSOW53XxTERUg.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        878,
+        14,
+        35
+      ],
+      "id": 2300,
+      "title": "Space Jam",
+      "original_language": "en",
+      "original_title": "Space Jam",
+      "overview": "With their freedom on the line, the Looney Tunes seek the help of NBA superstar Michael Jordan to win a basketball game against a team of moronic aliens.",
+      "popularity": 8.0695,
+      "poster_path": "/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg",
+      "release_date": "1996-11-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.811,
+      "vote_count": 6468
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ELsTifJ2lu4vsMhoHeZ5EnncHw.jpg",
+      "genre_ids": [
+        35,
+        14,
+        878
+      ],
+      "id": 75,
+      "title": "Mars Attacks!",
+      "original_language": "en",
+      "original_title": "Mars Attacks!",
+      "overview": "A fleet of Martian spacecraft surrounds the world's major cities and all of humanity waits to see if the extraterrestrial visitors have, as they claim, \"come in peace.\" U.S. President James Dale receives assurance from science professor Donald Kessler that the Martians' mission is a friendly one. But when a peaceful exchange ends in the total annihilation of the U.S. Congress, military men call for a full-scale nuclear retaliation.",
+      "popularity": 8.1006,
+      "poster_path": "/hll4O5vSAfnZDb6JbnP06GPtz7b.jpg",
+      "release_date": "1996-12-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 5933
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k4HIk81b03lLeNo7I0dHxD3VPKD.jpg",
+      "genre_ids": [
+        18,
+        16,
+        10751
+      ],
+      "id": 10545,
+      "title": "The Hunchback of Notre Dame",
+      "original_language": "en",
+      "original_title": "The Hunchback of Notre Dame",
+      "overview": "Isolated bell-ringer Quasimodo wishes to leave Notre Dame tower against the wishes of Judge Claude Frollo, his stern guardian and Paris' strait-laced Minister of Justice. His first venture to the outside world finds him Esmeralda, a kind-hearted and fearless Romani woman who openly stands up to Frollo's tyranny.",
+      "popularity": 9.3423,
+      "poster_path": "/dmMBtXuFzZzLYgeQXkOkg98w2Ak.jpg",
+      "release_date": "1996-06-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.133,
+      "vote_count": 5412
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/m0miV65ZZIp13TNHJSRUF6vmCos.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 454,
+      "title": "Romeo + Juliet",
+      "original_language": "en",
+      "original_title": "Romeo + Juliet",
+      "overview": "In this contemporary take on William Shakespeare's classic tragedy, the Montagues and Capulets have moved their ongoing feud to the sweltering suburb of Verona Beach, where Romeo and Juliet fall in love and secretly wed. Though the film is visually modern, the bard's dialogue remains.",
+      "popularity": 8.6169,
+      "poster_path": "/dJCDUkXhfRdc4q8e4VCKEBbqzBT.jpg",
+      "release_date": "1996-11-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 5387
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qDVdTL1KqGmGLGsy7UPA3vksku7.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 9802,
+      "title": "The Rock",
+      "original_language": "en",
+      "original_title": "The Rock",
+      "overview": "When vengeful General Francis X. Hummel seizes control of Alcatraz Island and threatens to launch missiles loaded with deadly chemical weapons into San Francisco, only a young FBI chemical weapons expert and notorious Federal prisoner have the skills to penetrate the impregnable island fortress and take him down.",
+      "popularity": 12.8712,
+      "poster_path": "/eBcoxveWzzXQrCrwWMGAROcqgpP.jpg",
+      "release_date": "1996-06-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.151,
+      "vote_count": 5258
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/t3HVA7XdVnQneMjI5hYjEhXmHY3.jpg",
+      "genre_ids": [
+        35,
+        10751,
+        14
+      ],
+      "id": 10830,
+      "title": "Matilda",
+      "original_language": "en",
+      "original_title": "Matilda",
+      "overview": "Matilda Wormwood is an brilliant and intelligent little girl. Unfortunately, her parents, Harry and Zinnia, fail to see that fact. As time passes, she finally starts school and has a kind teacher, loyal friends, and a terrifying, sadistic headmistress. As she becomes fed up with the constant cruelty, she discovers she has a special gift that she just might be able to use to outwit the unruly adults around her.",
+      "popularity": 11.6375,
+      "poster_path": "/wYoDpWInsBEVSmWStnRH06ddoyk.jpg",
+      "release_date": "1996-08-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.18,
+      "vote_count": 4863
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dZM71rHXh3Oo3WZlw8YpMMsoVB5.jpg",
+      "genre_ids": [
+        80,
+        18,
+        53
+      ],
+      "id": 1592,
+      "title": "Primal Fear",
+      "original_language": "en",
+      "original_title": "Primal Fear",
+      "overview": "Defense attorney Martin Vail takes on jobs for money and prestige rather than any sense of the greater good. His latest case involves an altar boy, accused of brutally murdering the archbishop of Chicago. Vail finds himself up against his ex-pupil and ex-lover, but as the case progresses and the Church's dark secrets are revealed, Vail finds that what appeared a simple case takes on a darker, more dangerous aspect.",
+      "popularity": 9.2383,
+      "poster_path": "/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+      "release_date": "1996-04-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.657,
+      "vote_count": 4029
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sDhABATFQX8nfTHShTfH8HeqKY1.jpg",
+      "genre_ids": [
+        80,
+        18,
+        53
+      ],
+      "id": 819,
+      "title": "Sleepers",
+      "original_language": "en",
+      "original_title": "Sleepers",
+      "overview": "Two gangsters seek revenge on the state jail worker who during their stay at a youth prison sexually abused them. A sensational court hearing takes place to charge him for the crimes.",
+      "popularity": 9.125,
+      "poster_path": "/yUpiEk2EojS9ZEXb3nIQonQCYYF.jpg",
+      "release_date": "1996-10-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.598,
+      "vote_count": 3951
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5oCAo7LFj2x0yByfi5JYirGnK8I.jpg",
+      "genre_ids": [
+        28,
+        12,
+        18
+      ],
+      "id": 664,
+      "title": "Twister",
+      "original_language": "en",
+      "original_title": "Twister",
+      "overview": "An unprecedented series of violent tornadoes is sweeping across Oklahoma. Tornado chasers, headed by Dr. Jo Harding, attempt to release a groundbreaking device that will allow them to track them and create a more advanced warning system. They are joined by Jo's soon to be ex-husband Bill, a former tornado chaser himself, and his girlfriend Melissa.",
+      "popularity": 8.1666,
+      "poster_path": "/d4ie3f6QTvNw40V770Uzo87SDZn.jpg",
+      "release_date": "1996-05-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.564,
+      "vote_count": 3904
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/a66PKC32YVZISoqZtRQyz8c9Vx6.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 9390,
+      "title": "Jerry Maguire",
+      "original_language": "en",
+      "original_title": "Jerry Maguire",
+      "overview": "Jerry Maguire used to be a typical sports agent: willing to do just about anything he could to get the biggest possible contracts for his clients, plus a nice commission for himself. Then, one day, he suddenly has second thoughts about what he's really doing. When he voices these doubts, he ends up losing his job and all of his clients, save Rod Tidwell, an egomaniacal football player.",
+      "popularity": 8.277,
+      "poster_path": "/lABvGN7fDk5ifnwZoxij6G96t2w.jpg",
+      "release_date": "1996-12-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.998,
+      "vote_count": 3787
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yqh3mb9jd3GTTs09ZlnW4mxS95z.jpg",
+      "genre_ids": [
+        10751,
+        35
+      ],
+      "id": 11674,
+      "title": "101 Dalmatians",
+      "original_language": "en",
+      "original_title": "101 Dalmatians",
+      "overview": "An evil, high-fashion designer plots to steal Dalmatian puppies in order to make an extravagant fur coat, but instead creates an extravagant mess.",
+      "popularity": 8.2446,
+      "poster_path": "/8o2ADoAyG796UwTjwBFjPyBz0yG.jpg",
+      "release_date": "1996-11-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.947,
+      "vote_count": 3676
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/As7NuiDRM4EO7LlJn2u8JWWsABp.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 9614,
+      "title": "Happy Gilmore",
+      "original_language": "en",
+      "original_title": "Happy Gilmore",
+      "overview": "Failed hockey player-turned-golf whiz Happy Gilmore — whose unconventional approach and antics on the green courts the ire of rival Shooter McGavin — is determined to win a PGA tournament so he can save his granny's house with the prize money. Meanwhile, an attractive tour publicist tries to soften Happy's image.",
+      "popularity": 6.7226,
+      "poster_path": "/4RnCeRzvI1xk5tuNWjpDKzSnJDk.jpg",
+      "release_date": "1996-02-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.678,
+      "vote_count": 3392
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gHFuLHxruielBcMEZx1WowxbRWS.jpg",
+      "genre_ids": [
+        35,
+        878,
+        10749
+      ],
+      "id": 9327,
+      "title": "The Nutty Professor",
+      "original_language": "en",
+      "original_title": "The Nutty Professor",
+      "overview": "When beautiful Carla Purty joins the university faculty, genetic professor Dr. Sherman Klump grows desperate to whittle his 400-pound frame down to size and win her heart. So, with one swig of his experimental fat-reducing serum, Sherman becomes 'Buddy Love', a fast-talking, pumped-up, plumped down Don Juan.",
+      "popularity": 3.8228,
+      "poster_path": "/fMtb5aZoLRNbMnCkatFsTmPRfl5.jpg",
+      "release_date": "1996-06-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.6,
+      "vote_count": 3153
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bwLQCW6LqmrJ6aJsevypcg93JCU.jpg",
+      "genre_ids": [
+        80,
+        18,
+        53
+      ],
+      "id": 1645,
+      "title": "A Time to Kill",
+      "original_language": "en",
+      "original_title": "A Time to Kill",
+      "overview": "A young lawyer defends a black man accused of murdering two white men who raped his 10-year-old daughter, sparking a rebirth of the KKK.",
+      "popularity": 7.2731,
+      "poster_path": "/w8UCke112E9jrhjKcwG32kyhTx5.jpg",
+      "release_date": "1996-07-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.393,
+      "vote_count": 3023
+    }
+  ],
+  "total_pages": 12,
+  "total_results": 240
+}

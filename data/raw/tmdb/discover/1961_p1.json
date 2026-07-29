@@ -1,0 +1,414 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/npb2nrqJZDsintMTh6XOxNXfyG2.jpg",
+      "genre_ids": [
+        12,
+        16,
+        35,
+        10751
+      ],
+      "id": 12230,
+      "title": "One Hundred and One Dalmatians",
+      "original_language": "en",
+      "original_title": "One Hundred and One Dalmatians",
+      "overview": "When a litter of dalmatian puppies are abducted by the minions of Cruella De Vil, the parents must find them before she uses them for a diabolical fashion statement.",
+      "popularity": 7.7184,
+      "poster_path": "/kSlYq6FrBUviGSEh8v4L9nrSnBT.jpg",
+      "release_date": "1961-01-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 6710
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        18
+      ],
+      "id": 164,
+      "title": "Breakfast at Tiffany's",
+      "original_language": "en",
+      "original_title": "Breakfast at Tiffany's",
+      "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
+      "popularity": 6.6089,
+      "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+      "release_date": "1961-10-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 4516
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bkahbHkwBSbIDtTm667Tu1ba2bu.jpg",
+      "genre_ids": [
+        80,
+        18,
+        10749
+      ],
+      "id": 1725,
+      "title": "West Side Story",
+      "original_language": "en",
+      "original_title": "West Side Story",
+      "overview": "In Manhattan’s Upper West Side, rival gangs of Polish-Americans and newly arrived Puerto Ricans clash for control of the neighborhood, even as two young members from opposite sides fall dangerously in love.",
+      "popularity": 3.6313,
+      "poster_path": "/nzCMu6D5q60i2bVrIQ0DxlRSgCZ.jpg",
+      "release_date": "1961-12-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.222,
+      "vote_count": 2057
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5BBwSVytssbFuSPZE4DtJVhROjN.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 11878,
+      "title": "Yojimbo",
+      "original_language": "ja",
+      "original_title": "用心棒",
+      "overview": "A nameless ronin, or samurai with no master, enters a small village in feudal Japan where two rival businessmen are struggling for control of the local gambling trade. Taking the name Sanjuro Kuwabatake, the ronin convinces both silk merchant Tazaemon and sake merchant Tokuemon to hire him as a personal bodyguard, then artfully sets in motion a full-scale gang war between the two ambitious and unscrupulous men.",
+      "popularity": 4.0757,
+      "poster_path": "/tN7kYPjRhDolpui9sc9Eq9n5b2O.jpg",
+      "release_date": "1961-04-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.1,
+      "vote_count": 1714
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/h0Esq4UXKlDmXc7YTprUFKLQPFf.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 990,
+      "title": "The Hustler",
+      "original_language": "en",
+      "original_title": "The Hustler",
+      "overview": "Fast Eddie Felson is a small-time pool hustler with a lot of talent but a self-destructive attitude. His bravado causes him to challenge the legendary Minnesota Fats to a high-stakes match.",
+      "popularity": 3.6217,
+      "poster_path": "/snItsSViawjaadW9mlWUmGwR41R.jpg",
+      "release_date": "1961-09-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.659,
+      "vote_count": 1104
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aSlDcWtKNfRkW0SbsnEjnGBs9jV.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 821,
+      "title": "Judgment at Nuremberg",
+      "original_language": "en",
+      "original_title": "Judgment at Nuremberg",
+      "overview": "In 1947, four German judges who served on the bench during the Nazi regime face a military tribunal to answer charges of crimes against humanity. Chief Justice Haywood hears evidence and testimony not only from lead defendant Ernst Janning and his defense attorney Hans Rolfe, but also from the widow of a Nazi general, an idealistic U.S. Army captain and reluctant witness Irene Wallner.",
+      "popularity": 3.24,
+      "poster_path": "/b6vYatvui1EXeFYfpDX4rcbueuP.jpg",
+      "release_date": "1961-12-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 963
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hgFyxEtHCMDJQc2TdXSl3FGIs2.jpg",
+      "genre_ids": [
+        28,
+        12,
+        18,
+        10752
+      ],
+      "id": 10911,
+      "title": "The Guns of Navarone",
+      "original_language": "en",
+      "original_title": "The Guns of Navarone",
+      "overview": "A team of allied saboteurs are assigned an impossible mission: infiltrate an impregnable Nazi-held island and destroy the two enormous long-range field guns that prevent the rescue of 2,000 trapped British soldiers.",
+      "popularity": 4.4713,
+      "poster_path": "/j6VSFnm20GlkUi8yb7hM5Qfc1fA.jpg",
+      "release_date": "1961-04-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.294,
+      "vote_count": 881
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5wATYRIHIBhE9kelbGxYm0i7cNs.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 41050,
+      "title": "La Notte",
+      "original_language": "it",
+      "original_title": "La notte",
+      "overview": "A day in the life of an unfaithful married couple and their steadily deteriorating relationship in Milan.",
+      "popularity": 1.6055,
+      "poster_path": "/xkd7wPJSIC76scBRHCFZ85uOH5d.jpg",
+      "release_date": "1961-01-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.926,
+      "vote_count": 744
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oog0DJtSuPnWoSTYM7cKmAFbeuU.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        18
+      ],
+      "id": 16372,
+      "title": "The Innocents",
+      "original_language": "en",
+      "original_title": "The Innocents",
+      "overview": "In a mid-19th century Essex country house, a young governess for two children becomes convinced that the house and grounds are haunted by ghosts and that the children are being possessed.",
+      "popularity": 1.9503,
+      "poster_path": "/idqvLBmlEHUITMnQ0EJ6Yb5TpVw.jpg",
+      "release_date": "1961-11-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 679
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/h1ov8VcVCiZsnWRu4EjZ74R33GP.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 4024,
+      "title": "Last Year at Marienbad",
+      "original_language": "fr",
+      "original_title": "L'Année dernière à Marienbad",
+      "overview": "At a weekend gathering, a man tells a woman that they had spent time there together a year prior. But, the woman has no recollection whatsoever and is convinced that he is simply fabricating the encounter. The more he speaks about their activities the previous year however, the more compelling he becomes. The question remains however – did they meet previously or not?",
+      "popularity": 2.6,
+      "poster_path": "/syIJCqiSkGRJTlyaBtyI5jqPtE7.jpg",
+      "release_date": "1961-09-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.434,
+      "vote_count": 547
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ziTptDmkMLIC50LB0to2OU3hwOy.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 11602,
+      "title": "Through a Glass Darkly",
+      "original_language": "sv",
+      "original_title": "Såsom i en spegel",
+      "overview": "Karin hopes to recover from her recent stay at a mental hospital by spending the summer at her family's cottage on a tiny island. Her husband, Martin, cares for her but is frustrated by her physical withdrawal. Her younger brother, Minus, is confused by Karin's vulnerability and his own budding sexuality. Their father, David, cannot overcome his haughty remoteness. Beset by visions, Karin descends further into madness.",
+      "popularity": 1.2802,
+      "poster_path": "/rYD30Fm4vAcBqk1kTsxHw1s8P29.jpg",
+      "release_date": "1961-10-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 545
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u2nPH7STKcz8ddpvxo8Ler1SvPc.jpg",
+      "genre_ids": [
+        35,
+        80
+      ],
+      "id": 20271,
+      "title": "Divorce Italian Style",
+      "original_language": "it",
+      "original_title": "Divorzio all'italiana",
+      "overview": "Ferdinando Cefalù is desperate to marry his cousin, Angela, but he is married to Rosalia and divorce is illegal in Italy. To get around the law, he tries to trick his wife into having an affair so he can catch her and murder her, as he knows he would be given a light sentence for killing an adulterous woman. He persuades a painter to lure his wife into an affair, but Rosalia proves to be more faithful than he expected.",
+      "popularity": 1.3614,
+      "poster_path": "/vZbdSpUFyFiDBBTY0AiSrN9f303.jpg",
+      "release_date": "1961-12-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.886,
+      "vote_count": 536
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rJSCS5EP9JGjNECa5hEB9Bsibjf.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 12491,
+      "title": "Accattone",
+      "original_language": "it",
+      "original_title": "Accattone",
+      "overview": "A pimp with no other means to provide for himself finds his life spiralling out of control when his prostitute is sent to prison.",
+      "popularity": 1.2544,
+      "poster_path": "/113ts2Bmm5CZ3YJMwfCU9XGFCAf.jpg",
+      "release_date": "1961-09-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.716,
+      "vote_count": 522
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uCH6NY9qstOLbBTGv0rWxB1oJJH.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        37
+      ],
+      "id": 11536,
+      "title": "The Misfits",
+      "original_language": "en",
+      "original_title": "The Misfits",
+      "overview": "While filing for a divorce, beautiful ex-stripper Roslyn Taber ends up meeting aging cowboy-turned-gambler Gay Langland and former World War II aviator Guido Racanelli. The two men instantly become infatuated with Roslyn and, on a whim, the three decide to move into Guido's half-finished desert home together. When grizzled ex-rodeo rider Perce Howland arrives, the unlikely foursome strike up a business capturing wild horses.",
+      "popularity": 3.5304,
+      "poster_path": "/rkIkyPhT5oetT463HxpdIuct30l.jpg",
+      "release_date": "1961-02-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.979,
+      "vote_count": 438
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wl7imDwEkYt1HnlsdEcUDXuxnRw.jpg",
+      "genre_ids": [
+        35,
+        10751,
+        10749
+      ],
+      "id": 19186,
+      "title": "The Parent Trap",
+      "original_language": "en",
+      "original_title": "The Parent Trap",
+      "overview": "Two identical twin sisters, separated at birth by their parents' divorce, are reunited years later at a summer camp, where they scheme to bring their parents back together. The girls, one of whom has been living with their mother and the other with their father, switch places after camp and go to work on their plan, the first objective being to scare off a gold-digger pursuing their father.",
+      "popularity": 6.6595,
+      "poster_path": "/jaZFWy6ZAvQoMW2mo9xP5gx4URo.jpg",
+      "release_date": "1961-05-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.027,
+      "vote_count": 430
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4safDVSZx7a4I1TQoSyz6E1agzM.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 430,
+      "title": "One, Two, Three",
+      "original_language": "en",
+      "original_title": "One, Two, Three",
+      "overview": "In Cold War-era West Berlin, American Coca-Cola executive C.R. 'Mac' MacNamara is tasked with playing babysitter to his boss' spoiled 17-year-old daughter Scarlett, who proves more difficult than anticipated when she reveals that she is pregnant by a Communist.",
+      "popularity": 2.8775,
+      "poster_path": "/yWQE227ub1frfnjP5HZy0wLF0wu.jpg",
+      "release_date": "1961-12-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.495,
+      "vote_count": 426
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/RkMXpjQD9ww1b5hUAkzlCaVGUd.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 20139,
+      "title": "The Children's Hour",
+      "original_language": "en",
+      "original_title": "The Children's Hour",
+      "overview": "An unruly student at a private all-girls boarding school scandalously accuses the two women who run it of having a romantic relationship.",
+      "popularity": 2.3256,
+      "poster_path": "/goyEWixvULM2IRN4KsKibyrJE4J.jpg",
+      "release_date": "1961-12-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 415
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oseBXGQMYWTWzAVHJaUEwGgrjGA.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 31522,
+      "title": "A Woman Is a Woman",
+      "original_language": "fr",
+      "original_title": "Une femme est une femme",
+      "overview": "Longing for a baby, a stripper pursues another man in order to make her boyfriend jealous.",
+      "popularity": 1.6794,
+      "poster_path": "/xrZu21hriGJQY3qY8nifh2smVHu.jpg",
+      "release_date": "1961-09-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 406
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lmGgzIXXWcGgHF4SpwDyfg7ql5T.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        18
+      ],
+      "id": 28501,
+      "title": "The Pit and the Pendulum",
+      "original_language": "en",
+      "original_title": "The Pit and the Pendulum",
+      "overview": "In the sixteenth century, Francis Barnard travels to Spain to clarify the strange circumstances of his sister's death after she had married the son of a cruel Spanish Inquisitor.",
+      "popularity": 1.7479,
+      "poster_path": "/6hOTmFaePluI5eicY4XTv6hg0T0.jpg",
+      "release_date": "1961-08-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.868,
+      "vote_count": 391
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3VIlHshnxV6Vwxz6Ega6llvGZiF.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 28569,
+      "title": "Splendor in the Grass",
+      "original_language": "en",
+      "original_title": "Splendor in the Grass",
+      "overview": "A fragile Kansas girl's unrequited and forbidden love for a handsome young man from the town's most powerful family drives her to heartbreak and madness.",
+      "popularity": 2.2577,
+      "poster_path": "/n6Kw8Ui93SMhrk1MupCFwUg04vq.jpg",
+      "release_date": "1961-10-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.463,
+      "vote_count": 307
+    }
+  ],
+  "total_pages": 4,
+  "total_results": 65
+}

@@ -1,0 +1,415 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/hJ5R9d6QuH3tzr8L8neZZTuzNXm.jpg",
+      "genre_ids": [
+        878,
+        18,
+        53
+      ],
+      "id": 78,
+      "title": "Blade Runner",
+      "original_language": "en",
+      "original_title": "Blade Runner",
+      "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+      "popularity": 19.3884,
+      "poster_path": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+      "release_date": "1982-06-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 15162
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+      "genre_ids": [
+        12,
+        878,
+        10751
+      ],
+      "id": 601,
+      "title": "E.T. the Extra-Terrestrial",
+      "original_language": "en",
+      "original_title": "E.T. the Extra-Terrestrial",
+      "overview": "An alien is left behind on Earth and saved by the 10-year-old Elliott who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliott, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
+      "popularity": 15.5025,
+      "poster_path": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "release_date": "1982-06-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.518,
+      "vote_count": 12107
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        878
+      ],
+      "id": 1091,
+      "title": "The Thing",
+      "original_language": "en",
+      "original_title": "The Thing",
+      "overview": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+      "popularity": 18.9831,
+      "poster_path": "/ob1NaOSYDC4iBaFkTgIUecaMFGT.jpg",
+      "release_date": "1982-06-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.1,
+      "vote_count": 8074
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hCxxOJojCUFyuahDx167glJgp7E.jpg",
+      "genre_ids": [
+        28,
+        53,
+        18
+      ],
+      "id": 1368,
+      "title": "First Blood",
+      "original_language": "en",
+      "original_title": "First Blood",
+      "overview": "When former Green Beret John Rambo is harassed by local law enforcement and arrested for vagrancy, he is forced to flee into the mountains and wage an escalating one-man war against his pursuers.",
+      "popularity": 15.0188,
+      "poster_path": "/a9sa6ERZCpplbPEO7OMWE763CLD.jpg",
+      "release_date": "1982-10-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.511,
+      "vote_count": 6968
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/onq6lsJLX8ay5iwxEbKX3qJKeO9.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 764,
+      "title": "The Evil Dead",
+      "original_language": "en",
+      "original_title": "The Evil Dead",
+      "overview": "In 1979, a group of college students find a Sumerian Book of the Dead in an old wilderness cabin they've rented for a weekend getaway.",
+      "popularity": 19.8564,
+      "poster_path": "/54C1qdaiSijIU5NeNb4WsPJdNkG.jpg",
+      "release_date": "1982-05-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.275,
+      "vote_count": 4574
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ljOHSIyTbxdkQFjcJyWKfGm2i2r.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1371,
+      "title": "Rocky III",
+      "original_language": "en",
+      "original_title": "Rocky III",
+      "overview": "Following Rocky Balboa's intense battle with his most powerful adversary yet – the ferocious Clubber Lang – Rocky joins forces with former rival Apollo Creed in an effort to get back his fighting spirit.",
+      "popularity": 8.1005,
+      "poster_path": "/uqw16i2kmwVqkJHzjzbDU4xZ0Pl.jpg",
+      "release_date": "1982-05-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 4553
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bvkPno6U02lLyvPWCnmibq4eIaN.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 609,
+      "title": "Poltergeist",
+      "original_language": "en",
+      "original_title": "Poltergeist",
+      "overview": "The Freelings' suburban home becomes the center of paranormal activity that opens a portal to the 'other side'. With help, they must cross over to get their daughter back.",
+      "popularity": 4.7082,
+      "poster_path": "/4eMN3GANH5GG4kXdHkrTZEUuQ9M.jpg",
+      "release_date": "1982-06-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.158,
+      "vote_count": 3381
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fNp2ikvY8WZTyVbK1iXW84RLbO5.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 9387,
+      "title": "Conan the Barbarian",
+      "original_language": "en",
+      "original_title": "Conan the Barbarian",
+      "overview": "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
+      "popularity": 9.2516,
+      "poster_path": "/qw2A587Ee61IwcSOLNFRhuOACZZ.jpg",
+      "release_date": "1982-03-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.804,
+      "vote_count": 2847
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vUmeBHiGp5r2ydd8aEvbNLamTVD.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 97,
+      "title": "Tron",
+      "original_language": "en",
+      "original_title": "Tron",
+      "overview": "When brilliant video game maker Flynn hacks the mainframe of his ex-employer, he is beamed inside an astonishing digital world and becomes part of the very game he is designing. In his mission through cyberspace, Flynn matches wits with a maniacal Master Control Program and teams up with Tron, a security measure created to bring balance to the digital environment.",
+      "popularity": 5.2187,
+      "poster_path": "/jigY9B6TKz4qlfikZcd18qtzTK4.jpg",
+      "release_date": "1982-07-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.627,
+      "vote_count": 2797
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7Mh1DM4kCMbN93C2MlUavYbH5YM.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 262,
+      "title": "The King of Comedy",
+      "original_language": "en",
+      "original_title": "The King of Comedy",
+      "overview": "Aspiring comic Rupert Pupkin attempts to achieve success in show business by stalking his idol, a late night talk-show host who craves his own privacy.",
+      "popularity": 3.9481,
+      "poster_path": "/m24EbHxT9NGYEkOlu29YcLOgjgK.jpg",
+      "release_date": "1982-12-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 2603
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gum3tuO1zKHBdElSQPS08PJ1w67.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 783,
+      "title": "Gandhi",
+      "original_language": "en",
+      "original_title": "Gandhi",
+      "overview": "In the early years of the 20th century, Mohandas K. Gandhi, a British-trained lawyer, forsakes all worldly possessions to take up the cause of Indian independence. Faced with armed resistance from the British government, Gandhi adopts a policy of 'passive resistance', endeavouring to win freedom for his people without resorting to bloodshed.",
+      "popularity": 3.3138,
+      "poster_path": "/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
+      "release_date": "1982-12-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.558,
+      "vote_count": 2525
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/meqmvZjKpQ7WRhpZvIoKIAvioSD.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878,
+        53
+      ],
+      "id": 154,
+      "title": "Star Trek II: The Wrath of Khan",
+      "original_language": "en",
+      "original_title": "Star Trek II: The Wrath of Khan",
+      "overview": "The starship Enterprise and its crew is pulled back into action when old nemesis, Khan, steals a top secret device called Project Genesis.",
+      "popularity": 4.4379,
+      "poster_path": "/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg",
+      "release_date": "1982-06-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.448,
+      "vote_count": 2160
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dGRGes6Yw0vK1IymLatHBXGvvpS.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 9576,
+      "title": "Tootsie",
+      "original_language": "en",
+      "original_title": "Tootsie",
+      "overview": "When struggling, out of work actor Michael Dorsey secretly adopts a female alter ego—Dorothy Michaels—in order to land a part in a daytime drama, he unwittingly becomes a feminist icon and ends up in a romantic pickle.",
+      "popularity": 3.752,
+      "poster_path": "/ngyCzZwb9y5sMUCig5JQT4Y33Q.jpg",
+      "release_date": "1982-12-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.204,
+      "vote_count": 1946
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xQTSGz5dvIAYFssPWhD160AcR7Z.jpg",
+      "genre_ids": [
+        80,
+        28,
+        35
+      ],
+      "id": 150,
+      "title": "48 Hrs.",
+      "original_language": "en",
+      "original_title": "48 Hrs.",
+      "overview": "A hard-nosed cop reluctantly teams up with a wise-cracking criminal temporarily paroled to him, in order to track down a killer.",
+      "popularity": 7.6155,
+      "poster_path": "/rvvjXHzEDBIvIVDBHNOwHS7hVPu.jpg",
+      "release_date": "1982-12-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.682,
+      "vote_count": 1746
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/Ag4eANWzHEwC7rQVyvcGsL34ieP.jpg",
+      "genre_ids": [
+        10402,
+        18
+      ],
+      "id": 12104,
+      "title": "Pink Floyd: The Wall",
+      "original_language": "en",
+      "original_title": "Pink Floyd: The Wall",
+      "overview": "A troubled rock star descends into madness in the midst of his physical and social isolation from everyone.",
+      "popularity": 4.7801,
+      "poster_path": "/aElHyIdF5jmctFGhlhhaPFsbBJC.jpg",
+      "release_date": "1982-07-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.937,
+      "vote_count": 1674
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dtEkXmWPRwja6CtwPFcVpuMb7tW.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 9728,
+      "title": "Friday the 13th Part III",
+      "original_language": "en",
+      "original_title": "Friday the 13th Part III",
+      "overview": "An idyllic summer turns into a nightmare of unspeakable terror for yet another group of naïve friends. Ignoring Camp Crystal Lake's bloody legacy, one by one they fall victim to the maniacal Jason, who stalks them at every turn...",
+      "popularity": 5.1657,
+      "poster_path": "/9kukTSlgFgXnQGdpcHvHcpTDiUc.jpg",
+      "release_date": "1982-08-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.879,
+      "vote_count": 1628
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eyOKqtgNeEEIp7zYMHnpISpsaS3.jpg",
+      "genre_ids": [
+        27,
+        878,
+        9648
+      ],
+      "id": 10676,
+      "title": "Halloween III: Season of the Witch",
+      "original_language": "en",
+      "original_title": "Halloween III: Season of the Witch",
+      "overview": "After a terrified toy salesman is mysteriously attacked and brought to the hospital clutching the year's most popular Halloween mask, Dr. Daniel Challis sets out to investigate the strange events and finds himself thrust into a nightmarish conspiracy.",
+      "popularity": 3.0692,
+      "poster_path": "/WABfdeaThFYXCySGIOvRNv2sSW.jpg",
+      "release_date": "1982-10-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.24,
+      "vote_count": 1561
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mHbnNX6jxpndW03yGXslHcBOaZv.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        18
+      ],
+      "id": 13342,
+      "title": "Fast Times at Ridgemont High",
+      "original_language": "en",
+      "original_title": "Fast Times at Ridgemont High",
+      "overview": "A group of Southern-California high school students ignore their studies in favor of indulging in their teenage distractions.",
+      "popularity": 5.6661,
+      "poster_path": "/s1DA8H7qwoOcAEhow2rCzuQtpuO.jpg",
+      "release_date": "1982-08-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.803,
+      "vote_count": 1391
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nZCuAonAbL1mXea0NITbxfnLvVQ.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 2665,
+      "title": "Airplane II: The Sequel",
+      "original_language": "en",
+      "original_title": "Airplane II: The Sequel",
+      "overview": "A faulty computer causes a passenger space shuttle to head straight for the sun, and man-with-a-past Ted Striker must save the day and get the shuttle back on track – again – all the while trying to patch up his relationship with Elaine.",
+      "popularity": 4.938,
+      "poster_path": "/zs7Pjyabt0fwe2XqIx0gnF9Q4np.jpg",
+      "release_date": "1982-12-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.08,
+      "vote_count": 1283
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dlIkuHYT977POygUBGZyOszFUB.jpg",
+      "genre_ids": [
+        12,
+        10751,
+        14
+      ],
+      "id": 11639,
+      "title": "The Dark Crystal",
+      "original_language": "en",
+      "original_title": "The Dark Crystal",
+      "overview": "On another planet in the distant past, a Gelfling embarks on a quest to find the missing shard of a magical crystal and restore order to his world, before the grotesque race of Skeksis find and use the crystal for evil.",
+      "popularity": 3.4736,
+      "poster_path": "/fZPxRaa6gvCyGCh9Xk5kyPqz7fp.jpg",
+      "release_date": "1982-12-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 1280
+    }
+  ],
+  "total_pages": 7,
+  "total_results": 128
+}

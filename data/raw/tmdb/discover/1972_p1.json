@@ -1,0 +1,413 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 238,
+      "title": "The Godfather",
+      "original_language": "en",
+      "original_title": "The Godfather",
+      "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+      "popularity": 49.9465,
+      "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "release_date": "1972-03-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.686,
+      "vote_count": 23226
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qOGuM0QINhH7MfNAiOZtmlaDLgj.jpg",
+      "genre_ids": [
+        18,
+        878,
+        9648
+      ],
+      "id": 593,
+      "title": "Solaris",
+      "original_language": "ru",
+      "original_title": "Солярис",
+      "overview": "A psychologist is sent to a space station orbiting a planet called Solaris to investigate the death of a doctor and the mental problems of cosmonauts on the station. He soon discovers that the water on the planet is a type of brain which brings out repressed memories and obsessions.",
+      "popularity": 4.89,
+      "poster_path": "/pgqj7QoBPWFLLKtLEpPmFYFRMgB.jpg",
+      "release_date": "1972-03-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 1860
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aaqbyTRo1bZB34ZdjeWyqnL0qz0.jpg",
+      "genre_ids": [
+        18,
+        12,
+        53
+      ],
+      "id": 10669,
+      "title": "Deliverance",
+      "original_language": "en",
+      "original_title": "Deliverance",
+      "overview": "Intent on seeing the Cahulawassee River before it's turned into one huge lake, outdoor fanatic Lewis Medlock takes his friends on a river-rafting trip they'll never forget into the dangerous American back-country.",
+      "popularity": 4.3972,
+      "poster_path": "/2TrAzNJlHyNYYSkQf6asg3rs2Xr.jpg",
+      "release_date": "1972-08-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.316,
+      "vote_count": 1831
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hExTiLbfB93HwEwkeQxb3q4nHtQ.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 1643,
+      "title": "Last Tango in Paris",
+      "original_language": "it",
+      "original_title": "Ultimo tango a Parigi",
+      "overview": "A recently widowed American begins an anonymous sexual relationship with a young Parisian woman.",
+      "popularity": 6.751,
+      "poster_path": "/dNgdUdNOWfHsZI3lDu6Epig7H2P.jpg",
+      "release_date": "1972-12-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.899,
+      "vote_count": 1354
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yaql2veoJrsw9TH6qbWho7cjG9t.jpg",
+      "genre_ids": [
+        28,
+        80
+      ],
+      "id": 9462,
+      "title": "The Way of the Dragon",
+      "original_language": "cn",
+      "original_title": "猛龍過江",
+      "overview": "After a Chinese restaurant in Rome is threatened by the mafia, who will stop at nothing to acquire the property, the owner recruits a family friend in Hong Kong, kung fu expert Tang Lung, to help them defend their business.",
+      "popularity": 6.1525,
+      "poster_path": "/m7AIITQ624sfldI4SsX4htXPH1f.jpg",
+      "release_date": "1972-12-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 1311
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kfSZaOr9ApNR52gWKlpXHD0id0W.jpg",
+      "genre_ids": [
+        36,
+        12,
+        18
+      ],
+      "id": 2000,
+      "title": "Aguirre, the Wrath of God",
+      "original_language": "de",
+      "original_title": "Aguirre, der Zorn Gottes",
+      "overview": "A few decades after the destruction of the Inca Empire, a Spanish expedition led by the infamous Aguirre leaves the mountains of Peru and goes down the Amazon River in search of the lost city of El Dorado. When great difficulties arise, Aguirre’s men start to wonder whether their quest will lead them to prosperity or certain death.",
+      "popularity": 2.7039,
+      "poster_path": "/zU1FLiGJw3m3iFrakwA0SzFvIPV.jpg",
+      "release_date": "1972-12-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.438,
+      "vote_count": 1266
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3yazPBvuE1u07ljHFTPRaK2AHOt.jpg",
+      "genre_ids": [
+        28,
+        878
+      ],
+      "id": 1688,
+      "title": "Conquest of the Planet of the Apes",
+      "original_language": "en",
+      "original_title": "Conquest of the Planet of the Apes",
+      "overview": "In a futuristic world that has embraced ape slavery, a chimpanzee named Caesar resurfaces after almost twenty years of hiding from the authorities, and prepares for a revolt against humanity.",
+      "popularity": 3.2603,
+      "poster_path": "/tzKZRY2opw5MruSkevffgT5ocun.jpg",
+      "release_date": "1972-06-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.155,
+      "vote_count": 1105
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AddgRVGaQg3FCFS0Ew8yixzjG1t.jpg",
+      "genre_ids": [
+        18,
+        28,
+        53
+      ],
+      "id": 11713,
+      "title": "Fist of Fury",
+      "original_language": "zh",
+      "original_title": "精武門",
+      "overview": "During the Japanese occupation of Shanghai, Chen Zhen, the star pupil of a recently-deceased martial arts teacher battles a Japanese dojo which seeks the demise of his fighting school.",
+      "popularity": 9.1188,
+      "poster_path": "/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg",
+      "release_date": "1972-03-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.226,
+      "vote_count": 1091
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ejLsnT6KmMpvtoPHMp40m54hRDd.jpg",
+      "genre_ids": [
+        12,
+        18,
+        53
+      ],
+      "id": 551,
+      "title": "The Poseidon Adventure",
+      "original_language": "en",
+      "original_title": "The Poseidon Adventure",
+      "overview": "When their ocean liner capsizes, a group of passengers struggle to survive and escape.",
+      "popularity": 4.7283,
+      "poster_path": "/6RGiA5BfhelU9zoD0b1GAG4GWWf.jpg",
+      "release_date": "1972-12-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 1037
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/feiECea2yhyiNRAfvqXzbQFgR1W.jpg",
+      "genre_ids": [
+        80,
+        53,
+        27
+      ],
+      "id": 573,
+      "title": "Frenzy",
+      "original_language": "en",
+      "original_title": "Frenzy",
+      "overview": "London is terrorized by a vicious sex killer known as The Necktie Murderer. Following the brutal slaying of his ex-wife, down-on-his-luck Richard Blaney is suspected by the police of being the killer. He goes on the run, determined to prove his innocence.",
+      "popularity": 2.6239,
+      "poster_path": "/4SFvqrlSigAt9tnhXFSMyKeJWQk.jpg",
+      "release_date": "1972-05-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.093,
+      "vote_count": 1031
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yJsgsM2f6HmfR9I1vTpqjmgD836.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 11624,
+      "title": "Everything You Always Wanted to Know About Sex *But Were Afraid to Ask",
+      "original_language": "en",
+      "original_title": "Everything You Always Wanted to Know About Sex *But Were Afraid to Ask",
+      "overview": "A collection of seven vignettes, which each address a question concerning human sexuality. From aphrodisiacs to sexual perversion to the mystery of the male orgasm, characters like a court jester, a doctor, a queen and a journalist adventure through lab experiments and game shows, all seeking answers to common questions that many would never ask.",
+      "popularity": 2.4415,
+      "poster_path": "/A1ZNhNd8FV8kCW39OeDelokT0tv.jpg",
+      "release_date": "1972-08-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.526,
+      "vote_count": 1005
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yInvVRrCmEypIt5hm0WvXkjxsQX.jpg",
+      "genre_ids": [
+        10402,
+        10749,
+        18
+      ],
+      "id": 10784,
+      "title": "Cabaret",
+      "original_language": "en",
+      "original_title": "Cabaret",
+      "overview": "Inside the Kit Kat Club of 1931 Berlin, starry-eyed singer Sally Bowles and an impish emcee sound the clarion call to decadent fun, while outside a certain political party grows into a brutal force.",
+      "popularity": 3.1155,
+      "poster_path": "/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+      "release_date": "1972-02-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.427,
+      "vote_count": 991
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/z6NI6n5MvQZMZJbXKLiyFl1yDeA.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 4593,
+      "title": "The Discreet Charm of the Bourgeoisie",
+      "original_language": "fr",
+      "original_title": "Le Charme discret de la bourgeoisie",
+      "overview": "In Luis Buñuel’s deliciously satiric masterpiece, an upper-class sextet sits down to dinner but never eats, their attempts continually thwarted by a vaudevillian mixture of events both actual and imagined.",
+      "popularity": 2.101,
+      "poster_path": "/zN4ILX2x64PvT2jIOAHXxCOi5WA.jpg",
+      "release_date": "1972-09-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 925
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mjxuTe76rA1C9btJtTwb8RVbeng.jpg",
+      "genre_ids": [
+        27,
+        80
+      ],
+      "id": 15516,
+      "title": "The Last House on the Left",
+      "original_language": "en",
+      "original_title": "The Last House on the Left",
+      "overview": "On the eve of her 17th birthday, Mari and friend Phyllis set off from her family home to attend a rock concert in the city. Attempting to score some drugs on the way, the pair run afoul of a group of vicious crooks, headed up by the sadistic Krug.",
+      "popularity": 3.5382,
+      "poster_path": "/qyTqXz1C7kPgWmxcD5otQ7xlrJP.jpg",
+      "release_date": "1972-08-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.028,
+      "vote_count": 797
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xmLgdb0yDBXa7Dlo3aCzjhjCkuE.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 10238,
+      "title": "Cries and Whispers",
+      "original_language": "sv",
+      "original_title": "Viskningar och rop",
+      "overview": "As Agnes slowly dies of cancer, her sisters are so immersed in their own psychic pains that they are unable to offer her the support she needs.",
+      "popularity": 2.7309,
+      "poster_path": "/a1bMgB09YDvvRN9SitCclUYragr.jpg",
+      "release_date": "1972-12-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 787
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/e3DfV9NtGVEhjCAhCJqNo7lcQWp.jpg",
+      "genre_ids": [
+        53,
+        9648,
+        80
+      ],
+      "id": 993,
+      "title": "Sleuth",
+      "original_language": "en",
+      "original_title": "Sleuth",
+      "overview": "A man who loves games and theatre invites his wife's lover to meet, setting up a battle of wits with potentially deadly results.",
+      "popularity": 2.0022,
+      "poster_path": "/jAREYLUnYGwPjbQr0vs1s38QLkH.jpg",
+      "release_date": "1972-12-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.694,
+      "vote_count": 729
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gSFkUGrgCSDDQpsQ6HbrEQ41tMl.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 11943,
+      "title": "Jeremiah Johnson",
+      "original_language": "en",
+      "original_title": "Jeremiah Johnson",
+      "overview": "A mountain man who wishes to live the life of a hermit becomes the unwilling object of a long vendetta by Indians when he proves to be the match of their warriors in one-on-one combat on the early frontier.",
+      "popularity": 2.6591,
+      "poster_path": "/fANj1S3UmBB51wnKxYRKtw8LMBn.jpg",
+      "release_date": "1972-09-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.307,
+      "vote_count": 699
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/reqscfk2KrWSDPKLMY303nwNgTw.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 5916,
+      "title": "The Getaway",
+      "original_language": "en",
+      "original_title": "The Getaway",
+      "overview": "A recently released ex-convict and his loyal wife go on the run after a heist goes wrong.",
+      "popularity": 2.773,
+      "poster_path": "/8SvnGUJsr16zUJ2CN7ONX1ZWtZ8.jpg",
+      "release_date": "1972-12-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.145,
+      "vote_count": 672
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6YaphqLSVChdWgF7csZVjM0b08Y.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 11610,
+      "title": "Play It Again, Sam",
+      "original_language": "en",
+      "original_title": "Play It Again, Sam",
+      "overview": "A neurotic film critic obsessed with the movie Casablanca attempts to get over his wife leaving him by dating again with the help of a married couple and his illusory idol, Humphrey Bogart.",
+      "popularity": 1.8866,
+      "poster_path": "/yZFz5rwrdVmEoHVkVU7EkZedDfz.jpg",
+      "release_date": "1972-05-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.464,
+      "vote_count": 654
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5QTwfS9vcr22Nl7PCcUro7dEMFq.jpg",
+      "genre_ids": [
+        12,
+        878,
+        18
+      ],
+      "id": 811,
+      "title": "Silent Running",
+      "original_language": "en",
+      "original_title": "Silent Running",
+      "overview": "After the entire flora goes extinct, ecologist Lowell maintains a greenhouse aboard a space station for the future with his android companions. However, he rebels after being ordered to destroy the greenhouse in favor of carrying cargo, a decision that puts him at odds with everyone but his mechanical companions.",
+      "popularity": 2.0698,
+      "poster_path": "/ahasZ5HILZHtlrl6cbXgpfk0y8H.jpg",
+      "release_date": "1972-03-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.388,
+      "vote_count": 648
+    }
+  ],
+  "total_pages": 6,
+  "total_results": 113
+}

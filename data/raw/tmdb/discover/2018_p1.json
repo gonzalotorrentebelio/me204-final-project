@@ -1,0 +1,424 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "id": 299536,
+      "title": "Avengers: Infinity War",
+      "original_language": "en",
+      "original_title": "Avengers: Infinity War",
+      "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+      "popularity": 64.3993,
+      "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "release_date": "2018-04-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.24,
+      "vote_count": 32387
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sIwFcU1pql5a3LdZGxsRKi9JfTL.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 284054,
+      "title": "Black Panther",
+      "original_language": "en",
+      "original_title": "Black Panther",
+      "overview": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+      "popularity": 26.3046,
+      "poster_path": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "release_date": "2018-02-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.364,
+      "vote_count": 23664
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+      "genre_ids": [
+        28,
+        35,
+        12
+      ],
+      "id": 383498,
+      "title": "Deadpool 2",
+      "original_language": "en",
+      "original_title": "Deadpool 2",
+      "overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+      "popularity": 15.9047,
+      "poster_path": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+      "release_date": "2018-05-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.491,
+      "vote_count": 19405
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dcvbs8z0GEXslC1kCT77x19XDeR.jpg",
+      "genre_ids": [
+        10402,
+        18
+      ],
+      "id": 424694,
+      "title": "Bohemian Rhapsody",
+      "original_language": "en",
+      "original_title": "Bohemian Rhapsody",
+      "overview": "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.",
+      "popularity": 11.7028,
+      "poster_path": "/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+      "release_date": "2018-10-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.955,
+      "vote_count": 17885
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        878
+      ],
+      "id": 324857,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "original_language": "en",
+      "original_title": "Spider-Man: Into the Spider-Verse",
+      "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+      "popularity": 43.9459,
+      "poster_path": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "release_date": "2018-12-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.393,
+      "vote_count": 17485
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hNsYUryiwxcdeTMkaBcPF3iEg0p.jpg",
+      "genre_ids": [
+        878,
+        28
+      ],
+      "id": 335983,
+      "title": "Venom",
+      "original_language": "en",
+      "original_title": "Venom",
+      "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+      "popularity": 14.2351,
+      "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+      "release_date": "2018-09-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.825,
+      "vote_count": 17376
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "id": 333339,
+      "title": "Ready Player One",
+      "original_language": "en",
+      "original_title": "Ready Player One",
+      "overview": "When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.",
+      "popularity": 15.6376,
+      "poster_path": "/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+      "release_date": "2018-03-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.589,
+      "vote_count": 17122
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nHRUtBwFNnNN70vcQ7lAsjc2T6S.jpg",
+      "genre_ids": [
+        27,
+        18,
+        878
+      ],
+      "id": 447332,
+      "title": "A Quiet Place",
+      "original_language": "en",
+      "original_title": "A Quiet Place",
+      "overview": "A family is forced to live in silence while hiding from creatures that hunt by sound.",
+      "popularity": 13.9325,
+      "poster_path": "/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+      "release_date": "2018-04-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.395,
+      "vote_count": 15502
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9QusGjxcYvfPD1THg6oW3RLeNn7.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 297802,
+      "title": "Aquaman",
+      "original_language": "en",
+      "original_title": "Aquaman",
+      "overview": "Half-human, half-Atlantean Arthur Curry is taken on the journey of his lifetime to discover if he is worth of being a king.",
+      "popularity": 18.2889,
+      "poster_path": "/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg",
+      "release_date": "2018-12-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.866,
+      "vote_count": 15039
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iYdgEUE2W2aJkgqfSjf1x3gFfuV.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 363088,
+      "title": "Ant-Man and the Wasp",
+      "original_language": "en",
+      "original_title": "Ant-Man and the Wasp",
+      "overview": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
+      "popularity": 17.4412,
+      "poster_path": "/cFQEO687n1K6umXbInzocxcnAQz.jpg",
+      "release_date": "2018-07-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.902,
+      "vote_count": 14298
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        10751
+      ],
+      "id": 260513,
+      "title": "Incredibles 2",
+      "original_language": "en",
+      "original_title": "Incredibles 2",
+      "overview": "Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.",
+      "popularity": 13.7073,
+      "poster_path": "/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
+      "release_date": "2018-06-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.454,
+      "vote_count": 13794
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5En0fmDagt3Pk8d7P3uTwfeQceg.jpg",
+      "genre_ids": [
+        18,
+        35,
+        36
+      ],
+      "id": 490132,
+      "title": "Green Book",
+      "original_language": "en",
+      "original_title": "Green Book",
+      "overview": "Tony Lip, a bouncer in 1962, is hired to drive pianist Don Shirley on a tour through the Deep South in the days when African Americans, forced to find alternate accommodations and services due to segregation laws below the Mason-Dixon Line, relied on a guide called The Negro Motorist Green Book.",
+      "popularity": 19.3582,
+      "poster_path": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "release_date": "2018-11-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.225,
+      "vote_count": 13032
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6WA9stUMbIkEPxn3D5SWlA8FIi7.jpg",
+      "genre_ids": [
+        12,
+        878,
+        53
+      ],
+      "id": 351286,
+      "title": "Jurassic World: Fallen Kingdom",
+      "original_language": "en",
+      "original_title": "Jurassic World: Fallen Kingdom",
+      "overview": "Three years after Jurassic World was destroyed, Isla Nublar now sits abandoned. When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+      "popularity": 13.9772,
+      "poster_path": "/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg",
+      "release_date": "2018-06-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.531,
+      "vote_count": 12873
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dDYpjrwh1wNVQk0rEpc9P81wQt4.jpg",
+      "genre_ids": [
+        10402,
+        18,
+        10749
+      ],
+      "id": 332562,
+      "title": "A Star Is Born",
+      "original_language": "en",
+      "original_title": "A Star Is Born",
+      "overview": "Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+      "popularity": 6.5017,
+      "poster_path": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "release_date": "2018-10-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.492,
+      "vote_count": 12287
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i3rRY0EKYhSpyOLRAQ7iB05zhAp.jpg",
+      "genre_ids": [
+        14,
+        12
+      ],
+      "id": 338952,
+      "title": "Fantastic Beasts: The Crimes of Grindelwald",
+      "original_language": "en",
+      "original_title": "Fantastic Beasts: The Crimes of Grindelwald",
+      "overview": "Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.",
+      "popularity": 11.2858,
+      "poster_path": "/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg",
+      "release_date": "2018-11-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.833,
+      "vote_count": 11553
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pDKFL1zcHzEpmz4MJA5JJnRbJeD.jpg",
+      "genre_ids": [
+        27,
+        53,
+        18
+      ],
+      "id": 405774,
+      "title": "Bird Box",
+      "original_language": "en",
+      "original_title": "Bird Box",
+      "overview": "Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.",
+      "popularity": 8.6339,
+      "poster_path": "/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg",
+      "release_date": "2018-12-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.826,
+      "vote_count": 10692
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9trZvBr44UGedUOiGo3jgSUw13e.jpg",
+      "genre_ids": [
+        878,
+        27
+      ],
+      "id": 300668,
+      "title": "Annihilation",
+      "original_language": "en",
+      "original_title": "Annihilation",
+      "overview": "A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply.",
+      "popularity": 9.0356,
+      "poster_path": "/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg",
+      "release_date": "2018-02-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.445,
+      "vote_count": 9466
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7LZ0K4FsALrt7OeNIGOVLNuKQRU.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 348350,
+      "title": "Solo: A Star Wars Story",
+      "original_language": "en",
+      "original_title": "Solo: A Star Wars Story",
+      "overview": "Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.",
+      "popularity": 9.1398,
+      "poster_path": "/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
+      "release_date": "2018-05-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 9364
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3IzR3VhZAyhxVnuRRUHFLkfK4hT.jpg",
+      "genre_ids": [
+        28,
+        12
+      ],
+      "id": 353081,
+      "title": "Mission: Impossible - Fallout",
+      "original_language": "en",
+      "original_title": "Mission: Impossible - Fallout",
+      "overview": "When an IMF mission ends badly, the world is faced with dire consequences. As Ethan Hunt takes it upon himself to fulfill his original briefing, the CIA begin to question his loyalty and his motives. The IMF team find themselves in a race against time, hunted by assassins while trying to prevent a global catastrophe.",
+      "popularity": 12.1506,
+      "poster_path": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+      "release_date": "2018-07-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.45,
+      "vote_count": 9234
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/scQf03Fm3jeyv4FH04qvi4fp4wh.jpg",
+      "genre_ids": [
+        80,
+        35,
+        28
+      ],
+      "id": 402900,
+      "title": "Ocean's Eight",
+      "original_language": "en",
+      "original_title": "Ocean's Eight",
+      "overview": "Debbie Ocean, a criminal mastermind, gathers a crew of female thieves to pull off the heist of the century at New York's annual Met Gala.",
+      "popularity": 10.6913,
+      "poster_path": "/MvYpKlpFukTivnlBhizGbkAe3v.jpg",
+      "release_date": "2018-06-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.954,
+      "vote_count": 8877
+    }
+  ],
+  "total_pages": 48,
+  "total_results": 959
+}

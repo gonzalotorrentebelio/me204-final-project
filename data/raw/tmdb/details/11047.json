@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/bAoPOb3GWnzycolOMYk9E2jkapz.jpg",
+  "belongs_to_collection": {
+    "id": 94039,
+    "name": "Asterix and Obelix (Animation) Collection",
+    "poster_path": "/mJ85mdtrQl2LWTNAHHcSJC55dcs.jpg",
+    "backdrop_path": "/vJH09M0PoZVdeMGnNzaeFAcsQV8.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 11047,
+  "imdb_id": "tt0061369",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Astérix le Gaulois",
+  "overview": "In the year 50 BC, Gaul is occupied by the Romans - nearly. But the small village of Asterix and his friends still resists the Roman legions with the aid of their druid's magic potion, which gives superhuman strength. Learning of this potion, a Roman centurion kidnaps the druid to get the secret formula out of him.",
+  "popularity": 1.93,
+  "poster_path": "/A2dlVs5WRmAwIPVS5vODhAOkNy7.jpg",
+  "production_companies": [
+    {
+      "id": 5851,
+      "logo_path": null,
+      "name": "Dargaud Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 5850,
+      "logo_path": "/26v9iO4OqZzGhKiHYfiPWCYTNiG.png",
+      "name": "Belvision",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "release_date": "1967-12-20",
+  "revenue": 1325312,
+  "runtime": 68,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Asterix the Gaul",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 812
+}

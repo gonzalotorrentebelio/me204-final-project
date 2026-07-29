@@ -1,0 +1,411 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/nLFxvLokHe3bQmrmAfljIfax2jQ.jpg",
+      "genre_ids": [
+        878,
+        80
+      ],
+      "id": 185,
+      "title": "A Clockwork Orange",
+      "original_language": "en",
+      "original_title": "A Clockwork Orange",
+      "overview": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+      "popularity": 14.9597,
+      "poster_path": "/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+      "release_date": "1971-10-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.2,
+      "vote_count": 13947
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aAL7kV0l3yZtbCFs7J8m4gXldqR.jpg",
+      "genre_ids": [
+        10751,
+        14,
+        35
+      ],
+      "id": 252,
+      "title": "Willy Wonka & the Chocolate Factory",
+      "original_language": "en",
+      "original_title": "Willy Wonka & the Chocolate Factory",
+      "overview": "When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a tour of his chocolate factory to five lucky kids, penniless Charlie Bucket seeks the golden ticket that will make him a winner.",
+      "popularity": 7.2491,
+      "poster_path": "/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
+      "release_date": "1971-06-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.485,
+      "vote_count": 3993
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mJjOZSaTTqG3an5MkkOX3x18lYX.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 984,
+      "title": "Dirty Harry",
+      "original_language": "en",
+      "original_title": "Dirty Harry",
+      "overview": "When a madman dubbed 'Scorpio' terrorizes San Francisco, hard-nosed cop, Harry Callahan – famous for his take-no-prisoners approach to law enforcement – is tasked with hunting down the psychopath.",
+      "popularity": 5.6354,
+      "poster_path": "/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
+      "release_date": "1971-12-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.451,
+      "vote_count": 2782
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pyTDtQCn5sG8gi2zkM5ZylSNmtJ.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 681,
+      "title": "Diamonds Are Forever",
+      "original_language": "en",
+      "original_title": "Diamonds Are Forever",
+      "overview": "Diamonds are stolen only to be sold again in the international market. James Bond infiltrates a smuggling mission to find out who's guilty. The mission takes him to Las Vegas where Bond meets his archenemy Blofeld.",
+      "popularity": 6.5554,
+      "poster_path": "/ooDT0eKrWCxJCsn9JehPkD0QYNj.jpg",
+      "release_date": "1971-12-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.407,
+      "vote_count": 2407
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AsaW2VwcArvQmYjf2wsDjqWEn6f.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1051,
+      "title": "The French Connection",
+      "original_language": "en",
+      "original_title": "The French Connection",
+      "overview": "Tough narcotics detective 'Popeye' Doyle is in hot pursuit of a suave French drug dealer who may be the key to a huge heroin-smuggling operation.",
+      "popularity": 4.3636,
+      "poster_path": "/pH4saPwMjhnVGwmSH6RkMaHrt3s.jpg",
+      "release_date": "1971-10-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.496,
+      "vote_count": 2162
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AoGLKkPvBcZP27jwSA85fY8emvJ.jpg",
+      "genre_ids": [
+        28,
+        53,
+        10770
+      ],
+      "id": 839,
+      "title": "Duel",
+      "original_language": "en",
+      "original_title": "Duel",
+      "overview": "Traveling businessman David Mann angers the driver of a rusty tanker while crossing the California desert. A simple trip turns deadly, as Mann struggles to stay on the road while the tanker plays cat and mouse with his life.",
+      "popularity": 4.0619,
+      "poster_path": "/w9Vk1Txx14vWvACELFYFlixrsfr.jpg",
+      "release_date": "1971-12-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.421,
+      "vote_count": 2103
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7GVWNxz7fN0yK61NGSPjBWZPt1J.jpg",
+      "genre_ids": [
+        28,
+        878
+      ],
+      "id": 1687,
+      "title": "Escape from the Planet of the Apes",
+      "original_language": "en",
+      "original_title": "Escape from the Planet of the Apes",
+      "overview": "The world is shocked by the appearance of three talking chimpanzees, who arrived mysteriously in a spacecraft. Intrigued by their intelligence, humans use them for research - until the apes attempt to escape.",
+      "popularity": 3.2543,
+      "poster_path": "/vqD7qjBRizY7sPVIHbFRUZwgEXL.jpg",
+      "release_date": "1971-05-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.379,
+      "vote_count": 1250
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jKgfnnCATAg4fxMfS0LZThmqOZB.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 343,
+      "title": "Harold and Maude",
+      "original_language": "en",
+      "original_title": "Harold and Maude",
+      "overview": "A deadpan young man obsessed with death meets an eccentric septuagenarian who teaches him to live life to the fullest.",
+      "popularity": 2.5352,
+      "poster_path": "/t7qEuGwDjcYu8ajaKZ68DeDnOxw.jpg",
+      "release_date": "1971-12-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.589,
+      "vote_count": 1223
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tXjtTg1TcpqUePNgdFrBg56hMUC.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 336,
+      "title": "Duck, You Sucker",
+      "original_language": "it",
+      "original_title": "Giù la testa",
+      "overview": "At the beginning of the 1913 Mexican Revolution, greedy bandit Juan Miranda and idealist John H. Mallory, an Irish Republican Army explosives expert on the lam from the British, fall in with a band of revolutionaries plotting to strike a national bank. When it turns out that the government has been using the bank as a hiding place for illegally detained political prisoners -- who are freed by the blast -- Miranda becomes a revolutionary hero against his will.",
+      "popularity": 4.311,
+      "poster_path": "/nWmAtZf83qpOai0fzehf7Hn1S3R.jpg",
+      "release_date": "1971-10-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.669,
+      "vote_count": 1198
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uTTySGAQ092zr5TP7PqDnHuWR1W.jpg",
+      "genre_ids": [
+        53,
+        18,
+        80
+      ],
+      "id": 994,
+      "title": "Straw Dogs",
+      "original_language": "en",
+      "original_title": "Straw Dogs",
+      "overview": "David Sumner, a mild-mannered academic from the United States, marries Amy, an Englishwoman. In order to escape a hectic stateside lifestyle, David and his wife relocate to the small town in rural Cornwall where Amy was raised. There, David is ostracized by the brutish men of the village, including Amy's old flame, Charlie. Eventually the taunts escalate.",
+      "popularity": 5.0914,
+      "poster_path": "/yigkfHE1OhkxPPrjrV78Y9ibGEk.jpg",
+      "release_date": "1971-11-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.165,
+      "vote_count": 1078
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fM9ODwfR7m8fI2g99M9WyhvqXtI.jpg",
+      "genre_ids": [
+        878,
+        18
+      ],
+      "id": 636,
+      "title": "THX 1138",
+      "original_language": "en",
+      "original_title": "THX 1138",
+      "overview": "People in the future live in a totalitarian society. A technician named THX 1138 lives a mundane life between work and taking a controlled consumption of drugs that the government uses to make puppets out of people. As THX is without drugs for the first time he has feelings for a woman and they start a secret relationship.",
+      "popularity": 2.5993,
+      "poster_path": "/pPyEXW7h2SJRjTsHZqrIlXxOgW9.jpg",
+      "release_date": "1971-03-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.441,
+      "vote_count": 1075
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jQAGYwpp00D9PN7qKIPb4HqNzoq.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        14
+      ],
+      "id": 12335,
+      "title": "Bedknobs and Broomsticks",
+      "original_language": "en",
+      "original_title": "Bedknobs and Broomsticks",
+      "overview": "Three children evacuated from London during World War II are forced to stay with an eccentric spinster. The children's initial fears disappear when they find out she is in fact a trainee witch.",
+      "popularity": 3.3325,
+      "poster_path": "/1BBzsThIZ06UmjZ3rChYGZhJtFQ.jpg",
+      "release_date": "1971-10-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.043,
+      "vote_count": 1038
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/t9PbbwHpArtyVHcdFitvjNahOIx.jpg",
+      "genre_ids": [
+        35,
+        37
+      ],
+      "id": 11829,
+      "title": "Trinity Is Still My Name",
+      "original_language": "it",
+      "original_title": "...continuavano a chiamarlo Trinità",
+      "overview": "The two brothers Trinity and Bambino are exchanged by two federal agents and take advantage of the situation to steal a huge booty hidden in a monastery by a gang of outlaws.",
+      "popularity": 4.7444,
+      "poster_path": "/oRd5Zb2MJEvBBxvyh3gVe6d4cAl.jpg",
+      "release_date": "1971-10-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 1018
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kKN4Qk1Qdn8l2QOpeCNEiHVnv9h.jpg",
+      "genre_ids": [
+        28
+      ],
+      "id": 12481,
+      "title": "The Big Boss",
+      "original_language": "zh",
+      "original_title": "唐山大兄",
+      "overview": "Cheng is a young Chinese mainlander who moves in with his expatriate cousins to work at an ice factory in Thailand. He does this with a family promise never to get involved in any fights. However, when members of his family begin disappearing after meeting the management of the factory, the resulting mystery and pressures force him to break that vow and take on the villainy of the Big Boss.",
+      "popularity": 4.9711,
+      "poster_path": "/9VFYDWYnAhXAgyqgs94lwNmMBbk.jpg",
+      "release_date": "1971-10-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.062,
+      "vote_count": 857
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jLm7Wd2n9MZ9hTdWU1TkcFXIdP9.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 11302,
+      "title": "Bananas",
+      "original_language": "en",
+      "original_title": "Bananas",
+      "overview": "When a bumbling New Yorker is dumped by his activist girlfriend, he travels to a tiny Latin American nation and becomes involved in its latest rebellion.",
+      "popularity": 1.566,
+      "poster_path": "/gK11RUXspxqty0Wq6KoV8J0crKO.jpg",
+      "release_date": "1971-04-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.673,
+      "vote_count": 834
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9PPx5qspyRA0LBTBHo0BX57Vzow.jpg",
+      "genre_ids": [
+        878,
+        53,
+        18
+      ],
+      "id": 10514,
+      "title": "The Andromeda Strain",
+      "original_language": "en",
+      "original_title": "The Andromeda Strain",
+      "overview": "When virtually all of the residents of Piedmont, New Mexico are found dead after the return to Earth of a space satellite, the head of the US Air Force's Project Scoop declares an emergency. A group of eminent scientists led by Dr. Jeremy Stone scrambles to a secure laboratory and tries first to isolate the life form while determining why two people from Piedmont - an old alcoholic and a six-month-old baby - survived. The scientists methodically study the alien life form, unaware that it has already mutated and presents a far greater danger in the lab, which is equipped with a nuclear self-destruct device designed to prevent the escape of dangerous biological agents.",
+      "popularity": 3.4233,
+      "poster_path": "/4FBSFz8wLpxd4o6hnvKOJJ8WSIz.jpg",
+      "release_date": "1971-03-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.054,
+      "vote_count": 813
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fhzwleXGmiqBuQdWxmEwpkydhm4.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 25188,
+      "title": "The Last Picture Show",
+      "original_language": "en",
+      "original_title": "The Last Picture Show",
+      "overview": "High school seniors and best friends, Sonny and Duane, live in a dying Texas town. The handsome Duane is dating a local beauty, while Sonny is having an affair with the coach's wife. As graduation nears and both boys contemplate their futures, Duane eyes the army and Sonny takes over a local business. Each struggles to figure out if he can escape this dead-end town and build a better life somewhere else.",
+      "popularity": 3.3741,
+      "poster_path": "/7NYePZc0lZrRomtmQsjOJMePTEb.jpg",
+      "release_date": "1971-10-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 780
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xKhnjQA5wrAUaopEKegdKD3Yi26.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 8416,
+      "title": "The Conformist",
+      "original_language": "it",
+      "original_title": "Il conformista",
+      "overview": "A weak-willed Italian man becomes a fascist flunky who goes abroad to arrange the assassination of his old teacher, now a political dissident.",
+      "popularity": 2.1632,
+      "poster_path": "/nLJjFRqIJAK8qz0OKYnpKCblZNK.jpg",
+      "release_date": "1971-01-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.641,
+      "vote_count": 772
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sv8nSUSXb7ldLOg4dm6KDIDdSEU.jpg",
+      "genre_ids": [
+        35,
+        36
+      ],
+      "id": 14257,
+      "title": "Delusions of Grandeur",
+      "original_language": "fr",
+      "original_title": "La Folie des grandeurs",
+      "overview": "Don Sallust is the minister of the King of Spain. Being disingenuous, hypocritical, greedy and collecting the taxes for himself, he is hated by the people he oppresses. Accused by The Queen, a beautiful princess Bavarian, of having an illegitimate child to one of her maids of honor, he was stripped of his duties and ordered to retire to a monastery.",
+      "popularity": 1.7812,
+      "poster_path": "/uJtEs9WRqyEREvdkS470n593z03.jpg",
+      "release_date": "1971-12-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.401,
+      "vote_count": 745
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/n1pItGYLcgAh7c0ewjWeXKTjXFT.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 14811,
+      "title": "Fiddler on the Roof",
+      "original_language": "en",
+      "original_title": "Fiddler on the Roof",
+      "overview": "In a pre-revolutionary Russia, a poor Jewish milkman struggles with the challenges of a changing world as his daughters fall in love and antisemitism grows.",
+      "popularity": 3.5846,
+      "poster_path": "/v65PHx7Q6Jx0anyNeUOX07SJic9.jpg",
+      "release_date": "1971-11-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.739,
+      "vote_count": 654
+    }
+  ],
+  "total_pages": 6,
+  "total_results": 101
+}

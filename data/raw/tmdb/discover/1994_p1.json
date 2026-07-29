@@ -1,0 +1,422 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 278,
+      "title": "The Shawshank Redemption",
+      "original_language": "en",
+      "original_title": "The Shawshank Redemption",
+      "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+      "popularity": 114.2776,
+      "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+      "release_date": "1994-09-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.726,
+      "vote_count": 30873
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+      "genre_ids": [
+        53,
+        80,
+        35
+      ],
+      "id": 680,
+      "title": "Pulp Fiction",
+      "original_language": "en",
+      "original_title": "Pulp Fiction",
+      "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+      "popularity": 41.0655,
+      "poster_path": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "release_date": "1994-09-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.482,
+      "vote_count": 30505
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/66Kn4XWhkuPkJxOJyPEx4U2CUfN.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 13,
+      "title": "Forrest Gump",
+      "original_language": "en",
+      "original_title": "Forrest Gump",
+      "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+      "popularity": 36.8104,
+      "poster_path": "/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+      "release_date": "1994-06-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 30056
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/q00H8EqULYSK74lgevMkhmGGLHn.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        18
+      ],
+      "id": 8587,
+      "title": "The Lion King",
+      "original_language": "en",
+      "original_title": "The Lion King",
+      "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+      "popularity": 31.1773,
+      "poster_path": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+      "release_date": "1994-06-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.253,
+      "vote_count": 19888
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fj0hwDJEOOHllRim2BMt5L7tbjf.jpg",
+      "genre_ids": [
+        80,
+        18,
+        28
+      ],
+      "id": 101,
+      "title": "Léon: The Professional",
+      "original_language": "fr",
+      "original_title": "Léon",
+      "overview": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps.",
+      "popularity": 31.9739,
+      "poster_path": "/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg",
+      "release_date": "1994-09-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 16278
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bQlw59HncOXX9alFlOYKHAvSnm.jpg",
+      "genre_ids": [
+        35,
+        14,
+        80,
+        10749
+      ],
+      "id": 854,
+      "title": "The Mask",
+      "original_language": "en",
+      "original_title": "The Mask",
+      "overview": "Timid bank clerk Stanley Ipkiss discovers a magical mask infused with the spirit of the Norse god Loki. Donning it transforms him into an unrestrained, green-faced, cartoon-like wild man. While the mask grants him the confidence to woo a local singer, it also makes him the target of a ruthless mobster.",
+      "popularity": 18.4885,
+      "poster_path": "/jPC2eYub74zwf2tPGVtzSlBW6Oy.jpg",
+      "release_date": "1994-07-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.995,
+      "vote_count": 11411
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lywmuPU5Hr1Mnpb9UGeDbILmkTx.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1637,
+      "title": "Speed",
+      "original_language": "en",
+      "original_title": "Speed",
+      "overview": "Tensions run high when a crazed bomber rigs a Los Angeles bus with a device that will kill everyone on board if the vehicle's speed dips below fifty miles per hour.",
+      "popularity": 10.8108,
+      "poster_path": "/82PkCE4R95KhHICUDF7G4Ly2z3l.jpg",
+      "release_date": "1994-06-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.157,
+      "vote_count": 6932
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8uBTDGRcNHhYChcoazP5rleRME7.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 8467,
+      "title": "Dumb and Dumber",
+      "original_language": "en",
+      "original_title": "Dumb and Dumber",
+      "overview": "Lloyd and Harry are two men whose stupidity is really indescribable. When Mary, a beautiful woman, loses an important suitcase with money before she leaves for Aspen, the two friends (who have found the suitcase) decide to return it to her. After some \"adventures\" they finally get to Aspen where, using the lost money they live it up and fight for Mary's heart.",
+      "popularity": 11.2692,
+      "poster_path": "/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg",
+      "release_date": "1994-12-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.66,
+      "vote_count": 6813
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3fChciF2G1wXHsyTfJD9y7uN6Il.jpg",
+      "genre_ids": [
+        27,
+        18,
+        14
+      ],
+      "id": 628,
+      "title": "Interview with the Vampire",
+      "original_language": "en",
+      "original_title": "Interview with the Vampire",
+      "overview": "A vampire relates his epic life story of love, betrayal, loneliness, and dark hunger to an over-curious reporter.",
+      "popularity": 10.3366,
+      "poster_path": "/2162lAT2MP36MyJd2sttmj5du5T.jpg",
+      "release_date": "1994-11-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.389,
+      "vote_count": 6502
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nbvREKIjX16mwNZtFqAoQTTHPnQ.jpg",
+      "genre_ids": [
+        35,
+        80,
+        9648
+      ],
+      "id": 3049,
+      "title": "Ace Ventura: Pet Detective",
+      "original_language": "en",
+      "original_title": "Ace Ventura: Pet Detective",
+      "overview": "He's Ace Ventura: Pet Detective. The Ace is on the case to find the Miami Dolphins' missing mascot and quarterback Dan Marino. He goes eyeball to eyeball with a man-eating shark, stakes out the Miami Dolphins and woos and wows the ladies. Whether he's undercover, under fire or underwater, he always gets his man… or beast!",
+      "popularity": 8.7543,
+      "poster_path": "/pqiRuETmuSybfnVZ7qyeoXhQyN1.jpg",
+      "release_date": "1994-02-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.582,
+      "vote_count": 6467
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jRZ3joUcg8YDCQYl4Tog5xhY6wk.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 36955,
+      "title": "True Lies",
+      "original_language": "en",
+      "original_title": "True Lies",
+      "overview": "A fearless, globe-trotting, terrorist-battling secret agent has his life turned upside down when he discovers his wife might be having an affair with a used car salesman while terrorists smuggle nuclear war heads into the United States.",
+      "popularity": 11.6856,
+      "poster_path": "/pweFTnzzTfGK68woSVkiTgjLzWm.jpg",
+      "release_date": "1994-07-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.098,
+      "vote_count": 4639
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2VN9umruwVZsT1Pr1NMCV71HpUu.jpg",
+      "genre_ids": [
+        14,
+        28,
+        53
+      ],
+      "id": 9495,
+      "title": "The Crow",
+      "original_language": "en",
+      "original_title": "The Crow",
+      "overview": "Exactly one year after young rock guitarist Eric Draven and his fiancée are brutally killed by a ruthless gang of criminals, Draven, watched over by a hypnotic crow, returns from the grave to exact revenge.",
+      "popularity": 9.8227,
+      "poster_path": "/rMMB3v6jYHjsvXRNJYESacoTD7j.jpg",
+      "release_date": "1994-05-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.529,
+      "vote_count": 4586
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/s2bqHApZlliCuwgyHod0qucrYqZ.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 2164,
+      "title": "Stargate",
+      "original_language": "en",
+      "original_title": "Stargate",
+      "overview": "An interstellar teleportation device, found in Egypt, leads to a planet with humans resembling ancient Egyptians who worship the god Ra.",
+      "popularity": 8.3035,
+      "poster_path": "/4T6Po0XnZlevmhfPh3ZfEs5butR.jpg",
+      "release_date": "1994-10-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.033,
+      "vote_count": 3880
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k3TOt50cHvTLXWYPnXP0szhiXB8.jpg",
+      "genre_ids": [
+        80,
+        53,
+        18
+      ],
+      "id": 241,
+      "title": "Natural Born Killers",
+      "original_language": "en",
+      "original_title": "Natural Born Killers",
+      "overview": "Two victims of traumatized childhoods become lovers and serial murderers irresponsibly glorified by the mass media.",
+      "popularity": 7.732,
+      "poster_path": "/fEKZwT91gxvkAoyPgpNXo8W5fu0.jpg",
+      "release_date": "1994-08-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.053,
+      "vote_count": 3845
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mOOJm3tamy9iHg2mOEA77CM6ufZ.jpg",
+      "genre_ids": [
+        10751,
+        12,
+        16,
+        10749
+      ],
+      "id": 15969,
+      "title": "The Return of Jafar",
+      "original_language": "en",
+      "original_title": "The Return of Jafar",
+      "overview": "The evil Jafar escapes from the magic lamp as an all-powerful genie, ready to plot his revenge against Aladdin. From battling elusive villains atop winged horses, to dodging flames inside an exploding lava pit, it's up to Aladdin - with Princess Jasmine and the outrageously funny Genie by his side - to save the kingdom once and for all.",
+      "popularity": 4.3873,
+      "poster_path": "/7SC793qtORB6YL4mu0F5o3hfjDQ.jpg",
+      "release_date": "1994-12-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.236,
+      "vote_count": 3466
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ejFaHWnDP29z7ePw2cJVOsWvOvH.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 712,
+      "title": "Four Weddings and a Funeral",
+      "original_language": "en",
+      "original_title": "Four Weddings and a Funeral",
+      "overview": "Over the course of five social occasions, a committed bachelor must consider the notion that he may have discovered love.",
+      "popularity": 5.5362,
+      "poster_path": "/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg",
+      "release_date": "1994-03-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.777,
+      "vote_count": 3021
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eVIuBKpeLB8rkozkj8bVmxDuAsp.jpg",
+      "genre_ids": [
+        18,
+        37,
+        10749,
+        10752
+      ],
+      "id": 4476,
+      "title": "Legends of the Fall",
+      "original_language": "en",
+      "original_title": "Legends of the Fall",
+      "overview": "In early 20th-century Montana, Col. William Ludlow lives on a ranch in the wilderness with his sons, Alfred, Tristan, and Samuel. Eventually, the unconventional but close-knit family are bound by loyalty, tested by war, and torn apart by love, as told over the course of several decades in this epic saga.",
+      "popularity": 8.2321,
+      "poster_path": "/t1KPGlW0UGd0m515LPQmk2F4nu1.jpg",
+      "release_date": "1994-12-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 2897
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sjfbZVKRGh84lNxhqvuhdvovh18.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 2292,
+      "title": "Clerks",
+      "original_language": "en",
+      "original_title": "Clerks",
+      "overview": "Convenience and video store clerks Dante and Randal are sharp-witted, potty-mouthed and bored out of their minds. So in between needling customers, the counter jockeys play hockey on the roof, visit a funeral home and deal with their love lives.",
+      "popularity": 10.3167,
+      "poster_path": "/9IiSgiq4h4siTIS9H3o4nZ3h5L9.jpg",
+      "release_date": "1994-10-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.373,
+      "vote_count": 2795
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4byUSbNrjqCSjqVYrJU6AxqyZYr.jpg",
+      "genre_ids": [
+        14,
+        35,
+        10751
+      ],
+      "id": 888,
+      "title": "The Flintstones",
+      "original_language": "en",
+      "original_title": "The Flintstones",
+      "overview": "Modern Stone Age family the Flintstones hit the big screen in this live-action version of the classic cartoon. Fred helps Barney adopt a child. Barney sees an opportunity to repay him when Slate Mining tests its employees to find a new executive. But no good deed goes unpunished.",
+      "popularity": 6.2626,
+      "poster_path": "/k7gkf5Wa8YZ9iyEOylBMfw9pnkp.jpg",
+      "release_date": "1994-05-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.378,
+      "vote_count": 2646
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rZBc0S32bVNYOGJ5sKYsHhOwIT5.jpg",
+      "genre_ids": [
+        35,
+        80
+      ],
+      "id": 36593,
+      "title": "Naked Gun 33⅓: The Final Insult",
+      "original_language": "en",
+      "original_title": "Naked Gun 33⅓: The Final Insult",
+      "overview": "Frank Drebin is persuaded out of retirement to go undercover in a state prison. There he has to find out what top terrorist, Rocco, has planned for when he escapes. Adding to his problems, Frank's wife, Jane, is desperate for a baby.",
+      "popularity": 7.0372,
+      "poster_path": "/p0AYsdgkudR9P5fNV5AjzbwQt8W.jpg",
+      "release_date": "1994-03-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.518,
+      "vote_count": 2565
+    }
+  ],
+  "total_pages": 12,
+  "total_results": 232
+}

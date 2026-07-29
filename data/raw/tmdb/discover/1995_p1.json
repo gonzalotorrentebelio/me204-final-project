@@ -1,0 +1,424 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/i5H7zusQGsysGQ8i6P361Vnr0n2.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        53
+      ],
+      "id": 807,
+      "title": "Se7en",
+      "original_language": "en",
+      "original_title": "Se7en",
+      "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+      "popularity": 30.9002,
+      "poster_path": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+      "release_date": "1995-09-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 23390
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+      "genre_ids": [
+        10751,
+        35,
+        16,
+        12
+      ],
+      "id": 862,
+      "title": "Toy Story",
+      "original_language": "en",
+      "original_title": "Toy Story",
+      "overview": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+      "popularity": 45.0292,
+      "poster_path": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+      "release_date": "1995-11-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.984,
+      "vote_count": 20222
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hy0Hx9fMPk2fmw26Li60z1S2giU.jpg",
+      "genre_ids": [
+        18,
+        80,
+        53
+      ],
+      "id": 629,
+      "title": "The Usual Suspects",
+      "original_language": "en",
+      "original_title": "The Usual Suspects",
+      "overview": "Held in an L.A. interrogation room, Verbal Kint attempts to convince the feds that a mythic crime lord, Keyser Soze, not only exists, but was also responsible for drawing him and his four partners into a multi-million dollar heist that ended with an explosion in San Pedro harbor – leaving few survivors. Verbal lures his interrogators with an incredible story of the crime lord's almost supernatural prowess.",
+      "popularity": 17.8268,
+      "poster_path": "/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+      "release_date": "1995-07-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.166,
+      "vote_count": 11539
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qSxeCfWUUyht9hZgaaYmtPtTkw2.jpg",
+      "genre_ids": [
+        12,
+        14,
+        10751
+      ],
+      "id": 8844,
+      "title": "Jumanji",
+      "original_language": "en",
+      "original_title": "Jumanji",
+      "overview": "When siblings Judy and Peter discover an enchanted board game that opens the door to a magical world, they unwittingly invite Alan -- an adult who's been trapped inside the game for 26 years -- into their living room. Alan's only hope for freedom is to finish the game, which proves risky as all three find themselves running from giant rhinoceroses, evil monkeys and other terrifying creatures.",
+      "popularity": 3.9025,
+      "poster_path": "/bdHG5Mo83VPobeZZdlSz0Y7HQHB.jpg",
+      "release_date": "1995-12-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.249,
+      "vote_count": 11410
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1m1c5gIWWkb1FEC9lzsoXHhhs7b.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36,
+        10752
+      ],
+      "id": 197,
+      "title": "Braveheart",
+      "original_language": "en",
+      "original_title": "Braveheart",
+      "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+      "popularity": 14.2679,
+      "poster_path": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+      "release_date": "1995-05-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.945,
+      "vote_count": 11253
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mKIkGoyuR71qz6FdiEiOjxvBQcS.jpg",
+      "genre_ids": [
+        878,
+        53,
+        9648
+      ],
+      "id": 63,
+      "title": "Twelve Monkeys",
+      "original_language": "en",
+      "original_title": "Twelve Monkeys",
+      "overview": "In the year 2035, convict James Cole reluctantly volunteers to be sent back in time to discover the origin of a deadly virus that wiped out nearly all of the earth's population and forced the survivors into underground communities. But when Cole is mistakenly sent to 1990 instead of 1996, he's arrested and locked up in a mental hospital. There he meets psychiatrist Dr. Kathryn Railly and the son of a famous virus expert who may hold the key to the Army of the 12 Monkeys; thought to be responsible for unleashing the killer disease.",
+      "popularity": 11.2172,
+      "poster_path": "/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
+      "release_date": "1995-12-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.611,
+      "vote_count": 9232
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xKsnZDERG1dk95wuZ5q9iks3OL3.jpg",
+      "genre_ids": [
+        80,
+        18,
+        28
+      ],
+      "id": 949,
+      "title": "Heat",
+      "original_language": "en",
+      "original_title": "Heat",
+      "overview": "Obsessive master thief Neil McCauley leads a top-notch crew on various daring heists throughout Los Angeles while determined detective Vincent Hanna pursues him without rest. Each man recognizes and respects the ability and the dedication of the other even though they are aware their cat-and-mouse game may end in violence.",
+      "popularity": 17.7306,
+      "poster_path": "/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+      "release_date": "1995-12-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 8498
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wOLTJxfv98miIQcn0oNXq9fIgXM.jpg",
+      "genre_ids": [
+        28,
+        35,
+        80,
+        53
+      ],
+      "id": 9737,
+      "title": "Bad Boys",
+      "original_language": "en",
+      "original_title": "Bad Boys",
+      "overview": "Marcus Burnett is a henpecked family man. Mike Lowrey is a footloose and fancy free ladies' man. Both Miami policemen, they have 72 hours to reclaim a consignment of drugs stolen from under their station's nose. To complicate matters, in order to get the assistance of the sole witness to a murder, they have to pretend to be each other.",
+      "popularity": 13.5168,
+      "poster_path": "/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg",
+      "release_date": "1995-04-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 7031
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fBvSfLetWlAMevQVHa0nBDV1Fon.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1572,
+      "title": "Die Hard: With a Vengeance",
+      "original_language": "en",
+      "original_title": "Die Hard: With a Vengeance",
+      "overview": "New York detective John McClane is back and kicking bad-guy butt in the third installment of this action-packed series, which finds him teaming with civilian Zeus Carver to prevent the loss of innocent lives. McClane thought he'd seen it all, until a genius named Simon engages McClane, his new \"partner\" -- and his beloved city -- in a deadly game that demands their concentration.",
+      "popularity": 14.9506,
+      "poster_path": "/buqmCdFQEWwEpL3agGgg2GVjN2d.jpg",
+      "release_date": "1995-05-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.284,
+      "vote_count": 6743
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iZGiMD0p1M2AOmzKknFo5bkuz94.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 524,
+      "title": "Casino",
+      "original_language": "en",
+      "original_title": "Casino",
+      "overview": "In Las Vegas, two best friends--a casino executive and a Mafia enforcer--compete for a gambling empire and a fast-living, fast-loving socialite.",
+      "popularity": 8.5404,
+      "poster_path": "/gziIkUSnYuj9ChCi8qOu2ZunpSC.jpg",
+      "release_date": "1995-11-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 6626
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fDZ2DCKW2D7J0ABNr9EICdD2H1s.jpg",
+      "genre_ids": [
+        12,
+        16,
+        10751,
+        10749
+      ],
+      "id": 10530,
+      "title": "Pocahontas",
+      "original_language": "en",
+      "original_title": "Pocahontas",
+      "overview": "Pocahontas, daughter of a Native American tribe chief, falls in love with an English soldier as colonists invade 17th century Virginia.",
+      "popularity": 8.3528,
+      "poster_path": "/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg",
+      "release_date": "1995-06-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.915,
+      "vote_count": 6125
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/n0FDJI9c0uWiZwm8wgXVjaMBn96.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 568,
+      "title": "Apollo 13",
+      "original_language": "en",
+      "original_title": "Apollo 13",
+      "overview": "The true story of technical troubles that scuttle the Apollo 13 lunar mission in 1970, risking the lives of astronaut Jim Lovell and his crew, with the failed journey turning into a thrilling saga of heroism. Drifting more than 200,000 miles from Earth, the astronauts work furiously with the ground crew to avert tragedy.",
+      "popularity": 16.126,
+      "poster_path": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+      "release_date": "1995-06-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.463,
+      "vote_count": 6000
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/snlu32RmjldF9b068UURJg8sQtn.jpg",
+      "genre_ids": [
+        28,
+        80,
+        14
+      ],
+      "id": 414,
+      "title": "Batman Forever",
+      "original_language": "en",
+      "original_title": "Batman Forever",
+      "overview": "Batman faces off against two foes: the schizophrenic, horribly scarred former District Attorney Harvey Dent, aka Two-Face, and the Riddler, a disgruntled ex-Wayne Enterprises inventor seeking revenge against his former employer by unleashing his brain-sucking weapon on Gotham City's residents. As the caped crusader also copes with tortured memories of his parents' murder, he has a new romance, with psychologist Chase Meridian.",
+      "popularity": 7.3052,
+      "poster_path": "/i0fJS8M5UKoETjjJ0zwUiKaR8tr.jpg",
+      "release_date": "1995-06-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 5649
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sQPckU0TfSeYIlUneHfIXwzQC2f.jpg",
+      "genre_ids": [
+        14,
+        35,
+        10751
+      ],
+      "id": 8839,
+      "title": "Casper",
+      "original_language": "en",
+      "original_title": "Casper",
+      "overview": "Casper is a kind young ghost who peacefully haunts a mansion in Maine. When specialist James Harvey arrives to communicate with Casper and his fellow spirits, he brings along his teenage daughter, Kat. Casper quickly falls in love with Kat, but their budding relationship is complicated not only by his transparent state, but also by his troublemaking apparition uncles and their mischievous antics.",
+      "popularity": 6.8993,
+      "poster_path": "/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg",
+      "release_date": "1995-05-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.342,
+      "vote_count": 4977
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/65d0MccsiRSPTVicregKQL8owoo.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 9603,
+      "title": "Clueless",
+      "original_language": "en",
+      "original_title": "Clueless",
+      "overview": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other. Emboldened by her success, she decides to give hopelessly klutzy new student Tai a makeover. When Tai becomes more popular than she is, Cher realizes that her disapproving ex-stepbrother was right about how misguided she was -- and falls for him.",
+      "popularity": 7.3598,
+      "poster_path": "/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
+      "release_date": "1995-07-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.249,
+      "vote_count": 4848
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qA2TyqPldTtoTVY3LKrNIG5g6bH.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 76,
+      "title": "Before Sunrise",
+      "original_language": "en",
+      "original_title": "Before Sunrise",
+      "overview": "An unexpected meeting on a train leads two travelers to spend an evening wandering through Vienna. As the night unfolds, they share stories and conversations about life and love, exploring new ideas while a quiet intimacy grows between them, knowing it may be their only night together.",
+      "popularity": 15.3454,
+      "poster_path": "/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
+      "release_date": "1995-01-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.969,
+      "vote_count": 4756
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/h5Y9T4OoFpMrONhVBZvN2X2DfAB.jpg",
+      "genre_ids": [
+        80,
+        35,
+        12
+      ],
+      "id": 9273,
+      "title": "Ace Ventura: When Nature Calls",
+      "original_language": "en",
+      "original_title": "Ace Ventura: When Nature Calls",
+      "overview": "Summoned from an ashram in Tibet, Ace finds himself on a perilous journey into the jungles of Africa to find Shikaka, the missing sacred animal of the friendly Wachati tribe. He must accomplish this before the wedding of the Wachati's Princess to the prince of the warrior Wachootoos. If Ace fails, the result will be a vicious tribal war.",
+      "popularity": 7.1073,
+      "poster_path": "/wcinCf1ov2D6M3P7BBZkzQFOiIb.jpg",
+      "release_date": "1995-11-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.344,
+      "vote_count": 4622
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/viGCwLxupyoaLsa6hrnu1gYrB0B.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 406,
+      "title": "La Haine",
+      "original_language": "fr",
+      "original_title": "La Haine",
+      "overview": "After a chaotic night of rioting in a marginal suburb of Paris, three young friends, Vinz, Hubert and Saïd, wander around unoccupied waiting for news about the state of health of a mutual friend who has been seriously injured when confronting the police.",
+      "popularity": 9.0039,
+      "poster_path": "/hY4exng4s29RzDbtQInjx9MA3PZ.jpg",
+      "release_date": "1995-05-31",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.081,
+      "vote_count": 4609
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/84beTJf26mfhoasUlKSOiNSutyS.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 19404,
+      "title": "Dilwale Dulhania Le Jayenge",
+      "original_language": "hi",
+      "original_title": "दिलवाले दुल्हनिया ले जायेंगे",
+      "overview": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+      "popularity": 14.4335,
+      "poster_path": "/tFbfCkS7q6g96wVoAu8kyr93iPm.jpg",
+      "release_date": "1995-10-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.509,
+      "vote_count": 4604
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fIWsCpYR9iGDMSbMTSAzy8L7Kg5.jpg",
+      "genre_ids": [
+        12,
+        28,
+        53
+      ],
+      "id": 710,
+      "title": "GoldenEye",
+      "original_language": "en",
+      "original_title": "GoldenEye",
+      "overview": "When a powerful secret defense system is stolen, James Bond is assigned to stop a Russian crime syndicate from using it.",
+      "popularity": 8.3436,
+      "poster_path": "/z0ljRnNxIO7CRBhLEO0DvLgAFPR.jpg",
+      "release_date": "1995-11-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.906,
+      "vote_count": 4396
+    }
+  ],
+  "total_pages": 12,
+  "total_results": 237
+}

@@ -1,0 +1,426 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/1XAC6RPT01UX9EQGy2JVn5c8pgy.jpg",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "id": 671,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "original_language": "en",
+      "original_title": "Harry Potter and the Philosopher's Stone",
+      "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+      "popularity": 52.9315,
+      "poster_path": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+      "release_date": "2001-11-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.901,
+      "vote_count": 29878
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mWDdRXTivGE7aaY2vo1Ie0PfCX5.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "original_language": "en",
+      "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+      "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+      "popularity": 47.6819,
+      "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+      "release_date": "2001-12-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.439,
+      "vote_count": 27936
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        14
+      ],
+      "id": 585,
+      "title": "Monsters, Inc.",
+      "original_language": "en",
+      "original_title": "Monsters, Inc.",
+      "overview": "Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis. When a little girl named Boo wanders into their world, it's the monsters who are scared silly, and it's up to Sulley and Mike to keep her out of sight and get her back home.",
+      "popularity": 29.696,
+      "poster_path": "/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
+      "release_date": "2001-11-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.855,
+      "vote_count": 19993
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
+      "genre_ids": [
+        16,
+        35,
+        14,
+        12,
+        10751
+      ],
+      "id": 808,
+      "title": "Shrek",
+      "original_language": "en",
+      "original_title": "Shrek",
+      "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+      "popularity": 27.1228,
+      "poster_path": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+      "release_date": "2001-05-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.773,
+      "vote_count": 19018
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14
+      ],
+      "id": 129,
+      "title": "Spirited Away",
+      "original_language": "ja",
+      "original_title": "千と千尋の神隠し",
+      "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+      "popularity": 34.7412,
+      "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "release_date": "2001-07-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.534,
+      "vote_count": 18597
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+      "genre_ids": [
+        14,
+        18,
+        9648
+      ],
+      "id": 141,
+      "title": "Donnie Darko",
+      "original_language": "en",
+      "original_title": "Donnie Darko",
+      "overview": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
+      "popularity": 11.9192,
+      "poster_path": "/j2AtZFsflxiluaNtajMTI0Avm8C.jpg",
+      "release_date": "2001-01-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.762,
+      "vote_count": 13545
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ncoqdHs1poUaBqyKic9YI8ai7MP.jpg",
+      "genre_ids": [
+        53,
+        80
+      ],
+      "id": 161,
+      "title": "Ocean's Eleven",
+      "original_language": "en",
+      "original_title": "Ocean's Eleven",
+      "overview": "Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess.",
+      "popularity": 15.2462,
+      "poster_path": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "release_date": "2001-12-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.463,
+      "vote_count": 12694
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 194,
+      "title": "Amélie",
+      "original_language": "fr",
+      "original_title": "Le Fabuleux Destin d'Amélie Poulain",
+      "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
+      "popularity": 14.0223,
+      "poster_path": "/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg",
+      "release_date": "2001-04-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.92,
+      "vote_count": 12506
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 453,
+      "title": "A Beautiful Mind",
+      "original_language": "en",
+      "original_title": "A Beautiful Mind",
+      "overview": "From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experiences it all. As a brilliant but socially awkward mathematician, he made a groundbreaking discovery early in his career and stands on the brink of international acclaim. But as the handsome and arrogant Nash accepts secret work in cryptography, he becomes entangled in a mysterious conspiracy. His life takes a nightmarish turn and he soon finds himself on a painful and harrowing journey of self-discovery.",
+      "popularity": 13.9194,
+      "poster_path": "/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg",
+      "release_date": "2001-12-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.854,
+      "vote_count": 11197
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jY9ef5nqY4xIIMu3yzW3qamUCoi.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 9799,
+      "title": "The Fast and the Furious",
+      "original_language": "en",
+      "original_title": "The Fast and the Furious",
+      "overview": "Dominic Toretto is a Los Angeles street racer suspected of masterminding a series of big-rig hijackings. When undercover cop Brian O'Conner infiltrates Toretto's iconoclastic crew, he falls for Toretto's sister and must choose a side: the gang or the LAPD.",
+      "popularity": 1.4989,
+      "poster_path": "/gqY0ITBgT7A82poL9jv851qdnIb.jpg",
+      "release_date": "2001-06-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.012,
+      "vote_count": 10962
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8v8x4vVbRgrsdU3M4drnD7HQbfe.jpg",
+      "genre_ids": [
+        12,
+        53,
+        878
+      ],
+      "id": 331,
+      "title": "Jurassic Park III",
+      "original_language": "en",
+      "original_title": "Jurassic Park III",
+      "overview": "In need of funds for research, Dr. Alan Grant accepts a large sum of money to accompany Paul and Amanda Kirby on an aerial tour of the infamous Isla Sorna. It isn't long before all hell breaks loose and the stranded wayfarers must fight for survival as a host of new -- and even more deadly -- dinosaurs try to make snacks of them.",
+      "popularity": 0.5762,
+      "poster_path": "/oQXj4NUfS3r3gHXtDOzcJgj1lLc.jpg",
+      "release_date": "2001-07-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.178,
+      "vote_count": 7951
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7s7WkAFPBsMTprYMbqbgKoppQsR.jpg",
+      "genre_ids": [
+        12,
+        28,
+        14
+      ],
+      "id": 1734,
+      "title": "The Mummy Returns",
+      "original_language": "en",
+      "original_title": "The Mummy Returns",
+      "overview": "Rick and Evelyn O’Connell, along with their 8-year-old son Alex, discover the key to the legendary Scorpion King’s might: the fabled Bracelet of Anubis. Unfortunately, a newly resurrected Imhotep has designs on the bracelet as well, and isn’t above kidnapping its new bearer, Alex, to gain control of Anubis’s otherworldly army.",
+      "popularity": 16.735,
+      "poster_path": "/kdJsW7hcy1lrj7tdMPycTAQPAiR.jpg",
+      "release_date": "2001-05-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.412,
+      "vote_count": 7780
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rbBe9WQ1OqCxzgwskOTnaY6JdUA.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "id": 1933,
+      "title": "The Others",
+      "original_language": "en",
+      "original_title": "The Others",
+      "overview": "Grace is a woman who lives in an old house kept dark because her two children, Anne and Nicholas, have a rare sensitivity to light. When the family begins to suspect the house is haunted, Grace fights to protect her children at any cost in the face of strange events and disturbing visions.",
+      "popularity": 10.8153,
+      "poster_path": "/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg",
+      "release_date": "2001-08-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.617,
+      "vote_count": 7290
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/g9ClaS5EqU0Hk8WIbMNhld0Bk6f.jpg",
+      "genre_ids": [
+        53,
+        18,
+        9648
+      ],
+      "id": 1018,
+      "title": "Mulholland Drive",
+      "original_language": "en",
+      "original_title": "Mulholland Drive",
+      "overview": "Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.",
+      "popularity": 11.1035,
+      "poster_path": "/x7A59t6ySylr1L7aubOQEA480vM.jpg",
+      "release_date": "2001-06-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 7137
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zv1xOEQzebKyku349qDZ085FZlO.jpg",
+      "genre_ids": [
+        10752,
+        36,
+        18
+      ],
+      "id": 676,
+      "title": "Pearl Harbor",
+      "original_language": "en",
+      "original_title": "Pearl Harbor",
+      "overview": "The lifelong friendship between Rafe McCawley and Danny Walker is put to the ultimate test when the two ace fighter pilots become entangled in a love triangle with beautiful Naval nurse Evelyn Johnson. But the rivalry between the friends-turned-foes is immediately put on hold when they find themselves at the center of Japan's devastating attack on Pearl Harbor on Dec. 7, 1941.",
+      "popularity": 10.3355,
+      "poster_path": "/y8A0Cvp8WQmZ3bjbnsL53lY0dsC.jpg",
+      "release_date": "2001-05-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.935,
+      "vote_count": 7082
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/n7p6UTAZtkeoHkwCO42BEQaMFJY.jpg",
+      "genre_ids": [
+        18,
+        878,
+        12
+      ],
+      "id": 644,
+      "title": "A.I. Artificial Intelligence",
+      "original_language": "en",
+      "original_title": "A.I. Artificial Intelligence",
+      "overview": "David, a robotic boy—the first of his kind programmed to love—is adopted as a test case by a Cybertronics employee and his wife. Though he gradually becomes their child, a series of unexpected circumstances make this life impossible for David.",
+      "popularity": 9.9091,
+      "poster_path": "/8MZSGX5JORoO72EfuAEcejH5yHn.jpg",
+      "release_date": "2001-06-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.066,
+      "vote_count": 6740
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nuO8o9ltxhI7AZQxePavEZ4TyHa.jpg",
+      "genre_ids": [
+        28,
+        80,
+        18
+      ],
+      "id": 2034,
+      "title": "Training Day",
+      "original_language": "en",
+      "original_title": "Training Day",
+      "overview": "On his first day on the job as a narcotics officer, a rookie cop works with a rogue detective who isn't what he appears.",
+      "popularity": 8.7138,
+      "poster_path": "/bUeiwBQdupBLQthMCHKV7zv56uv.jpg",
+      "release_date": "2001-10-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 6693
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bL41GVWvp4YJDJ50PDcxaN4cds9.jpg",
+      "genre_ids": [
+        12,
+        28,
+        14
+      ],
+      "id": 1995,
+      "title": "Lara Croft: Tomb Raider",
+      "original_language": "en",
+      "original_title": "Lara Croft: Tomb Raider",
+      "overview": "Orphaned heiress, English aristocrat and intrepid archaeologist, Lara Croft, embarks on a dangerous quest to retrieve the two halves of an ancient artifact which controls time before it falls into the wrong hands. As an extremely rare planetary alignment is about to occur for the first time in 5,000 years, the fearless tomb raider will have to team up with rival adventurers and sworn enemies to collect the pieces, while time is running out. But, in the end, who can harness the archaic talisman's unlimited power?",
+      "popularity": 7.8188,
+      "poster_path": "/sJpl1EfHGZhbKtZ3fWTlwrpM1tH.jpg",
+      "release_date": "2001-06-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.917,
+      "vote_count": 6582
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7jaNOECZG8uS1tlq69HsY5xY8P9.jpg",
+      "genre_ids": [
+        28,
+        10752,
+        36
+      ],
+      "id": 855,
+      "title": "Black Hawk Down",
+      "original_language": "en",
+      "original_title": "Black Hawk Down",
+      "overview": "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+      "popularity": 16.5287,
+      "poster_path": "/7fU5dSqKRL4XHeEUz62rCKBfYok.jpg",
+      "release_date": "2001-12-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.395,
+      "vote_count": 6452
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9rSpxsMhG1FnFtUDdvSAXdtLtb3.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        18
+      ],
+      "id": 634,
+      "title": "Bridget Jones's Diary",
+      "original_language": "en",
+      "original_title": "Bridget Jones's Diary",
+      "overview": "Bridget Jones is an average woman struggling against expectations. As a New Year's resolution, Bridget decides to take control of her life, starting by keeping a diary in which she will always tell the complete truth. Her charming boss takes an interest in her, and she cannot stop running into a rather disagreeable acquaintance whom Bridget cannot help finding quietly attractive.",
+      "popularity": 11.5575,
+      "poster_path": "/olMTi7uCaec9Yr3Ar07D2SIja1G.jpg",
+      "release_date": "2001-04-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.742,
+      "vote_count": 5555
+    }
+  ],
+  "total_pages": 16,
+  "total_results": 313
+}

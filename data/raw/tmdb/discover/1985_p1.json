@@ -1,0 +1,422 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+      "genre_ids": [
+        12,
+        35,
+        878
+      ],
+      "id": 105,
+      "title": "Back to the Future",
+      "original_language": "en",
+      "original_title": "Back to the Future",
+      "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+      "popularity": 30.5209,
+      "poster_path": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+      "release_date": "1985-07-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.327,
+      "vote_count": 22048
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kjVgUMsG0PKBXzlP8HGNQpWDxAX.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 2108,
+      "title": "The Breakfast Club",
+      "original_language": "en",
+      "original_title": "The Breakfast Club",
+      "overview": "Five high school students from different walks of life endure a Saturday detention under a power-hungry principal. The disparate group includes rebel John, princess Claire, outcast Allison, brainy Brian and Andrew, the jock. Each has a chance to tell his or her story, making the others see them a little differently -- and when the day ends, they question whether school will ever be the same.",
+      "popularity": 8.4532,
+      "poster_path": "/gp4zlj7wgbiofLMNsTPndMuO3PN.jpg",
+      "release_date": "1985-02-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.719,
+      "vote_count": 8604
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5qsyqA7FeYRymBmNbPBqBgqWPO4.jpg",
+      "genre_ids": [
+        12,
+        35,
+        10751
+      ],
+      "id": 9340,
+      "title": "The Goonies",
+      "original_language": "en",
+      "original_title": "The Goonies",
+      "overview": "Young teen Mikey Walsh and his friends set off on a quest to find Pirate One-Eyed Willie's treasure in hopes of saving their homes from demolition. However, on their quest to find the treasure, they run into a family of recently escaped criminals, determined to capture the kids and reach the treasure first.",
+      "popularity": 10.4491,
+      "poster_path": "/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+      "release_date": "1985-06-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.515,
+      "vote_count": 6297
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uiUb4KJ6tadldqlJme49TW1r3jA.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1374,
+      "title": "Rocky IV",
+      "original_language": "en",
+      "original_title": "Rocky IV",
+      "overview": "Rocky Balboa holds the world heavyweight championship, but a new challenger has stepped forward: Drago, a six-foot-four, 261-pound fighter who has the backing of the Soviet Union. This time, Rocky's training regimen takes him to Siberia, where he prepares for a globally televised match in the heart of Moscow. But nothing can truly prepare him for what he's about to face – a fight to the finish, in which he must defend not only himself, but also the honor of his country!",
+      "popularity": 9.2206,
+      "poster_path": "/2MHUit4H6OK5adcOjnCN6suCKOl.jpg",
+      "release_date": "1985-11-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.099,
+      "vote_count": 4883
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aPlgkT2FlD7EcE6Vi10I4RTzRqb.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53,
+        10752
+      ],
+      "id": 1369,
+      "title": "Rambo: First Blood Part II",
+      "original_language": "en",
+      "original_title": "Rambo: First Blood Part II",
+      "overview": "John Rambo is released from prison by the government for a top-secret covert mission to the last place on Earth he'd want to return - the jungles of Vietnam.",
+      "popularity": 9.3129,
+      "poster_path": "/fVwRtWqEPdsCH21BVDGqgkAQcff.jpg",
+      "release_date": "1985-05-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 4375
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9IYyCLf5NNAQFK9pNtqzEU9HWzM.jpg",
+      "genre_ids": [
+        35,
+        878
+      ],
+      "id": 68,
+      "title": "Brazil",
+      "original_language": "en",
+      "original_title": "Brazil",
+      "overview": "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-day life through a recurring daydream of himself as a virtuous hero saving a beautiful damsel. Investigating a case that led to the wrongful arrest and eventual death of an innocent man instead of wanted terrorist Harry Tuttle, he meets the woman from his daydream, and in trying to help her gets caught in a web of mistaken identities, mindless bureaucracy and lies.",
+      "popularity": 6.0939,
+      "poster_path": "/aewan59WcFThBimkTVVoNf2o5Vb.jpg",
+      "release_date": "1985-02-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 3753
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/br1zDvgmBPa1EbBrUmEDaXXgykq.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 9355,
+      "title": "Mad Max Beyond Thunderdome",
+      "original_language": "en",
+      "original_title": "Mad Max Beyond Thunderdome",
+      "overview": "Mad Max becomes a pawn in a decadent oasis of a technological society, and when exiled, becomes the deliverer of a colony of children.",
+      "popularity": 6.4068,
+      "poster_path": "/jJlxcEVVUHnrUeEkQ0077VeHQpb.jpg",
+      "release_date": "1985-06-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.226,
+      "vote_count": 3304
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gvao0WZchzudp2oMF5sjgzwHY0q.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 10999,
+      "title": "Commando",
+      "original_language": "en",
+      "original_title": "Commando",
+      "overview": "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she's killed.",
+      "popularity": 8.6718,
+      "poster_path": "/ollPAAAgZ7euU8VisfqU3cuXhZ6.jpg",
+      "release_date": "1985-10-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.706,
+      "vote_count": 3186
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tu5IcNPo99rJkIgNwKZqPYQ2MiY.jpg",
+      "genre_ids": [
+        27,
+        14,
+        10749
+      ],
+      "id": 403587,
+      "title": "Return",
+      "original_language": "en",
+      "original_title": "Return",
+      "overview": "After reading an article about hypnotic regression, a woman whose maternal grandfather died when she was only three years old contacts the hypnotic subject named in the article believing that he is the reincarnation of her grandfather, and hoping that she can learn the truth about how he died.",
+      "popularity": 0.6032,
+      "poster_path": "/54QOkHWUnn3gDZKfGojPiFqTHJD.jpg",
+      "release_date": "1985-10-31",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.141,
+      "vote_count": 2701
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1FrQyuhqvQm5G1SqTEgpZtrkitd.jpg",
+      "genre_ids": [
+        35,
+        27,
+        878
+      ],
+      "id": 10925,
+      "title": "The Return of the Living Dead",
+      "original_language": "en",
+      "original_title": "The Return of the Living Dead",
+      "overview": "Two employees at a medical supply warehouse accidentally release a toxic gas from a misplaced top-secret U.S. Army shipment, causing the dead to rise from a nearby cemetery with an insatiable hunger for human brains.",
+      "popularity": 4.8658,
+      "poster_path": "/oNsV9BychAe4Sk6xFKp558Rlpyz.jpg",
+      "release_date": "1985-04-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 2322
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hvGWyyC8wER1I8ExSXNtFBs7Mgd.jpg",
+      "genre_ids": [
+        12,
+        28,
+        53
+      ],
+      "id": 707,
+      "title": "A View to a Kill",
+      "original_language": "en",
+      "original_title": "A View to a Kill",
+      "overview": "A newly-developed microchip designed by Zorin Industries for the British Government that can survive the electromagnetic radiation caused by a nuclear explosion has landed in the hands of the KGB. James Bond must find out how and why. His suspicions soon lead him to big industry leader Max Zorin who forms a plan to destroy his only competition in Silicon Valley by triggering a massive earthquake in the San Francisco Bay.",
+      "popularity": 6.5698,
+      "poster_path": "/arJF829RP9cYvh0NU70dC5TtXSa.jpg",
+      "release_date": "1985-05-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.255,
+      "vote_count": 2231
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8cxB1CiiODiWFayDPxLsAeviZvc.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 10014,
+      "title": "A Nightmare on Elm Street Part 2: Freddy's Revenge",
+      "original_language": "en",
+      "original_title": "A Nightmare on Elm Street Part 2: Freddy's Revenge",
+      "overview": "A teenage boy is haunted in his dreams by deceased child murderer Freddy Krueger, who is out to possess him in order to continue his reign of terror in the real world.",
+      "popularity": 5.2778,
+      "poster_path": "/53kxYw0G3o55yJ23K7s7KMaOyAM.jpg",
+      "release_date": "1985-11-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 2141
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lh6MbyxwCribn3hdAo81xLdPGoV.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 873,
+      "title": "The Color Purple",
+      "original_language": "en",
+      "original_title": "The Color Purple",
+      "overview": "An epic tale spanning forty years in the life of Celie, an African-American woman living in the South who survives incredible abuse and bigotry. After Celie's abusive father marries her off to the equally debasing 'Mister' Albert Johnson, things go from bad to worse, leaving Celie to find companionship anywhere she can. She perseveres, holding on to her dream of one day being reunited with her sister in Africa.",
+      "popularity": 4.564,
+      "poster_path": "/6bvxkcTAXyqxGRwo38mxw92D6Xr.jpg",
+      "release_date": "1985-12-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.725,
+      "vote_count": 2004
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rsclb1vtH6IkxmVBuCC37biEBT.jpg",
+      "genre_ids": [
+        35,
+        53,
+        80,
+        9648
+      ],
+      "id": 15196,
+      "title": "Clue",
+      "original_language": "en",
+      "original_title": "Clue",
+      "overview": "Clue finds six colorful dinner guests gathered at the mansion of their host, Mr. Boddy -- who turns up dead after his secret is exposed: He was blackmailing all of them. With the killer among them, the guests and Boddy's chatty butler must suss out the culprit before the body count rises.",
+      "popularity": 5.6093,
+      "poster_path": "/aRxbYOYHS8T73nzR8hsLousoplR.jpg",
+      "release_date": "1985-12-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.209,
+      "vote_count": 1993
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aDn3wL0ObbA5TCn5ZLri9xI2kUZ.jpg",
+      "genre_ids": [
+        80,
+        18,
+        53
+      ],
+      "id": 9281,
+      "title": "Witness",
+      "original_language": "en",
+      "original_title": "Witness",
+      "overview": "While protecting an Amish boy—the sole witness to a brutal murder—and his mother, a detective is forced to seek refuge within their community when his own life comes under threat.",
+      "popularity": 4.5572,
+      "poster_path": "/kOymD1rChAMykmDVEzJpIh4OYS7.jpg",
+      "release_date": "1985-02-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.09,
+      "vote_count": 1920
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3Na31ta8vDuKOgQuPLdSZLs8bCB.jpg",
+      "genre_ids": [
+        18,
+        10752,
+        27,
+        36
+      ],
+      "id": 25237,
+      "title": "Come and See",
+      "original_language": "ru",
+      "original_title": "Иди и смотри",
+      "overview": "The invasion of a village in Belarus by German forces sends young Florya into the forest to join the weary Resistance fighters, against his family's wishes. There he meets a girl, Glasha, who accompanies him back to his village. On returning home, Florya finds his family and fellow peasants massacred. His continued survival amidst the brutal debris of war becomes increasingly nightmarish, a battle between despair and hope.",
+      "popularity": 5.9893,
+      "poster_path": "/qNbMsKVzigERgJUbwf8pKyZogpb.jpg",
+      "release_date": "1985-10-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.207,
+      "vote_count": 1881
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3ssNAWypRl47iriwBFNx7RUEUub.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36
+      ],
+      "id": 11645,
+      "title": "Ran",
+      "original_language": "ja",
+      "original_title": "乱",
+      "overview": "Shakespeare's King Lear is reimagined as a singular historical epic set in sixteenth-century Japan where an aging warlord divides his kingdom between his three sons.",
+      "popularity": 6.9083,
+      "poster_path": "/dGgiXMWDcS5aJTBEFu7bmaQPNox.jpg",
+      "release_date": "1985-06-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 1852
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tV2KZZR5JaqTSXiNKowGqQMQtex.jpg",
+      "genre_ids": [
+        35,
+        53,
+        18
+      ],
+      "id": 10843,
+      "title": "After Hours",
+      "original_language": "en",
+      "original_title": "After Hours",
+      "overview": "Desperate to escape his mind-numbing routine, uptown Manhattan office worker Paul Hackett ventures downtown for a hookup with a mystery woman.",
+      "popularity": 4.3648,
+      "poster_path": "/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg",
+      "release_date": "1985-09-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.49,
+      "vote_count": 1779
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2xpxgucXMQRfzlkumna1DXsxFPk.jpg",
+      "genre_ids": [
+        35,
+        80
+      ],
+      "id": 10157,
+      "title": "Police Academy 2: Their First Assignment",
+      "original_language": "en",
+      "original_title": "Police Academy 2: Their First Assignment",
+      "overview": "Officer Carey Mahoney and his cohorts have finally graduated from the Police Academy and are about to hit the streets on their first assignment. Question is, are they ready to do battle with a band of graffiti-tagging terrorists? Time will tell, but don't sell short this cheerful band of doltish boys in blue.",
+      "popularity": 4.5418,
+      "poster_path": "/cIyvBInW2aGms0zyV9Pgwp9UPJ4.jpg",
+      "release_date": "1985-03-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.099,
+      "vote_count": 1748
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ogojPeWqjHBVUGCPGhfMxyQJLZ7.jpg",
+      "genre_ids": [
+        878,
+        35,
+        27
+      ],
+      "id": 1694,
+      "title": "Re-Animator",
+      "original_language": "en",
+      "original_title": "Re-Animator",
+      "overview": "Conducting clandestine experiments within the morgue at Miskatonic University, scientist Herbert West reveals to a fellow graduate student his groundbreaking work concerning the re-animation of fresh corpses.",
+      "popularity": 5.3862,
+      "poster_path": "/7FYhY70LTumoFfQgTI8TK0UDdsF.jpg",
+      "release_date": "1985-10-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.054,
+      "vote_count": 1697
+    }
+  ],
+  "total_pages": 9,
+  "total_results": 175
+}

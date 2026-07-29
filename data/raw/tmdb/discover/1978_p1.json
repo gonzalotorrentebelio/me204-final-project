@@ -1,0 +1,408 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/2SRJMIoJzABzgyGw01U6VbQbvJD.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "id": 621,
+      "title": "Grease",
+      "original_language": "en",
+      "original_title": "Grease",
+      "overview": "Australian good girl Sandy and greaser Danny fell in love over the summer. But when they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance despite their eccentric friends?",
+      "popularity": 9.5329,
+      "poster_path": "/2rM7fQKpb7cs1Iq7IBqub9LFDzJ.jpg",
+      "release_date": "1978-06-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.367,
+      "vote_count": 7724
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sHI9xlFRWCJ38AIIfOqnGjuEvXz.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 948,
+      "title": "Halloween",
+      "original_language": "en",
+      "original_title": "Halloween",
+      "overview": "Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+      "popularity": 12.6487,
+      "poster_path": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+      "release_date": "1978-10-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.561,
+      "vote_count": 6253
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/p2zBTOd4JdmNhkRWHmjKg7hk3s1.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 1924,
+      "title": "Superman",
+      "original_language": "en",
+      "original_title": "Superman",
+      "overview": "Mild-mannered Clark Kent works as a reporter at the Daily Planet alongside his crush, Lois Lane. Clark must summon his superhero alter-ego when the nefarious Lex Luthor launches a plan to take over the world.",
+      "popularity": 10.3213,
+      "poster_path": "/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+      "release_date": "1978-12-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.163,
+      "vote_count": 4341
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/a5zBQfXmLk3qqRYF7AioWpiAxk2.jpg",
+      "genre_ids": [
+        18,
+        10752
+      ],
+      "id": 11778,
+      "title": "The Deer Hunter",
+      "original_language": "en",
+      "original_title": "The Deer Hunter",
+      "overview": "Three steelworkers enlist in the army and are sent to Vietnam, one leaving behind a rushed marriage, the others a shared love. What they encounter during the war changes their lives forever.",
+      "popularity": 7.9658,
+      "poster_path": "/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+      "release_date": "1978-12-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.968,
+      "vote_count": 4306
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg",
+      "genre_ids": [
+        27,
+        878
+      ],
+      "id": 923,
+      "title": "Dawn of the Dead",
+      "original_language": "en",
+      "original_title": "Dawn of the Dead",
+      "overview": "During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.",
+      "popularity": 4.8884,
+      "poster_path": "/70MY8H0bLMvXf8ED2SgVMPhDVVM.jpg",
+      "release_date": "1978-09-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 2330
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/q46nyik6GeDkUV6wQGiZQ97UuP6.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 579,
+      "title": "Jaws 2",
+      "original_language": "en",
+      "original_title": "Jaws 2",
+      "overview": "Police chief Brody must protect the citizens of Amity after a second monstrous shark begins terrorizing the waters.",
+      "popularity": 6.8452,
+      "poster_path": "/cN3ijEwsn4kBaRuHfcJpAQJbeWe.jpg",
+      "release_date": "1978-06-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.044,
+      "vote_count": 2151
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/f4dcx5U9X3w27e8iithmsaohF5t.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 11327,
+      "title": "Midnight Express",
+      "original_language": "en",
+      "original_title": "Midnight Express",
+      "overview": "Billy Hayes is caught attempting to smuggle drugs out of a country. The courts decide to make an example of him, sentencing him to more than 30 years in prison. Hayes has two opportunities for release: the appeals made by his lawyer, his family, and the American government, or the \"Midnight Express\".",
+      "popularity": 6.6245,
+      "poster_path": "/6GXioArQEdxcYqOcEfMdpyJPlwx.jpg",
+      "release_date": "1978-08-31",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.445,
+      "vote_count": 1915
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2fmLLKSEzdfk41Iz76ewoKhyWgb.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 8469,
+      "title": "Animal House",
+      "original_language": "en",
+      "original_title": "Animal House",
+      "overview": "At a 1962 College, Dean Vernon Wormer is determined to expel the entire Delta Tau Chi Fraternity, but those troublemakers have other plans for him.",
+      "popularity": 5.0976,
+      "poster_path": "/fWooBbipMRIKeSRhEzmeaDV0T8H.jpg",
+      "release_date": "1978-07-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.952,
+      "vote_count": 1686
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lyHnFsWafILUlizalpCSikJT7Ui.jpg",
+      "genre_ids": [
+        878,
+        27
+      ],
+      "id": 11850,
+      "title": "Invasion of the Body Snatchers",
+      "original_language": "en",
+      "original_title": "Invasion of the Body Snatchers",
+      "overview": "The residents of San Francisco are becoming drone-like shadows of their former selves, and as the phenomenon spreads, two Department of Health workers uncover the horrifying truth.",
+      "popularity": 5.1413,
+      "poster_path": "/skS02wdeH2C0nrbCQP3qKwJdZtZ.jpg",
+      "release_date": "1978-12-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 1353
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zUqIL6H6d44se9ZOsfvvCuOsbap.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 16642,
+      "title": "Days of Heaven",
+      "original_language": "en",
+      "original_title": "Days of Heaven",
+      "overview": "In 1916, a Chicago steel worker accidentally kills his supervisor and flees to the Texas panhandle with his girlfriend and little sister to work harvesting wheat in the fields of a stoic farmer.",
+      "popularity": 3.6909,
+      "poster_path": "/rwxTYjOZmX2rGhz7avLe1qsjNqe.jpg",
+      "release_date": "1978-09-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.479,
+      "vote_count": 1192
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oxQJT3CCwxRRDgnPUZvT6xmts61.jpg",
+      "genre_ids": [
+        28,
+        35
+      ],
+      "id": 11230,
+      "title": "Drunken Master",
+      "original_language": "cn",
+      "original_title": "醉拳",
+      "overview": "After getting into trouble, a mischievous young man is sent to train under a brutal, but slovenly old beggar, who teaches him the secret of the Drunken Fist.",
+      "popularity": 6.9166,
+      "poster_path": "/cf43J2SH8tECZVl9N5n0Q6Ckche.jpg",
+      "release_date": "1978-10-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.382,
+      "vote_count": 1142
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/TXSxV23MWYkezZ3219gtgcSX6n.jpg",
+      "genre_ids": [
+        12,
+        16,
+        14
+      ],
+      "id": 123,
+      "title": "The Lord of the Rings",
+      "original_language": "en",
+      "original_title": "The Lord of the Rings",
+      "overview": "Young Hobbit Frodo Baggins is thrown into an amazing adventure when he's tasked with destroying the One Ring, created by the dark lord Sauron. Frodo must travel in a small fellowship of nine warriors and accomplices. But it won't be an easy journey for the Fellowship of the Ring, on the ultimate quest to rid Middle-earth of evil.",
+      "popularity": 4.4447,
+      "poster_path": "/liW0mjvTyLs7UCumaHhx3PpU4VT.jpg",
+      "release_date": "1978-11-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.59,
+      "vote_count": 1063
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tf2mugFR3vWCuuUQt2hYRfr73vj.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 11183,
+      "title": "French Fried Vacation",
+      "original_language": "fr",
+      "original_title": "Les Bronzés",
+      "overview": "Holidaymakers arriving in a Club Med camp on the Ivory Coast are determined to forget their everyday problems and emotional disappointments. Games, competitions, outings, bathing and sunburn accompany a continual succession of casual affairs.",
+      "popularity": 1.9829,
+      "poster_path": "/cj82wH8irxpCijTQWIASfYkQylw.jpg",
+      "release_date": "1978-11-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.599,
+      "vote_count": 954
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/esdhJI8DcJuRJooQ7pAtK2ekNqE.jpg",
+      "genre_ids": [
+        9648
+      ],
+      "id": 4192,
+      "title": "Death on the Nile",
+      "original_language": "en",
+      "original_title": "Death on the Nile",
+      "overview": "As Hercule Poirot enjoys a luxurious cruise down the Nile, a newlywed heiress is found murdered on board and every elegant passenger becomes a prime suspect.",
+      "popularity": 12.3291,
+      "poster_path": "/7qEymSp6wCT19AJxb7T3u6aKpi1.jpg",
+      "release_date": "1978-09-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.144,
+      "vote_count": 921
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8zVl291s1qXqc5LrQBByZcqxSNJ.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 10766,
+      "title": "Damien - Omen II",
+      "original_language": "en",
+      "original_title": "Damien - Omen II",
+      "overview": "Since the sudden and suspicious deaths of his parents, young Damien has been in the charge of his wealthy aunt and uncle and enrolled in a military school. Widely feared to be the Antichrist, he relentlessly plots to seize control of his uncle's business empire — and the world.",
+      "popularity": 3.7301,
+      "poster_path": "/nZBPvfAgy0GBTEw9YxAuWhoPj96.jpg",
+      "release_date": "1978-06-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 832
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xWTFlDi5ktVBU7fHELDx7pLaYQS.jpg",
+      "genre_ids": [
+        27,
+        878,
+        35
+      ],
+      "id": 24831,
+      "title": "Piranha",
+      "original_language": "en",
+      "original_title": "Piranha",
+      "overview": "When flesh-eating piranhas are accidentally released into a summer resort's rivers, the guests become their next meal.",
+      "popularity": 2.5812,
+      "poster_path": "/oaz0Le3fT3R8jzlkXkNV7JAsd7x.jpg",
+      "release_date": "1978-08-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.958,
+      "vote_count": 756
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/Ae2fAp4SjKVsobi2RTb0Xl8yoY1.jpg",
+      "genre_ids": [
+        18,
+        28,
+        53
+      ],
+      "id": 13333,
+      "title": "Game of Death",
+      "original_language": "cn",
+      "original_title": "死亡遊戲",
+      "overview": "A martial arts movie star must fake his death to find the people who are trying to kill him.",
+      "popularity": 7.9271,
+      "poster_path": "/c6jgLHaQpdIPH1rC94KkjAqgE7O.jpg",
+      "release_date": "1978-03-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 744
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2W8iYJBSA25ENrM25GbVO4EiWAO.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 25239,
+      "title": "Day of the Woman",
+      "original_language": "en",
+      "original_title": "Day of the Woman",
+      "overview": "A young, beautiful career woman rents a backwoods cabin to write her first novel. Attacked by a group of local lowlifes and left for dead, she devises a horrific plan to inflict revenge.",
+      "popularity": 5.1509,
+      "poster_path": "/nMCkOo26GtISoxJmpkTAJyMqBO8.jpg",
+      "release_date": "1978-11-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.02,
+      "vote_count": 726
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ozNapY9iczRr6FYKRbLLM00szCW.jpg",
+      "genre_ids": [
+        18,
+        10402
+      ],
+      "id": 12761,
+      "title": "Autumn Sonata",
+      "original_language": "sv",
+      "original_title": "Höstsonaten",
+      "overview": "After a seven-year absence, Charlotte Andergast travels to Sweden to reunite with her daughter Eva. The pair have a troubled relationship: Charlotte sacrificed the responsibilities of motherhood for a career as a classical pianist. Over an emotional night, the pair reopen the wounds of the past. Charlotte gets another shock when she finds out that her mentally impaired daughter, Helena, is out of the asylum and living with Eva.",
+      "popularity": 3.8063,
+      "poster_path": "/6beNbtCXv3GkzHkxkGYf38ib7v8.jpg",
+      "release_date": "1978-10-08",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.959,
+      "vote_count": 715
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sDaTPRwukICb6r9lwB1UiYFa2pW.jpg",
+      "genre_ids": [
+        12,
+        16,
+        18
+      ],
+      "id": 11837,
+      "title": "Watership Down",
+      "original_language": "en",
+      "original_title": "Watership Down",
+      "overview": "When the warren belonging to a community of rabbits is threatened, a brave group led by Fiver, Bigwig, Blackberry and Hazel leave their homeland in a search of a safe new haven.",
+      "popularity": 3.2875,
+      "poster_path": "/q9ZcNxfquJbMTd6UfhAlJbmLBts.jpg",
+      "release_date": "1978-10-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.206,
+      "vote_count": 715
+    }
+  ],
+  "total_pages": 5,
+  "total_results": 96
+}

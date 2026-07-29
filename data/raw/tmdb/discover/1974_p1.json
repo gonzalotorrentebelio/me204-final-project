@@ -1,0 +1,418 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 240,
+      "title": "The Godfather Part II",
+      "original_language": "en",
+      "original_title": "The Godfather Part II",
+      "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+      "popularity": 32.5481,
+      "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "release_date": "1974-12-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.571,
+      "vote_count": 14093
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pyvkujOZ5qvY2NlQVC71flfgVWE.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        53
+      ],
+      "id": 829,
+      "title": "Chinatown",
+      "original_language": "en",
+      "original_title": "Chinatown",
+      "overview": "Private eye Jake Gittes lives off of the murky moral climate of sunbaked, pre-World War II Southern California. Hired by a beautiful socialite to investigate her husband's extra-marital affair, Gittes is swept into a maelstrom of double dealings and deadly deceits, uncovering a web of personal and political scandals that come crashing together.",
+      "popularity": 6.1511,
+      "poster_path": "/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
+      "release_date": "1974-06-20",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.906,
+      "vote_count": 4315
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wvBx1Q1FcQE1BPLfBbgA3y9aaS1.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 30497,
+      "title": "The Texas Chain Saw Massacre",
+      "original_language": "en",
+      "original_title": "The Texas Chain Saw Massacre",
+      "overview": "Five friends head out to rural Texas to visit the grave of a grandfather. On the way, they stumble across what appears to be a deserted house, only to discover something sinister within. Something armed with a chainsaw.",
+      "popularity": 10.996,
+      "poster_path": "/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+      "release_date": "1974-10-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.291,
+      "vote_count": 3872
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rsI82F7DadIQcrZyPbuwmkhN5ty.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 3034,
+      "title": "Young Frankenstein",
+      "original_language": "en",
+      "original_title": "Young Frankenstein",
+      "overview": "A young neurosurgeon inherits the castle of his grandfather, the famous Dr. Victor von Frankenstein. In the castle he finds a funny hunchback, a pretty lab assistant and the elderly housekeeper. Young Frankenstein believes that the work of his grandfather was delusional, but when he discovers the book where the mad doctor described his reanimation experiment, he suddenly changes his mind.",
+      "popularity": 4.9127,
+      "poster_path": "/3BvvVKPg9yucChlSvQtJxAbLmj9.jpg",
+      "release_date": "1974-12-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.855,
+      "vote_count": 3435
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3tpNEbRahT8smy7RraaWa0xg9Gv.jpg",
+      "genre_ids": [
+        12,
+        28,
+        53
+      ],
+      "id": 682,
+      "title": "The Man with the Golden Gun",
+      "original_language": "en",
+      "original_title": "The Man with the Golden Gun",
+      "overview": "Cool government operative James Bond searches for a stolen invention that can turn the sun's heat into a destructive weapon. He soon crosses paths with the menacing Francisco Scaramanga, a hitman so skilled he has a seven-figure working fee. Bond then joins forces with the swimsuit-clad Mary Goodnight, and together they track Scaramanga to a Thai tropical isle hideout where the killer-for-hire lures the slick spy into a deadly maze for a final duel.",
+      "popularity": 5.9898,
+      "poster_path": "/xVkbKwGnBVNQ122GN5bCTMyPbWz.jpg",
+      "release_date": "1974-12-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.458,
+      "vote_count": 2315
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/syUzOlwPqM8pGRhUxPOnmrcGcHb.jpg",
+      "genre_ids": [
+        37,
+        35
+      ],
+      "id": 11072,
+      "title": "Blazing Saddles",
+      "original_language": "en",
+      "original_title": "Blazing Saddles",
+      "overview": "A town—where everyone seems to be named Johnson—stands in the way of the railroad. In order to grab their land, robber baron Hedley Lamarr sends his henchmen to make life in the town unbearable. After the sheriff is killed, the town demands a new sheriff from the Governor, so Hedley convinces him to send the town the first black sheriff in the west.",
+      "popularity": 5.6603,
+      "poster_path": "/vNw1gOEDdYTDeNMuuq8OmiEHrfH.jpg",
+      "release_date": "1974-02-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.245,
+      "vote_count": 2107
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/s7yfiwIshKQIT6M8ZcTnFKXHs8B.jpg",
+      "genre_ids": [
+        80,
+        18,
+        9648
+      ],
+      "id": 592,
+      "title": "The Conversation",
+      "original_language": "en",
+      "original_title": "The Conversation",
+      "overview": "A paranoid, secretive surveillance expert has a crisis of conscience when he suspects that the couple he is spying on will be murdered.",
+      "popularity": 3.4109,
+      "poster_path": "/dHqVBwcv1SGymOpUueRoKzcmdes.jpg",
+      "release_date": "1974-04-12",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.502,
+      "vote_count": 2057
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tAXK5R0ytrN2l2qgGfyxums5J0w.jpg",
+      "genre_ids": [
+        18,
+        53,
+        9648
+      ],
+      "id": 4176,
+      "title": "Murder on the Orient Express",
+      "original_language": "en",
+      "original_title": "Murder on the Orient Express",
+      "overview": "In 1935, when his train is stopped by deep snow, detective Hercule Poirot is called on to solve a murder that occurred in his car the night before.",
+      "popularity": 5.4126,
+      "poster_path": "/x7E9iNMi5iFTdUNJvEZ1x8YNEZ2.jpg",
+      "release_date": "1974-11-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.143,
+      "vote_count": 1596
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5rp9Jydh9RxrvVBW2lr27B8NYiT.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        80,
+        37
+      ],
+      "id": 3133,
+      "title": "Badlands",
+      "original_language": "en",
+      "original_title": "Badlands",
+      "overview": "An impressionable teenage girl from a dead-end town and her older greaser boyfriend embark on a killing spree in the South Dakota badlands.",
+      "popularity": 3.4592,
+      "poster_path": "/z81rBzHNgiNLean2JTGHgxjJ8nq.jpg",
+      "release_date": "1974-01-05",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 1368
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gT3hatcFDbZWUlLZ7TClRDhZ9Pa.jpg",
+      "genre_ids": [
+        28,
+        18,
+        53
+      ],
+      "id": 5919,
+      "title": "The Towering Inferno",
+      "original_language": "en",
+      "original_title": "The Towering Inferno",
+      "overview": "At the opening party of a colossal—but poorly constructed—skyscraper, a massive fire breaks out, threatening to destroy the tower and everyone in it.",
+      "popularity": 4.8051,
+      "poster_path": "/mFM1GbrRrT3DWUFFo8koSITFnYe.jpg",
+      "release_date": "1974-12-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.008,
+      "vote_count": 1049
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9blNOmgTobqZGpt9A3JbG0mpMi3.jpg",
+      "genre_ids": [
+        80,
+        18,
+        28
+      ],
+      "id": 13939,
+      "title": "Death Wish",
+      "original_language": "en",
+      "original_title": "Death Wish",
+      "overview": "After his wife is murdered by street punks, a pacifistic New York City architect becomes a one-man vigilante squad, prowling the streets for would-be muggers after dark.",
+      "popularity": 3.6659,
+      "poster_path": "/rNksI6UiuTgLtBy69WvKT1PrG0R.jpg",
+      "release_date": "1974-07-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.927,
+      "vote_count": 964
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7nxNnR9yftqVUoFvBdfr2akgu2A.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        80
+      ],
+      "id": 16938,
+      "title": "Black Christmas",
+      "original_language": "en",
+      "original_title": "Black Christmas",
+      "overview": "As the residents of the Pi Kappa Sigma sorority house prepare for the festive season, a stranger begins to harass them with a series of obscene phone calls.",
+      "popularity": 3.0921,
+      "poster_path": "/ym0QcbrKNujzDyAU1IHGYUdRWub.jpg",
+      "release_date": "1974-10-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.965,
+      "vote_count": 956
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/f7RD6xGAWnFxHYz88HQLEqtlDJ3.jpg",
+      "genre_ids": [
+        28,
+        35
+      ],
+      "id": 6916,
+      "title": "Watch Out, We're Mad",
+      "original_language": "it",
+      "original_title": "...altrimenti ci arrabbiamo!",
+      "overview": "After a tied 1st place in a local stunt race, two drivers start a contest to decide who of them will own the prize, a dune buggy. But when a mobster destroys the car, they are determined to get it back.",
+      "popularity": 2.6442,
+      "poster_path": "/oERikPHC3cr9UDCale6YrQxkyNW.jpg",
+      "release_date": "1974-03-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.45,
+      "vote_count": 899
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k5qXRqhCkzETnH0ktCtyBGR7pWz.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 24402,
+      "title": "Emmanuelle",
+      "original_language": "fr",
+      "original_title": "Emmanuelle",
+      "overview": "An employee at the French Embassy in Bangkok invites his wife to join him – and enjoy the benefits of their open marriage.",
+      "popularity": 6.0996,
+      "poster_path": "/kFq1ffM4ruQmWH6C3SjVWJoqMi6.jpg",
+      "release_date": "1974-06-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.971,
+      "vote_count": 823
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8KgVSZglXRO9Z71rUnhVAvYEmu5.jpg",
+      "genre_ids": [
+        35,
+        27,
+        10402
+      ],
+      "id": 27327,
+      "title": "Phantom of the Paradise",
+      "original_language": "en",
+      "original_title": "Phantom of the Paradise",
+      "overview": "Singer-songwriter Winslow Leach seeks revenge on the nefarious music producer Swan, who steals both Winslow's music and his favorite singer for the grand opening of Swan's new rock palace, the Paradise.",
+      "popularity": 4.0548,
+      "poster_path": "/qDOtGWeSQNwB3dG7Amt1K0JW0az.jpg",
+      "release_date": "1974-10-31",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.481,
+      "vote_count": 760
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2Kkqmy3EpXqBDqv1vvsNXX3pwww.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 42269,
+      "title": "We All Loved Each Other So Much",
+      "original_language": "it",
+      "original_title": "C'eravamo tanto amati",
+      "overview": "Three partisans bound by a strong friendship return home after the war, but the clash with everyday reality puts a strain on their bond.",
+      "popularity": 5.6454,
+      "poster_path": "/zGGWYpiKNwjpKxelPxOMqJnUgDs.jpg",
+      "release_date": "1974-12-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.277,
+      "vote_count": 657
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5I6yjyIKzAeQd5C1ynJnfWCK22u.jpg",
+      "genre_ids": [
+        35,
+        878
+      ],
+      "id": 1410,
+      "title": "Dark Star",
+      "original_language": "en",
+      "original_title": "Dark Star",
+      "overview": "A group of scientists are sent on a mission to destroy unstable planets. Twenty years into their mission, they have to battle their alien mascot as well as a \"sensitive\" and intelligent bombing device that starts to question the meaning of its existence.",
+      "popularity": 2.789,
+      "poster_path": "/aiqLBiH0IWrog2Q78dZTT8Ad9Sp.jpg",
+      "release_date": "1974-03-30",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.995,
+      "vote_count": 657
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gZeAboSvbuqTsKyhjDUHpHAUqBl.jpg",
+      "genre_ids": [
+        35,
+        28,
+        18,
+        12
+      ],
+      "id": 8348,
+      "title": "Thunderbolt and Lightfoot",
+      "original_language": "en",
+      "original_title": "Thunderbolt and Lightfoot",
+      "overview": "With the help of an irreverent young sidekick, a bank robber gets his old gang back together to organise a daring new heist.",
+      "popularity": 3.2626,
+      "poster_path": "/530RZ2HsxAgKVO4joNFjAgucbri.jpg",
+      "release_date": "1974-05-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.789,
+      "vote_count": 654
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wDLUp63wIE6NeWHAcJkCijhI3M8.jpg",
+      "genre_ids": [
+        80,
+        53,
+        28
+      ],
+      "id": 8333,
+      "title": "The Taking of Pelham One Two Three",
+      "original_language": "en",
+      "original_title": "The Taking of Pelham One Two Three",
+      "overview": "In New York, armed men hijack a subway car and demand a ransom for the passengers while the authorities question about the method of their escape.",
+      "popularity": 2.2759,
+      "poster_path": "/vNhywp9w1DVG6BytxKp4kjtaaGC.jpg",
+      "release_date": "1974-10-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 633
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uOLcJJYZ3hbFSrKQPDaLhrYnjUv.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 29845,
+      "title": "A Woman Under the Influence",
+      "original_language": "en",
+      "original_title": "A Woman Under the Influence",
+      "overview": "Mabel Longhetti, desperate and lonely, is married to a Los Angeles municipal construction worker, Nick. Increasingly unstable, especially in the company of others, she craves happiness, but her extremely volatile behavior convinces Nick that she poses a danger to their family and decides to commit her to an institution for six months. Alone with a trio of kids to raise on his own, he awaits her return, which holds more than a few surprises.",
+      "popularity": 2.5415,
+      "poster_path": "/6EJ4JoTxnH1QmGTE9pPzgtW1cLW.jpg",
+      "release_date": "1974-11-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 563
+    }
+  ],
+  "total_pages": 6,
+  "total_results": 101
+}

@@ -1,0 +1,424 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/en971MEXui9diirXlogOrPKmsEn.jpg",
+      "genre_ids": [
+        28,
+        12,
+        35
+      ],
+      "id": 293660,
+      "title": "Deadpool",
+      "original_language": "en",
+      "original_title": "Deadpool",
+      "overview": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+      "popularity": 23.9463,
+      "poster_path": "/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
+      "release_date": "2016-02-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.624,
+      "vote_count": 32968
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wdwcOBMkt3zmPQuEMxB3FUtMio2.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "id": 271110,
+      "title": "Captain America: Civil War",
+      "original_language": "en",
+      "original_title": "Captain America: Civil War",
+      "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+      "popularity": 36.6453,
+      "poster_path": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "release_date": "2016-04-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.45,
+      "vote_count": 24213
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kkoiH8ZWxJ9WSAjOadGtuHUQxbm.jpg",
+      "genre_ids": [
+        14,
+        12,
+        28
+      ],
+      "id": 284052,
+      "title": "Doctor Strange",
+      "original_language": "en",
+      "original_title": "Doctor Strange",
+      "overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+      "popularity": 24.1637,
+      "poster_path": "/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+      "release_date": "2016-10-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.424,
+      "vote_count": 23603
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8XyX5Us7uzwQdXtAdnhCB9Gquek.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 297761,
+      "title": "Suicide Squad",
+      "original_language": "en",
+      "original_title": "Suicide Squad",
+      "overview": "From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervillains who act as deniable assets for the United States government, undertaking high-risk black ops missions in exchange for commuted prison sentences.",
+      "popularity": 11.1284,
+      "poster_path": "/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
+      "release_date": "2016-08-03",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.917,
+      "vote_count": 22235
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8Qsr8pvDL3s1jNZQ4HK1d1Xlvnh.jpg",
+      "genre_ids": [
+        14,
+        12
+      ],
+      "id": 259316,
+      "title": "Fantastic Beasts and Where to Find Them",
+      "original_language": "en",
+      "original_title": "Fantastic Beasts and Where to Find Them",
+      "overview": "In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.",
+      "popularity": 19.2021,
+      "poster_path": "/fLsaFKExQt05yqjoAvKsmOMYvJR.jpg",
+      "release_date": "2016-11-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.309,
+      "vote_count": 19819
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8MUZz7oPXQftFTslZpRP3CVMOoq.jpg",
+      "genre_ids": [
+        18,
+        878,
+        9648
+      ],
+      "id": 329865,
+      "title": "Arrival",
+      "original_language": "en",
+      "original_title": "Arrival",
+      "overview": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+      "popularity": 20.2266,
+      "poster_path": "/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+      "release_date": "2016-11-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.631,
+      "vote_count": 19585
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5fX1oSGuYdKgwWmUTAN5MNSQGzr.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 209112,
+      "title": "Batman v Superman: Dawn of Justice",
+      "original_language": "en",
+      "original_title": "Batman v Superman: Dawn of Justice",
+      "overview": "Fearing the actions of a god-like Super Hero left unchecked, Gotham City’s own formidable, forceful vigilante takes on Metropolis’s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it’s ever known before.",
+      "popularity": 16.9028,
+      "poster_path": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+      "release_date": "2016-03-23",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.006,
+      "vote_count": 19157
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
+      "genre_ids": [
+        16,
+        12,
+        10751,
+        35
+      ],
+      "id": 269149,
+      "title": "Zootopia",
+      "original_language": "en",
+      "original_title": "Zootopia",
+      "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+      "popularity": 25.7237,
+      "poster_path": "/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+      "release_date": "2016-02-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.765,
+      "vote_count": 18307
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "id": 313369,
+      "title": "La La Land",
+      "original_language": "en",
+      "original_title": "La La Land",
+      "overview": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+      "popularity": 22.0118,
+      "poster_path": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "release_date": "2016-12-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 18262
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 330459,
+      "title": "Rogue One: A Star Wars Story",
+      "original_language": "en",
+      "original_title": "Rogue One: A Star Wars Story",
+      "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
+      "popularity": 11.3718,
+      "poster_path": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+      "release_date": "2016-12-14",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.509,
+      "vote_count": 16550
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vDKRMZGFTKP9nQolzeSB1rB1w6p.jpg",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "id": 324786,
+      "title": "Hacksaw Ridge",
+      "original_language": "en",
+      "original_title": "Hacksaw Ridge",
+      "overview": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
+      "popularity": 27.2381,
+      "poster_path": "/fnOMP6mjmOmZwmlC1n0K7ivrzt1.jpg",
+      "release_date": "2016-10-07",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.193,
+      "vote_count": 15038
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gHz4ZQytRs8YGrqFMwB3Vrr8pig.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        878
+      ],
+      "id": 274870,
+      "title": "Passengers",
+      "original_language": "en",
+      "original_title": "Passengers",
+      "overview": "A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.",
+      "popularity": 7.6667,
+      "poster_path": "/jK9S6HANSf2no64v1x1HxfcpmcA.jpg",
+      "release_date": "2016-12-21",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.957,
+      "vote_count": 14350
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sTQNRqLbfCXolrb5CizAW1dj528.jpg",
+      "genre_ids": [
+        878,
+        14,
+        28
+      ],
+      "id": 246655,
+      "title": "X-Men: Apocalypse",
+      "original_language": "en",
+      "original_title": "X-Men: Apocalypse",
+      "overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
+      "popularity": 19.8222,
+      "poster_path": "/ikA8UhYdTGpqbatFa93nIf6noSr.jpg",
+      "release_date": "2016-05-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.527,
+      "vote_count": 13895
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qLVNZFHYUR6Li64He67SWl6BHQe.jpg",
+      "genre_ids": [
+        12,
+        35,
+        10751,
+        16
+      ],
+      "id": 277834,
+      "title": "Moana",
+      "original_language": "en",
+      "original_title": "Moana",
+      "overview": "In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain's daughter's island, she answers the Ocean's call to seek out the demigod to set things right.",
+      "popularity": 7.4721,
+      "poster_path": "/m5MDZOIFEFlxGiLuAzWzFSsWcye.jpg",
+      "release_date": "2016-10-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.566,
+      "vote_count": 13868
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3WK7p9EdZmmvB1IbB2Vw9Rf4lXH.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 296096,
+      "title": "Me Before You",
+      "original_language": "en",
+      "original_title": "Me Before You",
+      "overview": "Lou Clark, a directionless 26-year-old from the English countryside, takes a job at the local castle as a caregiver and companion to a wealthy young banker, Will Traynor. Wheelchair-bound from an accident two years prior, the once adventurous Will has all but given up — that is until Lou determines to show him that life is worth living.",
+      "popularity": 18.0197,
+      "poster_path": "/Ia3dzj5LnCj1ZBdlVeJrbKJQxG.jpg",
+      "release_date": "2016-06-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.929,
+      "vote_count": 13410
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wijltj1toRcicHlCn8Cpsp4yPXe.jpg",
+      "genre_ids": [
+        12,
+        16,
+        10751
+      ],
+      "id": 127380,
+      "title": "Finding Dory",
+      "original_language": "en",
+      "original_title": "Finding Dory",
+      "overview": "Dory is reunited with her friends Nemo and Marlin in the search for answers about her past. What can she remember? Who are her parents? And where did she learn to speak Whale?",
+      "popularity": 10.4439,
+      "poster_path": "/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg",
+      "release_date": "2016-06-16",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.042,
+      "vote_count": 12737
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg",
+      "genre_ids": [
+        16,
+        10749,
+        18
+      ],
+      "id": 372058,
+      "title": "Your Name.",
+      "original_language": "ja",
+      "original_title": "君の名は。",
+      "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
+      "popularity": 25.8397,
+      "poster_path": "/q719jXXEzOoYaps6babgKnONONX.jpg",
+      "release_date": "2016-07-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 12732
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oFQilRMEq6yQbtMPxIYWpXeQ5ZN.jpg",
+      "genre_ids": [
+        80,
+        53
+      ],
+      "id": 291805,
+      "title": "Now You See Me 2",
+      "original_language": "en",
+      "original_title": "Now You See Me 2",
+      "overview": "One year after outwitting the FBI and winning the public’s adulation with their mind-bending spectacles, the Four Horsemen resurface only to find themselves face to face with a new enemy who enlists them to pull off their most dangerous heist yet.",
+      "popularity": 11.8329,
+      "poster_path": "/A81kDB6a1K86YLlcOtZB27jriJh.jpg",
+      "release_date": "2016-06-02",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.825,
+      "vote_count": 11685
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ld7V9BjMk2xtiBNcR8savyyk5ca.jpg",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "id": 283366,
+      "title": "Miss Peregrine's Home for Peculiar Children",
+      "original_language": "en",
+      "original_title": "Miss Peregrine's Home for Peculiar Children",
+      "overview": "A teenager finds himself transported to an island where he must help protect a group of orphans with special powers from creatures intent on destroying them.",
+      "popularity": 9.333,
+      "poster_path": "/CIlbMFOfYDj0MP23hsIYhFGrL6.jpg",
+      "release_date": "2016-09-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.84,
+      "vote_count": 10544
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rfkIeCaIHhN3K5wjJJqKmfUjYp8.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 381284,
+      "title": "Hidden Figures",
+      "original_language": "en",
+      "original_title": "Hidden Figures",
+      "overview": "The untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson – brilliant African-American women working at NASA and serving as the brains behind one of the greatest operations in history – the launch of astronaut John Glenn into orbit. The visionary trio crossed all gender and race lines to inspire generations to dream big.",
+      "popularity": 16.4366,
+      "poster_path": "/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
+      "release_date": "2016-12-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.045,
+      "vote_count": 10534
+    }
+  ],
+  "total_pages": 44,
+  "total_results": 864
+}
