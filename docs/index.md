@@ -4,4 +4,10 @@
 
 - [Your GitHub username](./your-github-username.md)
 
+<<<<<<< HEAD
 ![](the-london-school-of-economics-and-political-science-lse.jpg)
+=======
+- Hello Jonas. 
+
+LSE FINAL PROJECT
+>>>>>>> f576f61829bce78941685be6f7549a9ddaa9aa63
