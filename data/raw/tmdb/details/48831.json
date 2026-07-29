@@ -1,0 +1,104 @@
+{
+  "adult": false,
+  "backdrop_path": "/zNMMKmyZ2W5viK2iqbsRfaQIa2u.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 48831,
+  "imdb_id": "tt0064612",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Ma nuit chez Maud",
+  "overview": "The Catholic Jean-Louis runs into an old friend, the Marxist Vidal, in Clermont-Ferrand around Christmas. Vidal introduces Jean-Louis to the modestly libertine, recently divorced Maud and the three engage in conversation on religion, atheism, love, morality and Blaise Pascal's life and writings on philosophy, faith and mathematics. Jean-Louis ends up spending a night at Maud's. Jean-Louis' Catholic views on marriage, fidelity and obligation make his situation a dilemma, as he has already, at the very beginning of the film, proclaimed his love for a young woman whom, however, he has never yet spoken to.",
+  "popularity": 1.3463,
+  "poster_path": "/9usKgth3ROn4LwPQ7tTvxKnpBGL.jpg",
+  "production_companies": [
+    {
+      "id": 745,
+      "logo_path": null,
+      "name": "Les Films de la Pléiade",
+      "origin_country": "FR"
+    },
+    {
+      "id": 76822,
+      "logo_path": null,
+      "name": "Les Films des deux mondes",
+      "origin_country": "FR"
+    },
+    {
+      "id": 53,
+      "logo_path": "/3cWJikm9MdWCMKdatuk8gDTa5xy.png",
+      "name": "Les Films du Carrosse",
+      "origin_country": "FR"
+    },
+    {
+      "id": 223,
+      "logo_path": "/pdthRbCuXNlrGNwnmLFRxv5Zy3t.png",
+      "name": "Les Films du Losange",
+      "origin_country": "FR"
+    },
+    {
+      "id": 17873,
+      "logo_path": null,
+      "name": "Les Productions de la Guéville",
+      "origin_country": "FR"
+    },
+    {
+      "id": 82,
+      "logo_path": null,
+      "name": "Renn Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 21466,
+      "logo_path": null,
+      "name": "Simar Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 6849,
+      "logo_path": "/AjdOGHRLAhWbP1aAga85A9EOfD2.png",
+      "name": "SFP",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1969-06-04",
+  "revenue": 0,
+  "runtime": 110,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "My Night at Maud's",
+  "video": false,
+  "vote_average": 7.63,
+  "vote_count": 359
+}

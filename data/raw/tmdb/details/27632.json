@@ -1,0 +1,60 @@
+{
+  "adult": false,
+  "backdrop_path": "/wKzY5EGRweXc91eBs1jk9ZSXcp0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 27632,
+  "imdb_id": "tt0054067",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "La maschera del demonio",
+  "overview": "A vengeful witch, Asa Vajda, and her fiendish servant, Igor Jauvitch, return from the grave and begin a bloody campaign to possess the body of the witch's beautiful look-alike descendant: Katia. Only a handsome doctor with the help of family members stand in her way.",
+  "popularity": 2.2406,
+  "poster_path": "/x41Zx8GeZhducquhOq9nE7z1GBG.jpg",
+  "production_companies": [
+    {
+      "id": 12240,
+      "logo_path": null,
+      "name": "Galatea Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 10481,
+      "logo_path": null,
+      "name": "Jolly Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1960-08-11",
+  "revenue": 0,
+  "runtime": 86,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "STARE INTO THESE EYES...Discover deep within them the unspeakable, terrifying secret of BLACK SUNDAY...It will paralyze you with fright!",
+  "title": "Black Sunday",
+  "video": false,
+  "vote_average": 7.385,
+  "vote_count": 597
+}
