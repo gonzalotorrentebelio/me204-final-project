@@ -4,4 +4,6 @@
 
 - [Your GitHub username](./your-github-username.md)
 
-- Hello Jonas
+- Hello Jonas. 
+
+LSE FINAL PROJECT
