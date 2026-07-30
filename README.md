@@ -1,9 +1,10 @@
-# ME204 Final Project: [Your project title]
+# ME204 Final Project: [How have the most popular movies changed across the decades (1960-2020) in terms of genres, runtime, and rating?
+]
 
 
 | GitHub username                           | LSE ID            |
 | ----------------------------------------- | ----------------- |
-| `[username]`                              | `[LSE ID]`        |
+| `gonzalotorrentebelio`                    | `250099860`       |
 | `[second username, if working in a pair]` | `[second LSE ID]` |
 
 
