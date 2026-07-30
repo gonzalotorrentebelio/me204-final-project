@@ -1,13 +1,15 @@
-# ME204 Final Project
+# ME204 Final Project — How Popular Movies Changed, 1960–2020
 
-[use just and index.md if working solo, but if working with others, add links to their invidiual pages like below]
+This project uses data from [The Movie Database (TMDB)](https://www.themoviedb.org/) to ask one focused question:
 
-- [Your GitHub username](./your-github-username.md)
+> **How have the most popular movies changed across the decades (1960–2020) in terms of genres, runtime, and rating?**
 
-<<<<<<< HEAD
-![](the-london-school-of-economics-and-political-science-lse.jpg)
-=======
-- Hello Jonas. 
+Drawing on the 1,220 most-voted films across six decades, the analysis finds that popular cinema changed in **form, not in favour**: the genre mix flipped from drama to action, runtimes climbed to a peak in the 2010s, yet average audience ratings barely moved.
 
-LSE FINAL PROJECT
->>>>>>> f576f61829bce78941685be6f7549a9ddaa9aa63
+## Individual pages
+
+- [gonzalotorrentebelio](gonzalotorrentebelio.md) — full findings and discussion.
+
+## How the project is built
+
+The pipeline runs in three steps: collect the raw data from the TMDB API (NB01), prepare tidy tables (NB02), and explore them for findings (NB03). See the project [README](https://github.com/gonzalotorrentebelio/me204-final-project) for setup and reproduction instructions.
