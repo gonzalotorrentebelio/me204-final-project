@@ -4,7 +4,7 @@
 | GitHub username                           | LSE ID            |
 | ----------------------------------------- | ----------------- |
 | `gonzalotorrentebelio`                    | `250099860`       |
-| `[second username, if working in a pair]` | `[second LSE ID]` |
+
 
 
 Remove the unused row if you work alone.
@@ -36,7 +36,15 @@ No static/manually-downloaded dataset is used; the API is the sole and main sour
 
 This product uses the TMDB API but is not endorsed or certified by TMDB.
 
-## Credentials
+## Setting up the environment
+
+I used Python 3.10. To install what the notebooks need:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Making a key
 
 1. Create a free account at [themoviedb.org](https://www.themoviedb.org/) and request an API key: Settings → API → Request an API Key (Developer).
 2. Copy `.env.example` to `.env` and paste your key:
@@ -64,9 +72,4 @@ The `docs/gonzalotorrentebelio.md` page embeds the figures from `docs/assets/`, 
 
 ## AI use
 
-Generative AI (claude) was used for:
- - Complete the README.md from my initial draft
- - Coding, such as the function `print`, in order to look more organized
- - Coding, specially for NB02.3 and NB01.3 or graphs
- - Translation
- - Project structure
+I used Claude while working on this. Mainly to help finish the README from my own draft, to tidy up some of the code (helper functions, print formatting, the plots), for translation, and to sort out the folder structure. I checked the code myself and confirmed every number in the findings against my own data, so the analysis and the conclusions are mine.
