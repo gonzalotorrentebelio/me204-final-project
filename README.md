@@ -55,14 +55,17 @@ pip install -r requirements.txt
 
 `.env` is git-ignored, so the real key is never committed. `.env.example` shows the required variable without any secret.
 
-## Publish the website (GitHub Pages)
+## Order to run things
 
-1. On GitHub: Settings → Pages.
-2. Under Build and deployment, choose Deploy from a branch.
-3. Select the `main` branch and the `/docs` folder, then save.
-4. Open the published site and confirm that `index.md` links to the individual page.
+Run the notebooks top to bottom, and in this order (I usually do Restart Kernel then Run All so the cell numbers come out clean):
 
-The `docs/gonzalotorrentebelio.md` page embeds the figures from `docs/assets/`, so run NB03 and commit the generated images before publishing.
+| Order | File | Reads | Does | Writes |
+| ----- | ---- | ----- | ---- | ------ |
+| 1 | `notebooks/NB01-Data-Collection.ipynb` | TMDB API (needs `.env`) | Collects the genres, the most-voted movies per year, and the details of each movie | Raw JSON in `data/raw/tmdb/` |
+| 2 | `notebooks/NB02-Data-Transformation.ipynb` | `data/raw/tmdb/` | Cleans the raw files into two tidy tables, one row per movie and one row per movie-genre (using `explode`) | `data/processed/movies.csv`, `data/processed/movie_genres.csv` |
+| 3 | `notebooks/NB03-gonzalotorrentebelio-Data-Analysis.ipynb` | `data/processed/` | Explores runtime, genres and ratings by decade | Figures in `docs/assets/`, plus the printed findings |
+
+NB01 and NB02 can be re-run safely. If a file is already on disk they just reuse it instead of downloading again.
 
 ## Notes on decisions
 
